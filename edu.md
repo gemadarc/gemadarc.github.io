@@ -24,3 +24,21 @@ To achieve these objectives, PIRE-GEMADARC intends to:
 * Develop early career researchers for leadership positions.
 * Ensure effective international coordination and international travel logistics and protocols logistics.
 
+PIRE-GEMADARC will support global, experience-based international study at the Consortium's worldclass
+facilities in China, Canada, Germany, and Taiwan. We emphasize a problem-based rather than the
+more conventional discipline-oriented approach. This approach is designed to promote teamwork and
+communication skills and ensure coherence and rigor in training. Graduate and undergraduate students
+from 6 U.S. institutions (TTU, BHSU, UMN, UNC, TAMU, and USD) as well as K-12 teachers will be
+simultaneously engaged in this international cooperative learning enterprise. The following Table shows the number of
+students and K-12 teachers to be trained annually.
+
+|             |           |   **Year 1**  |   **Year 2**  |   **Year 3**  |   **Year 4**  |   **Year 5**  |         |
+Funding Source|Institution|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|**Total**|
+|------------ | ----------| --------------|---------------|---------------|---------------|---------------|---------|
+
+
+
+
+
+
+

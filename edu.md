@@ -24,4 +24,3 @@ To achieve these objectives, PIRE-GEMADARC intends to:
 * Develop early career researchers for leadership positions.
 * Ensure effective international coordination and international travel logistics and protocols logistics.
 
-Our education programencompasses all Consortium institutions.

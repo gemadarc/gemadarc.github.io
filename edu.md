@@ -15,3 +15,16 @@ community, develop international collaborations and cultivate interactions betwe
 of different academic departments.
 
 3. Collaboration capacity: strengthen collaboration ability to foster new scientists and young leaders in Ge detectors and technology resulting in new applications.
+
+To achieve these objectives, PIRE-GEMADARC intends to:
+* create an integrated curriculum and advising
+program.
+* support international research projects.
+* implement an effective international study
+and learning
+* recruit and retain graduate and undergraduate students under-represented in STEM as
+well as K-12
+* develop early career researchers for leadership positions
+* ensure effective international coordination and international travel logistics and protocols logistics.
+
+Our education programencompasses all Consortium institutions.

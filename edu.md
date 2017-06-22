@@ -29,12 +29,12 @@ facilities in China, Canada, Germany, and Taiwan. We emphasize a problem-based r
 more conventional discipline-oriented approach. This approach is designed to promote teamwork and
 communication skills and ensure coherence and rigor in training. Graduate and undergraduate students
 from 6 U.S. institutions (TTU, BHSU, UMN, UNC, TAMU, and USD) as well as K-12 teachers will be
-simultaneously engaged in this international cooperative learning enterprise. The following Table shows the number of
+simultaneously engaged in this international cooperative learning enterprise. Table 1 shows the number of
 students and K-12 teachers to be trained annually.
 
 
 <table>
-<caption>PIRE-GEMADARC education planning for students (graduate and undergraduate) and K-12 teachers. </caption>
+<caption>Table 1:PIRE-GEMADARC education planning for students (graduate and undergraduate) and K-12 teachers.</caption>
 <tr>
 <th rowspan="2"> Funding Source </th>
 <th rowspan="2"> Institution </th>

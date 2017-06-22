@@ -29,29 +29,9 @@ facilities in China, Canada, Germany, and Taiwan. We emphasize a problem-based r
 more conventional discipline-oriented approach. This approach is designed to promote teamwork and
 communication skills and ensure coherence and rigor in training. Graduate and undergraduate students
 from 6 U.S. institutions (TTU, BHSU, UMN, UNC, TAMU, and USD) as well as K-12 teachers will be
-simultaneously engaged in this international cooperative learning enterprise. The following Table 1-6 shows the number of
+simultaneously engaged in this international cooperative learning enterprise. The following Table shows the number of
 students and K-12 teachers to be trained annually.
 
-
-|Year|Graduate|Undergraduate|K-12|
-|----|--------|-------------|----|
-| 1  |        |      2      |  2 | 
-| 2  |        |      2      |  2 | 
-| 3  |        |      2      |  2 | 
-| 4  |        |      2      |  2 | 
-| 5  |        |      2      |  2 | 
-
-Table 1: The number of students from BHSU and K-12 teachers to be trained annually.
-
-|Year|Graduate|Undergraduate|K-12|
-|----|--------|-------------|----|
-| 1  |        |             |    | 
-| 2  |    1   |      2      |    | 
-| 3  |    2   |      2      |    | 
-| 4  |    2   |      2      |    | 
-| 5  |    2   |      2      |    |
-
-Table 2: The number of students from TAMU and K-12 teachers to be trained annually.
 
 <table>
 <tr>
@@ -370,7 +350,7 @@ Table 2: The number of students from TAMU and K-12 teachers to be trained annual
 </tr>
 
 <tr>
-<td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers </td>
+<td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers. </td>
 </tr>
 
 </table>

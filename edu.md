@@ -357,7 +357,7 @@ students and K-12 teachers to be trained annually.
 
 </table>
 
-## Plans for Early Career Faculty and Postdocs
+### Plans for Early Career Faculty and Postdocs
 PIRE-GEMADARC is committed to junior faculty development: Six (40%) of our domestic investigators
 are early career. These include Kidd, Mount, Liu, Sander, Xu, and Wang. Among them, Xu is a first-year
 new faculty hire. Liu, Mount, Sander, Xu, and Wang are task leaders and will report directly to PI Mei. In support of our institutions’ significant investment in research infrastructure to attract and

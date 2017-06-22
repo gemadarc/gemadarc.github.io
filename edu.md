@@ -32,9 +32,9 @@ from 6 U.S. institutions (TTU, BHSU, UMN, UNC, TAMU, and USD) as well as K-12 te
 simultaneously engaged in this international cooperative learning enterprise. The following Table shows the number of
 students and K-12 teachers to be trained annually.
 
-|              |           |   **Year 1**  |   **Year 2**  |   **Year 3**  |   **Year 4**  |   **Year 5**  |         ||
- Funding Source|Institution|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|**Total**|
-------------   | ----------| --------------|---------------|---------------|---------------|---------------|---------|
+
+ Funding Source|Institution|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|Grad.|Und.|K-12|**Total**
+ --------------| ----------| ----|----|----|-----|----|----|-----|----|----|-----|----|----|-----|----|----|---------
 
 
 

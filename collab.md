@@ -10,15 +10,15 @@
 - **Senior Personnel**: Joel Sander, Wenqin Xu, Guojian Wang, Jing Liu
 - **Graduate Student**: Mitchell Wagner, Wenzhao Wei
 
-<div class="container-fluid">
-  <h1>U.S.A.</h1>
-  <div class="row clearfix">
+
+# U.S.A.
+
+<div class="container">
     <div class="well">
     <a href="#"><img class="media-object" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt=""></a>
     <h3>The University of South Dakota</h3>
     <p><b>Principle Investigator</b>: Dongming Mei </p>
     </div>
-  </div>
 </div>
 
 

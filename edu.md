@@ -370,7 +370,7 @@ Table 2: The number of students from TAMU and K-12 teachers to be trained annual
 </tr>
 
 <tr>
-<td colspan="18"> Grad.:Graduate Students; Und.:Undergraduate Students; K-12:K-12 teachers</td>
+<td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers </td>
 </tr>
 
 </table>

@@ -58,9 +58,30 @@ Table 2: The number of students from TAMU and K-12 teachers to be trained annual
 <th rowspan="2"> Funding Source </th>
 <th rowspan="2"> Institution </th>
 <th colspan="3"> Year 1</th>
+<th colspan="3"> Year 2</th>
+<th colspan="3"> Year 3</th>
+<th colspan="3"> Year 4</th>
+<th colspan="3"> Year 5</th>
+<th rowspan="2"> Total </th>
 </tr>
 
 <tr>
+<th>Grad.</th>
+<th>Und.</th>
+<th>K-12</th>
+
+<th>Grad.</th>
+<th>Und.</th>
+<th>K-12</th>
+
+<th>Grad.</th>
+<th>Und.</th>
+<th>K-12</th>
+
+<th>Grad.</th>
+<th>Und.</th>
+<th>K-12</th>
+
 <th>Grad.</th>
 <th>Und.</th>
 <th>K-12</th>

@@ -42,14 +42,14 @@
 - **Senior Personnel**: Mary Kidd
 
 # Canada
-
+***
 ## Queen's University
 
 
 - **Senior Personnel**: Ryan Martin, Wolfgang Rau
 
 # China
-
+***
 ## Tsinghua University
 
 
@@ -57,14 +57,15 @@
 - **Senior Personnel**: Jianmin Li, Yulan Li
 
 # Germany
-
+***
 ## Max-Planck-Institut für Physik
 
 
 - **Principle Investigator**: Iris Abt
 - **Senior Personnel**: Béla Majorovits
-# Taiwan
 
+# Taiwan
+***
 ## Institute of Physics, Academic Sinica
 
 

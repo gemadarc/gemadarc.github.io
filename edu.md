@@ -24,7 +24,7 @@ To achieve these objectives, PIRE-GEMADARC intends to:
 * Develop early career researchers for leadership positions.
 * Ensure effective international coordination and international travel logistics and protocols logistics.
 
-## Internation Study and Learning for Students and K-12 Teachers
+### Internation Study and Learning for Students and K-12 Teachers
 PIRE-GEMADARC will support global, experience-based international study at the Consortium's worldclass
 facilities in China, Canada, Germany, and Taiwan. We emphasize a problem-based rather than the
 more conventional discipline-oriented approach. This approach is designed to promote teamwork and

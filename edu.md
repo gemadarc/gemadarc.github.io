@@ -24,6 +24,7 @@ To achieve these objectives, PIRE-GEMADARC intends to:
 * Develop early career researchers for leadership positions.
 * Ensure effective international coordination and international travel logistics and protocols logistics.
 
+**Internation Study and Learning for Students and K-12 Teachers**
 PIRE-GEMADARC will support global, experience-based international study at the Consortium's worldclass
 facilities in China, Canada, Germany, and Taiwan. We emphasize a problem-based rather than the
 more conventional discipline-oriented approach. This approach is designed to promote teamwork and
@@ -356,3 +357,19 @@ students and K-12 teachers to be trained annually.
 
 </table>
 
+**Plans for Early Career Faculty and Postdocs**
+PIRE-GEMADARC is committed to junior faculty development: Six (40%) of our domestic investigators
+are early career. These include Kidd, Mount, Liu, Sander, Xu, and Wang. Among them, Xu is a first-year
+new faculty hire. Liu, Mount, Sander, Xu, and Wang are task leaders and will report directly to PI Mei. In support of our institutions’ significant investment in research infrastructure to attract and
+retain junior faculty, the goal of the Consortium's Junior Faculty Development Program is to successfully
+promote the development and advancement of our early career faculty. 
+
+Program aims are:
+* Nurture and cultivate junior faculty to become the next generation of academic leaders.
+* Retain homegrown faculty talent through concerted efforts to continuously build and expand professional skills. 
+
+PIREGEMADARC will create a senior committee to provide career assistance to each faculty member. The
+Committee, comprised of Mei, Wilkerson, Harris, Abt, Majorovits, Yue, and Wong, will work with each
+early career investigator to improve their research and leadership skills. Finally, PIRE-GEMADARC's
+“Postdoctoral Fellow to Faculty” transition program will provide a supportive mentored experience for
+postdoctoral researchers in Physics at the participating institutions.

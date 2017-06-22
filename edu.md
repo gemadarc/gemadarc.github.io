@@ -43,3 +43,13 @@ students and K-12 teachers to be trained annually.
 
 Table 1: The number of students from BHSU and K-12 teachers to be trained annually.
 
+|Year|Graduate|Undergraduate|K-12|
+|----|--------|-------------|----|
+| 1  |        |             |    | 
+| 2  |    1   |      2      |    | 
+| 3  |    2   |      2      |    | 
+| 4  |    2   |      2      |    | 
+| 5  |    2   |      2      |    |
+
+Table 2: The number of students from TAMU and K-12 teachers to be trained annually.
+

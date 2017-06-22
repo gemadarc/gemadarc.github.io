@@ -33,19 +33,9 @@ from 6 U.S. institutions (TTU, BHSU, UMN, UNC, TAMU, and USD) as well as K-12 te
 simultaneously engaged in this international cooperative learning enterprise. Table 1 shows the number of
 students and K-12 teachers to be trained annually.
 
-<style>
-thead {color:green;}
-tbody {color:blue;}
-tfoot {color:red;}
-
-table, th, td {
-    border: 1px solid black;
-}
-</style>
-
 <table>
 <caption>Table 1:PIRE-GEMADARC education planning for students (graduate and undergraduate) and K-12 teachers.</caption>
-<thead>
+
 <tr>
 <th rowspan="2"> Funding Source </th>
 <th rowspan="2"> Institution </th>
@@ -78,9 +68,7 @@ table, th, td {
 <th>Und.</th>
 <th>K-12</th>
 </tr>
-</thead>
 
-<tbody>
 <tr>
 <th rowspan="7"> PIER Direct Funding </th>
 <th> BHSU </th>
@@ -362,13 +350,10 @@ table, th, td {
 <th> 2 </th>
 <th> 174 </th>
 </tr>
-</tbody>
 
-<tfoot>
 <tr>
 <td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers. </td>
 </tr>
-</tfoot>
 
 </table>
 

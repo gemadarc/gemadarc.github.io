@@ -53,3 +53,18 @@ Table 1: The number of students from BHSU and K-12 teachers to be trained annual
 
 Table 2: The number of students from TAMU and K-12 teachers to be trained annually.
 
+<table>
+<tr>
+<th rowspan="2"> Funding Source <\th>
+<th rowspan="2"> Institution <\th>
+<th colspan="3"> Year 1<\th>
+<\tr>
+
+<tr>
+<th>Grad.<\th>
+<th>Und.<\th>
+<th>K-12<\th>
+<\tr>
+
+</table>
+

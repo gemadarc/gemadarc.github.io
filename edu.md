@@ -35,6 +35,7 @@ students and K-12 teachers to be trained annually.
 
 <table>
 <caption>Table 1:PIRE-GEMADARC education planning for students (graduate and undergraduate) and K-12 teachers.</caption>
+<thead>
 <tr>
 <th rowspan="2"> Funding Source </th>
 <th rowspan="2"> Institution </th>
@@ -67,7 +68,9 @@ students and K-12 teachers to be trained annually.
 <th>Und.</th>
 <th>K-12</th>
 </tr>
+</thead>
 
+<tbody>
 <tr>
 <th rowspan="7"> PIER Direct Funding </th>
 <th> BHSU </th>
@@ -349,6 +352,7 @@ students and K-12 teachers to be trained annually.
 <th> 2 </th>
 <th> 174 </th>
 </tr>
+</tbody>
 
 <tfoot>
 <tr>
@@ -369,7 +373,7 @@ Program aims are:
 * Nurture and cultivate junior faculty to become the next generation of academic leaders.
 * Retain homegrown faculty talent through concerted efforts to continuously build and expand professional skills. 
 
-PIREGEMADARC will create a senior committee to provide career assistance to each faculty member. The
+PIRE-GEMADARC will create a senior committee to provide career assistance to each faculty member. The
 Committee, comprised of Mei, Wilkerson, Harris, Abt, Majorovits, Yue, and Wong, will work with each
 early career investigator to improve their research and leadership skills. Finally, PIRE-GEMADARC's
 “Postdoctoral Fellow to Faculty” transition program will provide a supportive mentored experience for

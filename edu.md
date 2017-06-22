@@ -34,10 +34,6 @@ simultaneously engaged in this international cooperative learning enterprise. Ta
 students and K-12 teachers to be trained annually.
 
 <style>
-thead {color:green;}
-tbody {color:blue;}
-tfoot {color:gray;}
-
 table, th, td {
     border: 1px solid black;
 }

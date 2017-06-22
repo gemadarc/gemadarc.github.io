@@ -41,7 +41,7 @@ table, th, td {
 
 <table>
 <caption>Table 1:PIRE-GEMADARC education planning for students (graduate and undergraduate) and K-12 teachers.</caption>
-<thead>
+
 <tr>
 <th rowspan="2"> Funding Source </th>
 <th rowspan="2"> Institution </th>
@@ -52,9 +52,7 @@ table, th, td {
 <th colspan="3"> Year 5</th>
 <th rowspan="2"> Total </th>
 </tr>
-</thead>
 
-<tbody>
 <tr>
 <th>Grad.</th>
 <th>Und.</th>
@@ -358,13 +356,10 @@ table, th, td {
 <th> 2 </th>
 <th> 174 </th>
 </tr>
-</tbody>
 
-<tfoot>
 <tr>
 <td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers. </td>
 </tr>
-</tfoot>
 
 </table>
 

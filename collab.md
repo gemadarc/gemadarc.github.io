@@ -13,7 +13,7 @@
 <div class="container-fluid">
   <h1>U.S.A.</h1>
   <div class="row clearfix">
-    <div class="col-md-4 col-sm-6">
+    <div class="well">
     <a href="#"><img class="media-object" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt=""></a>
     <h3>The University of South Dakota</h3>
     <p><b>Principle Investigator</b>: Dongming Mei </p>

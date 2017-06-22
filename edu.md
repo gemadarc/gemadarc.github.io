@@ -34,12 +34,13 @@ simultaneously engaged in this international cooperative learning enterprise. Ta
 students and K-12 teachers to be trained annually.
 
 <html>
+<head>
 <style>
 table, th, td {
     border: 1px solid black;
 }
-
 </style>
+</head>
 
 <body>
 <table>

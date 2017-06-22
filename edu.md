@@ -350,9 +350,11 @@ students and K-12 teachers to be trained annually.
 <th> 174 </th>
 </tr>
 
+<tfoot>
 <tr>
 <td colspan="18"> Grad.: Graduate Students; Und.: Undergraduate Students; K-12: K-12 teachers. </td>
 </tr>
+</tfoot>
 
 </table>
 

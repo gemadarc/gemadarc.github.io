@@ -228,5 +228,150 @@ Table 2: The number of students from TAMU and K-12 teachers to be trained annual
 <th> 74 </th>
 </tr>
 
+<tr>
+<th rowspan="6"> None-PIER Funding </th>
+<th> Queen's </th>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<th> 10 </th>
+</tr>
+
+<tr>
+<th> MPI </th>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<th> 10 </th>
+</tr>
+
+<tr>
+<th> Tsinghu </th>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<th> 10 </th>
+</tr>
+
+<tr>
+<th> UNC </th>
+<td> 5 </td>
+<td></td>
+<td></td>
+<td> 5 </td>
+<td></td>
+<td></td>
+<td> 5 </td>
+<td></td>
+<td></td>
+<td> 5 </td>
+<td></td>
+<td></td>
+<td> 5 </td>
+<td></td>
+<td></td>
+<th> 25 </th>
+</tr>
+
+<tr>
+<th> USD </th>
+<td> 6 </td>
+<td> 3 </td>
+<td></td>
+<td> 6 </td>
+<td> 3 </td>
+<td></td>
+<td> 6 </td>
+<td> 3 </td>
+<td></td>
+<td> 6 </td>
+<td> 3 </td>
+<td></td>
+<td> 6 </td>
+<td> 3 </td>
+<td></td>
+<th> 45 </th>
+</tr>
+
+<tr>
+<th> Total </th>
+<td> 17 </td>
+<td> 3 </td>
+<td></td>
+<td> 17 </td>
+<td> 3 </td>
+<td></td>
+<td> 17 </td>
+<td> 3 </td>
+<td></td>
+<td> 17 </td>
+<td> 3 </td>
+<td></td>
+<td> 17 </td>
+<td> 3 </td>
+<td></td>
+<th> 100 </th>
+</tr>
+
+<tr>
+<th colspan="2"> Total students </th>
+<th> 19 </th>
+<th> 10 </th>
+<th> 2 </th>
+<th> 21 </th>
+<th> 12 </th>
+<th> 2 </th>
+<th> 22 </th>
+<th> 12 </th>
+<th> 2 </th>
+<th> 22 </th>
+<th> 12 </th>
+<th> 2 </th>
+<th> 22 </th>
+<th> 12 </th>
+<th> 2 </th>
+<th> 174 </th>
+</tr>
+
+<tr>
+<td colspan="18"> Grad.:Graduate Students; Und.:Undergraduate Students; K-12:K-12 teachers</td>
+</tr>
+
 </table>
 

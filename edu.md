@@ -87,5 +87,87 @@ Table 2: The number of students from TAMU and K-12 teachers to be trained annual
 <th>K-12</th>
 </tr>
 
+<tr>
+<th rowspan="4"> PIER Direct Funding </th>
+<th> BHSU </th>
+<td></td>
+<td> 2 </td>
+<td> 2 </td>
+<td></td>
+<td> 2 </td>
+<td> 2 </td>
+<td></td>
+<td> 2 </td>
+<td> 2 </td>
+<td></td>
+<td> 2 </td>
+<td> 2 </td>
+<td></td>
+<td> 2 </td>
+<td> 2 </td>
+<th> 20 </th>
+</tr>
+
+<tr>
+<th> TAMU </th>
+<td></td>
+<td></td>
+<td></td>
+<td> 1 </td>
+<td> 2 </td>
+<td> </td>
+<td> 2 </td>
+<td> 2 </td>
+<td>  </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> </td>
+<td> 2 </td>
+<td> 2 </td>
+<td> </td>
+<th> 15 </th>
+</tr>
+
+<tr>
+<th> TTU </th>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<td></td>
+<td> 2 </td>
+<td></td>
+<th> 10 </th>
+</tr>
+
+<tr>
+<th> UMN </th>
+<td></td>
+<td></td>
+<td></td>
+<td> 1 </td>
+<td></td>
+<td></td>
+<td> 1 </td>
+<td></td>
+<td></td>
+<td> 1 </td>
+<td></td>
+<td></td>
+<<td> 1 </td>
+<td></td>
+<td></td>
+<th> 4 </th>
+</tr>
+
+
 </table>
 

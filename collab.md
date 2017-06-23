@@ -11,6 +11,8 @@
 <p class="lead text-center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
 
 ## U.S.A.
+
+<!-- BEGIN ROW ONE -->
 <div class="container text-center">
   <div class="row">
     <div class="col-md-4">
@@ -28,7 +30,7 @@
      <div class="col-md-4">
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>University of North Carolina</h3>
-           <ul class="text-left">
+           <ul>
 		<li><b>Principle Investigator</b>: John Wilkerson </li>
 	   </ul>
           <p><a class="btn btn-default" href="https://www.linkedin.com/in/tuyen-do-191940107/" role="button">LinkedIn &raquo;</a></p>
@@ -38,36 +40,49 @@
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Texas A&M University</h3>
            <ul>
-		<li><b>Principle Investigator</b>: H. Rusty Harris </li>
-		<li><b>Senior Personnel</b>: Nader Mirabolfathi, Rupak Mahapatra</li>
-		<li><b>Graduate Students</b>: Mitchell Wagner, Wenzhao Wei</li>
+		<b>Principle Investigator</b>: H. Rusty Harris
+		<b>Senior Personnel</b>: Nader Mirabolfathi, Rupak Mahapatra
 	   </ul>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
+     </div><!-- /.col-lg-4 -->
 
-      </div><!-- /.row -->
-	</div>
+  </div><!-- /.row -->
+</div>
+<!-- END ROW ONE -->
 
-### University of North Carolina
+<!-- BEGIN ROW TWO -->
+<div class="container text-center">
+  <div class="row">
+    <div class="col-md-4">
+        <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+          <h3>Lawrence Berkeley National Laboratory</h3>
+           <ul>
+		<b>Principle Investigator</b>: Mark Amman
+	   </ul>
+           <p><a class="btn btn-default" href="http://www.usd.edu/arts-and-sciences/physics" role="button">USD Physics &raquo;</a></p>
+    </div><!-- /.col-lg-4 -->
+       
+     <div class="col-md-4">
+        <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+          <h3>Black Hills State University</h3>
+           <ul>
+		<b>Senior Personnel</b>: Kara Keeter, Brianna Mount
+	   </ul>
+          <p><a class="btn btn-default" href="https://www.linkedin.com/in/tuyen-do-191940107/" role="button">LinkedIn &raquo;</a></p>
+     </div><!-- /.col-lg-4 -->
 
-- **Principle Investigator**: John Wilkerson
+     <div class="col-md-4">
+        <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+          <h3>University of Minnesota</h3>
+           <ul>
+		<b>Senior Personnel</b>: Kara Keeter, Vuk Mandic
+	   </ul>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+     </div><!-- /.col-lg-4 -->
 
-### Texas A&M University
-
-- **Principle Investigator**:H. Rusty Harris
-- **Senior Personnel**: Nader Mirabolfathi, Rupak Mahapatra
-
-###  Lawrence Berkeley National Laboratory
-
-- **Senior Personnel**: Mark Amman
-
-### Black Hills State University
-
-- **Senior Personnel**: Kara Keeter, Brianna Mount
-
-### University of Minnesota 
-
-- **Senior Personnel**: Vuk Mandic
+  </div><!-- /.row -->
+</div>
+<!-- END ROW TWO -->
 
 ### Texas Tech University
 

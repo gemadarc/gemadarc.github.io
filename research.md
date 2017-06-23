@@ -22,4 +22,12 @@ postdocs, and early career faculty as well as develop a diverse workforce in phy
 - **Global Research Partnership.** Improve collaboration on Ge-related R&D activities through integrative
 global partnership, anchored by best-in-class research facilities, resources, and expertise.
 
+**OBJECTIVES**: We will conduct several critical R&D activities and create new capacities to: **(1)** advance
+research techniques in zone refinement and crystal growth to guarantee the purity and appropriate gradient
+of large-size (up to ~10 cm in diameter and ~10 cm in length) Ge (LGe) detector-grade crystals; **(2)**
+develop novel LGe detectors, using self-grown crystals, to achieve low energy threshold (< 100 eV) for
+DM and CEvNS detection and electron/gamma (e/γ) discrimination for 0νββ decay; **(3)** improve detector
+performance through better understanding of charge collection efficiency, background reduction, and systematic
+uncertainties; and **(4)** accelerate education and training for young scientists in the field.
+
 

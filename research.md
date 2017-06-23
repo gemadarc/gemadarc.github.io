@@ -36,8 +36,18 @@ crystals and well-tested contact technology to improve understanding of detector
 
 The proposed research includes three distinct tasks: 
 1. Material advancement for developing novel Ge detectors.
+  - Zone Refinement
+  - Crystal Growth
+  - Crystal Characterization
 2. Development of novel Ge detectors. 
+  - Planar detector with internal amplification, a high risk and high impact R&D.
+  - SuperCDMS-type detectors.
+  - Inverted coaxial PPC detectors for ton-scale 0νββ decay.
 3. Improvement of detector performance.
+  - Development of test methodology.
+  - Development of a special Ge detector simulation toolkit.
+  - Development of models to study pulse shape discrimination (PSD).
+  
 
 
 

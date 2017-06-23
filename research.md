@@ -47,6 +47,12 @@ The proposed research includes three distinct tasks:
   - Development of test methodology.
   - Development of a special Ge detector simulation toolkit.
   - Development of models to study pulse shape discrimination (PSD).
+
+### Anticipated Timelines, Milestones, and Deliverables
+The Table below shows the timelines, milestones and deliverables. The developed test methods, simulation
+codes, and models will be published in high-profile journals as well as shared at national conferences. The
+500 samples for characterization will be cut from zone-refined ingots and grown crystals. The significant deliverables include LGe detectors (6 detectors), fabricated/validated using self-grown crystals, with low-energy threshold (< 100 eV) for DM
+detection and with optimization of e/γ discrimination for 0νββ decay.
   
 
 

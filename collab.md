@@ -2,19 +2,16 @@
 ---
 # U.S.A.
 
-<div class="container">
-    <div class="well">
-      <a href="http://www.usd.edu/physics"><img class="media-object float-left" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="USD logo"></a>
-      <h2>University of South Dakota</h2>
-      <ul>
-        <li><b>Principle Investigator</b>: Dongming Mei </li>
-        <li><b>Administrator</b>: Crhistina Keller </li>
-        <li><b>Senior Personnel</b>: Joel Sander, Wenqin Xu, guojian Wang, Jing Liu</li>
-        <li><b>Graduate Students</b>: Mitchell Wagner, Wenzhao Wei</li>
-      </ul>
-    </div>
+<div class="well">
+    <a href="http://www.usd.edu/physics"><img class="media-object float-left" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="USD logo"></a>
+    <h2>University of South Dakota</h2>
+    <ul>
+      <li><b>Principle Investigator</b>: Dongming Mei </li>
+      <li><b>Administrator</b>: Crhistina Keller </li>
+      <li><b>Senior Personnel</b>: Joel Sander, Wenqin Xu, guojian Wang, Jing Liu</li>
+      <li><b>Graduate Students</b>: Mitchell Wagner, Wenzhao Wei</li>
+    </ul>
 </div>
-
 
 ## University of North Carolina
 

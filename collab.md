@@ -8,13 +8,13 @@
 </div>
 <!-- Jumbo Header end -->
 
-<p class="center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
+<p class="lead text-center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
 
 ## U.S.A.
 
 <div class="well">
-    <div class="float-left"><img class="media-object" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="USD logo"></div>
-    <div class="float-right">
+    <div class="float-center"><img class="media-object" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="USD logo"></div>
+    <div class="float-center">
     <h3>University of South Dakota</h3>
     <ul>
       <li><b>Principle Investigator</b>: Dongming Mei </li>

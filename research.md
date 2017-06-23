@@ -30,4 +30,14 @@ DM and CEvNS detection and electron/gamma (e/γ) discrimination for 0νββ deca
 performance through better understanding of charge collection efficiency, background reduction, and systematic
 uncertainties; and **(4)** accelerate education and training for young scientists in the field.
 
+### Proposed Research and Methods
+PIRE-GEMADARC intends to advance Ge materials for developing novel detectors fabricated from well characterized
+crystals and well-tested contact technology to improve understanding of detector performance.
+
+The proposed research includes three distinct tasks: 
+1. Material advancement for developing novel Ge detectors.
+2. Development of novel Ge detectors. 
+3. Improvement of detector performance.
+
+
 

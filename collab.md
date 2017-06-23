@@ -2,17 +2,15 @@
 ---
 <!-- Jumbo Header start -->
 <div class="jumbotron">
- <div class="container text-center">
-	<h1>The GEMADARC Consortium</h1>
- </div>
+<h1  class="text-center">The GEMADARC Consortium</h1>
 </div>
 <!-- Jumbo Header end -->
 
-<p class="lead text-center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
+<p class="lead text-center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries.</p>
 
 <!-- BEGIN ROW ONE -->
-<div class="container text-center">
-<h1 class="text-center">U.S.A.</h1>
+<div class="text-center">
+<h1>U.S.A.</h1>
   <div class="row">
     <div class="col-md-4">
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
@@ -27,7 +25,7 @@
     </div><!-- /.col-lg-4 -->
        
      <div class="col-md-4">
-        <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+        <img class="img-circle" src="http://identity.unc.edu/files/2014/01/image25a.jpg" alt="" width="140" height="140">
           <h3>University of North Carolina</h3>
            <ul class="text-left">
 		<li><b>Principle Investigator</b>: John Wilkerson </li>
@@ -36,7 +34,7 @@
      </div><!-- /.col-lg-4 -->
 
      <div class="col-md-4">
-        <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+        <img class="img-circle" src="http://miner.physics.tamu.edu/images/TAMU.png" alt="" width="140" height="140">
           <h3>Texas A&M University</h3>
            <ul class="text-left">
 		<li><b>Principle Investigator</b>: H. Rusty Harris</li>

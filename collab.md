@@ -87,6 +87,7 @@
 <div class="container text-center">
   <div class="row">
     <div class="col-md-4">
+     <h1 class="text-center"> </h1>
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Texas Tech University</h3>
            <ul class="text-left">
@@ -96,7 +97,7 @@
     </div><!-- /.col-lg-4 -->
        
      <div class="col-md-4">
-      <h2 class="text-center">Canada</h2>
+      <h1 class="text-center">Canada</h1>
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Queen's University</h3>
            <ul class="text-left">
@@ -106,7 +107,7 @@
      </div><!-- /.col-lg-4 -->
 
      <div class="col-md-4">
-      <h2 class="text-center">China</h2>
+      <h1 class="text-center">China</h1>
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Tsinghua University</h3>
            <ul class="text-left">
@@ -123,8 +124,8 @@
 <!-- BEGIN ROW FOUR -->
 <div class="container text-center">
   <div class="row">
-     <div class="col-md-6">
-      <h2 class="text-center">Germany</h2>
+     <div class="col-md-4">
+      <h1 class="text-center">Germany</h1>
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Max-Planck-Institut für Physik</h3>
            <ul class="text-left">
@@ -134,8 +135,8 @@
           <p><a class="btn btn-default" href="https://www.linkedin.com/in/tuyen-do-191940107/" role="button">LinkedIn &raquo;</a></p>
      </div><!-- /.col-lg-4 -->
 
-     <div class="col-md-6">
-      <h2 class="text-center">Taiwan</h2>
+     <div class="col-md-4">
+      <h1 class="text-center">Taiwan</h1>
         <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
           <h3>Institute of Physics, Academic Sinica</h3>
            <ul class="text-left">
@@ -143,21 +144,10 @@
 	   </ul>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
      </div><!-- /.col-lg-4 -->
-
+     
+     <div class="col-md-4">
+     </div>
   </div><!-- /.row -->
 </div>
 <!-- END ROW FOUR -->
 
-
-## Germany
-
-### Max-Planck-Institut für Physik
-
-- **Principle Investigator**: Iris Abt
-- **Senior Personnel**: Béla Majorovits
-
-## Taiwan
-
-### Institute of Physics, Academic Sinica
-
-- **Principle Investigator**: Henry Wong

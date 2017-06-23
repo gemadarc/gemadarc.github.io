@@ -8,7 +8,7 @@
 </div>
 <!-- Jumbo Header end -->
 
-<p class="lead">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
+<p class="center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries with 25 collaborators .</p>
 
 ## U.S.A.
 

@@ -1,6 +1,13 @@
 ---
 ---
-# Institutions in PIRE-GEMADARC Collaboration
+<!-- Jumbo Header start -->
+<div class="jumbotron">
+ <div class="container text-center">
+	<h1>The GEMADARC Consortium</h1>
+ </div>
+</div>
+<!-- Jumbo Header end -->
+
 ## U.S.A.
 
 <div class="well">

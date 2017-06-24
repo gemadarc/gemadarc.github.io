@@ -42,7 +42,7 @@
   </div>
   
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img src="http://www2.lbl.gov/msd/assets/img/about/lbl_logo2.png" alt="" width="140" height="130">
     <h3>Lawrence Berkeley National Laboratory</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Mark Amman</li>

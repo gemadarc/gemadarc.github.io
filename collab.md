@@ -53,7 +53,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="http://www.bhsu.edu/Portals/0/facultystaff/MarketingComm/logos/BHSU_RC%20Logo.jpg" alt="" width="140" height="140">
     <h3>Black Hills State University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Kara Keeter, Brianna Mount</li>
@@ -73,7 +73,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="https://drive.google.com/file/d/0B9Rxo-0B1VOeT0xGNUR5UXBOalE/view?usp=sharing" alt="" width="140" height="140">
     <h3>Texas Tech University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Mary Kidd</li>

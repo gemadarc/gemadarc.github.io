@@ -73,7 +73,6 @@
 
 <div class="row">
   <div class="col-md-6">
-    <h1 class="text-center"> </h1>
     <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
     <h3>Texas Tech University</h3>
     <ul>

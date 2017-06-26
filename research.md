@@ -150,5 +150,37 @@ detection and with optimization of e/γ discrimination for 0νββ decay.
 
 </table>  
 
+### Broader Impacts and Expected Significance
+PIRE-GEMARDARC will lead to improved sensitivity for DM detection and neutrino experiments. The
+field of DM and 0νββ decay research is highly developed with 30+ years of research and vigorous programs
+nationally and internationally. In the U.S., the premier experiments are liquid Xenon (e.g. XENON100
+[86], LUX/LZ and Ge (e.g. SuperCDMS) for DM, and MAJORANA, CUORE, and
+EXO for 0νββ decay. We intend to add to the current base of research by resolving two challenges:
+
+- Developing techniques to guarantee the cleanliness and purity of detector materials for new Ge detectors
+- Advancing large-size detectors with extremely low energy threshold for DM and extremely
+low background with e/γ discrimination for 0νββ decay. 
+
+In particular, we will deliver self-grown crystals, with well-characterized properties, for consistently producing detectors with internal amplification, SuperCDMS-type detectors, and inverted coaxial PPC detectors. This work, in addition to advancing
+cosmic and neutrino research, also will enable new types of low threshold, high-resolution Ge detectors
+to be innovated for academic research, scientific projects and various applications in homeland security,
+environmental monitoring, and medical imaging. Moreover, our Consortium will recruit and educate a
+diverse cadre of young scientists who will lead future development of physics beyond the Standard Model.
+By Year 5, our robust and integrated research and education-training program will have equipped 174
+undergraduate and graduate students and K-12 teachers alongside of at least 5 postdocs and early career
+investigators with the technical, professional, and global entrepreneurial skill sets required to lead the next
+generation of physics workforce. A primary emphasis is placed on training Native American and female
+students: Nearly 30% of students trained by the Consortium will be from underrepresented groups. Significantly,
+our novel program creates a global "Community of Practice" comprised of: (1) coordinated
+pedagogical planning to advance students' critical structural thinking; (2) an integrated graduate curriculum
+and advising program; (3) international study that provides content, tools, and collaborative spaces
+for enriched learning; (4) joint advising, mentoring and other professional development opportunities; and
+(5) exchange programs (supported by detailed logistical, language and cultural protocols) with leading
+institutions in the U.S., Canada, China, and Germany. Project-based courses, research experiences, foreign
+language instruction coupled with international advisement will equip students with strong disciplinary expertise
+in collaborative research and develop students who are well-prepared prepared to work with all stakeholders in
+global technology development. In addition, 6 early-career faculty members participate in PIREGEMADARC
+and its comprehensive, internationally based Junior Faculty Development Program.
+
 
 

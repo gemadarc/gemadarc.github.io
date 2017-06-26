@@ -21,7 +21,7 @@
   </div>
   
   <div class="col-md-6">
-    <img class="img-circle" src="http://identity.unc.edu/files/2014/01/image25a.jpg" alt="" width="140" height="140">
+    <img src="http://identity.unc.edu/files/2014/01/image25a.jpg" alt="" width="140" height="140">
     <h3>University of North Carolina</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: John Wilkerson </li>
@@ -53,7 +53,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="http://www.bhsu.edu/Portals/0/facultystaff/MarketingComm/logos/BHSU_RC%20Logo.jpg" alt="" width="175" height="175">
+    <img src="http://www.bhsu.edu/Portals/0/facultystaff/MarketingComm/logos/BHSU_RC%20Logo.jpg" alt="" width="140" height="140">
     <h3>Black Hills State University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Kara Keeter, Brianna Mount</li>

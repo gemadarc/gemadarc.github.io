@@ -9,7 +9,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/d/d9/University_of_South_Dakota_seal.png" alt="USD Logo" width="140" height="140">
     <h3>University of South Dakota</h3>
     <ul>
       <li><b>Principle Investigator</b>: Dongming Mei </li>
@@ -21,7 +21,7 @@
   </div>
   
   <div class="col-md-6">
-    <img src="http://identity.unc.edu/files/2014/01/image25a.jpg" alt="" width="140" height="140">
+    <img src="http://identity.unc.edu/files/2014/01/image25a.jpg" alt="UNC Logo" width="140" height="140">
     <h3>University of North Carolina</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: John Wilkerson </li>
@@ -73,7 +73,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/3/39/TexasTechSeal.svg" alt="Texas Tech Logo" width="140" height="140">
     <h3>Texas Tech University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Mary Kidd</li>
@@ -93,7 +93,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="" alt="" width="140" height="140">
+    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Tsinghua_University_Logo.svg" alt="Tsinghua logo" width="140" height="140">
     <h3>Tsinghua University</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Qian Yue</li>
@@ -109,7 +109,7 @@
 		  <li><b>Principle Investigator</b>: Iris Abt</li>
 		  <li><b>Senior Personnel</b>: Béla Majorovits Li</li>
 	  </ul>
-    <p><a class="btn btn-default" href="https://www.mpg.de/151995/physik" role="button">MPI Physics &raquo;</a></p>
+    <p><a class="btn btn-default" href="https://www.mpp.mpg.de/" role="button">MPI Physics &raquo;</a></p>
   </div>
 </div>
 

@@ -93,7 +93,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://en.wikipedia.org/wiki/Tsinghua_University#/media/File:Tsinghua_University_Logo.svg" alt="" width="140" height="140">
+    <img class="img-circle" src="" alt="" width="140" height="140">
     <h3>Tsinghua University</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Qian Yue</li>

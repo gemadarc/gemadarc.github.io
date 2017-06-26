@@ -62,7 +62,7 @@
   </div>
 
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img src="https://university-relations.umn.edu/sites/university-relations.umn.edu/files/m-static_0.png" alt="" width="140" height="140">
     <h3>University of Minnesota</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Vuk Mandic</li>
@@ -82,7 +82,7 @@
   </div>
 
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img src="http://www.queensu.ca/mc_administrator/sites/default/files/assets/pages/QueensLogo_colour.jpg" alt="" width="140" height="140">
     <h3>Queen's University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Ryan Martin, Wolfgang Rau </li>
@@ -93,7 +93,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="https://en.wikipedia.org/wiki/Tsinghua_University#/media/File:Tsinghua_University_Logo.svg" alt="" width="140" height="140">
     <h3>Tsinghua University</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Qian Yue</li>
@@ -103,7 +103,7 @@
   </div>
 
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img src="http://wwwth.mpp.mpg.de/conf/f-theory15/images/MPPoriginal.png" alt="" width="140" height="140">
     <h3>Max-Planck-Institut für Physik</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Iris Abt</li>
@@ -115,7 +115,7 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/University_of_South_Dakota_seal.png/175px-University_of_South_Dakota_seal.png" alt="" width="140" height="140">
+    <img class="img-circle" src="http://www.phys.sinica.edu.tw/images/phys_logo.png" alt="" width="140" height="140">
     <h3>Institute of Physics, Academic Sinica</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Henry Wong</li>

@@ -77,6 +77,13 @@ detection and with optimization of e/γ discrimination for 0νββ decay.
 <td>a. Zone-refining</td>
 <td colspan="5">Multiple iterations to achieve 30 kg ingots with &sim;10<sup>10</sup>/cm<sup>3</sup></td>
 </tr>
+
+<tr>
+<td>b. Crystal growth</td>
+<td colspan="5">Multiple iterations of growth for 20 kg with an impurity level of (1-3)&times;10<sup>10</sup>/cm<sup>3</sup> and mobility of more than 45,000 cm<sup>2</sup>/Vs</td>
+</tr>
+
+
 </table>  
 
 

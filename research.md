@@ -75,7 +75,7 @@ detection and with optimization of e/γ discrimination for 0νββ decay.
 
 <tr>
 <td>a. Zone-refining</td>
-<td colspan="5">Multiple iterations to achieve 30 kg ingots with &sim10<sup>10</sup>/cm<sup>3</sup></td>
+<td colspan="5">Multiple iterations to achieve 30 kg ingots with &sim;10<sup>10</sup>/cm<sup>3</sup></td>
 </tr>
 </table>  
 

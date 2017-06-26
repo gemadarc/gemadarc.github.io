@@ -65,7 +65,7 @@ detection and with optimization of e/γ discrimination for 0νββ decay.
 </tr>
 
 <tr>
-<th>1. Material Advancement
+<th>1. Material Advancement</th>
 <td></td>
 <td></td>
 <td></td>
@@ -83,6 +83,70 @@ detection and with optimization of e/γ discrimination for 0νββ decay.
 <td colspan="5">Multiple iterations of growth for 20 kg with an impurity level of (1-3)&times;10<sup>10</sup>/cm<sup>3</sup> and mobility of more than 45,000 cm<sup>2</sup>/Vs</td>
 </tr>
 
+<tr>
+<td>c. Characterization</td>
+<td colspan="5">Characterize all grown cystals for electronic and optical properties to enable simulation (500 samples)</td>
+</tr>
+
+<tr>
+<th>2. Detector Development</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>a. Internal amplification</td>
+<td colspan="2">Design, fabricate and test 1st detector</td>
+<td>Rebuid and test</td>
+<td>Build 2nd detector</td>
+<td>Run for certification</td>
+</tr>
+
+<tr>
+<td>b. SuperCDMS-type detectors</td>
+<td colspan="2">Design, fabricate and test 1st detector</td>
+<td>Rebuid and test</td>
+<td>Build 2nd detector</td>
+<td>Run for certification</td>
+</tr>
+
+<tr>
+<td>c. Inverted coaxial PPC</td>
+<td colspan="2">Design, fabricate and test 1st detector</td>
+<td>Rebuid and test</td>
+<td>Build 2nd detector</td>
+<td>Run for certification</td>
+</tr>
+
+<tr>
+<th>3. Detector Performance</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>a. Test methodology</td>
+<td colspan="5">Understand the correlation between charge generation, transport, trapping, recombination, impurities and sufface effects</td>
+</tr>
+
+<tr>
+<td>b. Simulation toolkits</td>
+<td colspan="5">Simulate charge carrier drift and diffusion during the drift process to understand charge trapping and sufface effects</td>
+</tr>
+
+<tr>
+<td>c. Pulse shape discrimination</td>
+<td colspan="2">Measurements of charge pulses</td>
+<td>Simulation of pulses</td>
+<td>Comparison</td>
+<td>Developing models</td>
+</tr>
 
 </table>  
 

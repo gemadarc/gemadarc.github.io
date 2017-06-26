@@ -53,7 +53,31 @@ The Table below shows the timelines, milestones and deliverables. The developed 
 codes, and models will be published in high-profile journals as well as shared at national conferences. The
 500 samples for characterization will be cut from zone-refined ingots and grown crystals. The significant deliverables include LGe detectors (6 detectors), fabricated/validated using self-grown crystals, with low-energy threshold (< 100 eV) for DM
 detection and with optimization of e/γ discrimination for 0νββ decay.
-  
+
+<table>
+<tr>
+<th>Reseaerch Activities</th>
+<th>Year 1</th>
+<th>Year 2</th>
+<th>Year 3</th>
+<th>Year 4</th>
+<th>Year 5</th>
+</tr>
+
+<tr>
+<th>1. Material Advancement
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>a. Zone-refining</td>
+<td colspan="5">Multiple iterations to achieve 30 kg ingots with &sim10<sup>10</sup>/cm<sup>3</sup></td>
+</tr>
+</table>  
 
 
 

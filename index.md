@@ -37,20 +37,12 @@ layout: index
 	   <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
           <img class="first-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Watch the latest how-to video.</h1>
-              <p>Ever wonder the best way to cut an onion? Are there really tricks to stop the tears? Find out here!</p>
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Browse Videos</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
             </div>
           </div>
         </div>
@@ -58,9 +50,7 @@ layout: index
           <img class="second-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Read the latest blog post.</h1>
-              <p>Learn about blah blah blah</p>
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Check it out</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
             </div>
           </div>
         </div>
@@ -68,9 +58,7 @@ layout: index
           <img class="third-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Vegetarian? No Problem.</h1>
-              <p>We have loads of recipes and videos for vegetarian and vegan dishes. Head over to the recipes and filter using Vegetarian or Vegan.</p>
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Veggie Central</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
             </div>
           </div>
         </div>

@@ -39,7 +39,7 @@ layout: index
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="First slide">
+          <img class="first-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Zone refinement">
           <div class="container">
             <div class="carousel-caption">
               <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
@@ -47,18 +47,18 @@ layout: index
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Second slide">
-          <div class="container">
+          <img class="second-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7obWpZRlBNeGMxbUk" alt="Galatea">
+
             <div class="carousel-caption">
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU Galatea</a></p>
             </div>
-          </div>
+
         </div>
         <div class="item">
-          <img class="third-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Third slide">
+          <img class="third-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7oa2hIQzAySzNKQlE" alt="K2">
           <div class="container">
             <div class="carousel-caption">
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU K2</a></p>
             </div>
           </div>
         </div>

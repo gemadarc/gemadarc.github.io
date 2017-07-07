@@ -22,62 +22,52 @@ layout: index
       </div>
 </div>
 
-
-	  
 <div class="container text-center">
-	<hr class="featurette-divider">
-      <div class="row featurette">
-        <div class="col-md-5 col-md-push-7">
-          <h2 class="featurette-heading">World Class Facilities</h2>
-          <p class="lead">Each institution of GEMADARC provides unique lab spaces and facilities to push Germanium semiconductor research forward. Check them out on the facilities page.</p>
-		  <p><a class="btn btn-default" href="/facility" role="button">Facilities &raquo;</a></p>
-        </div>
-        <div class="col-md-7 col-md-pull-5">
-          
-	   <!-- Carousel
-    ================================================== -->
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <img class="first-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Zone refinement">
-          <div class="container">
+  <hr class="featurette-divider">
+  <div class="row featurette">
+    <div class="col-md-5 col-md-push-7">
+      <h2 class="featurette-heading">World Class Facilities</h2>
+      <p class="lead">Each institution of GEMADARC provides unique lab spaces and facilities to push Germanium semiconductor research forward. Check them out on the facilities page.</p>
+      <p><a class="btn btn-default" href="/facility" role="button">Facilities &raquo;</a></p>
+    </div>
+    
+    <div class="col-md-7 col-md-pull-5">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+          <div class="item active">
+            <img class="first-slide" src="http://www.usd.edu/-/media/images/arts-and-sciences/physics/physicsundergrad.ashx" alt="Zone refinement">
             <div class="carousel-caption">
               <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Labs</a></p>
             </div>
           </div>
-        </div>
-        <div class="item">
-          <img class="second-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7obWpZRlBNeGMxbUk" alt="Galatea">
-
+          
+          <div class="item">
+            <img class="second-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7obWpZRlBNeGMxbUk" alt="Galatea">
             <div class="carousel-caption">
               <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU Galatea</a></p>
             </div>
-
-        </div>
-        <div class="item">
-          <img class="third-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7oa2hIQzAySzNKQlE" alt="K2">
-          <div class="container">
+          </div>
+          
+          <div class="item">
+            <img class="third-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7oa2hIQzAySzNKQlE" alt="K2">
             <div class="carousel-caption">
               <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU K2</a></p>
             </div>
           </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div><!-- /.carousel -->
-
-        </div>
-      </div>
-</div>
-	
-
+        </div><!--carousel-inner-->
+     
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div><!-- carousel slide -->
+    </div><!-- col -->
+  </div><!-- row -->
+</div><!-- container -->
 
 <div class="container text-center">
 	<hr class="featurette-divider">

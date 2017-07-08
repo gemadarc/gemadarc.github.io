@@ -12,7 +12,7 @@ img {
 }
 .carousel-inner > .item > img {
     margin: 0 auto;
-    height:none;
+    height: 300px;
 }
 
 /* bootstrip does not recognize markdown tables */

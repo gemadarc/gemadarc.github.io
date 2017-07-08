@@ -1,25 +1,16 @@
 ---
-layout: index
+layout: page
 ---
-<div class="container">
 <div class="jumbotron">
-<h3 class="text-center">NSF Partnerships for International Research and Education (PIRE)</h3>
-<h1 class="text-center">Germanium Materials and Detectors Advancement Research Consortium</h1>
-</div>
+  <h3 class="text-center">NSF Partnerships for International Research and Education (PIRE)</h3>
+  <h2 class="text-center">Germanium Materials and Detectors Advancement Research Consortium</h2>
 </div>
 
-<div class="container text-center">
-    <hr class="featurette-divider">
-      <div class="row featurette">
-        <div class="col-md-5">
-          <h2 class="featurette-heading">Meet the Collaborators</h2>
-          <p class="lead">GEMADARC is a global partnership of 11 institutions across 5 countries. Meet the members and institutions from the U.S.A., Canada, China, Germany, and Taiwan on our collaboration page</p>
-		  <p><a class="btn btn-default" href="/collab" role="button">Collaboration &raquo;</a></p>
-        </div>
-        <div class="col-md-7">
-          <img class="featurette-image img-responsive center-block" img src="https://dl.dropboxusercontent.com/s/iift2ygev8w82sg/logos.png" alt="Institution logos">
-        </div>
-      </div>
+<div class="featurette">
+  <h2 class="featurette-heading">Meet the Collaborators</h2>
+  <p class="lead">GEMADARC is a global partnership of 11 institutions across 5 countries. Meet the members and institutions from the U.S.A., Canada, China, Germany, and Taiwan on our collaboration page</p>
+	<p><a class="btn btn-default" href="/collab" role="button">Collaboration &raquo;</a></p>
+  <img class="featurette-image img-responsive center-block" img src="https://dl.dropboxusercontent.com/s/iift2ygev8w82sg/logos.png" alt="Institution logos">
 </div>
 
 <div class="container text-center">

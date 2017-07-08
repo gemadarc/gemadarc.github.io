@@ -42,16 +42,37 @@ layout: index
           </div>
           
           <div class="item">
-            <img class="second-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7obWpZRlBNeGMxbUk" alt="Galatea">
+            <img class="second-slide" src="https://dl.dropboxusercontent.com/s/4r6fq8rfsyelyne/4x5g.png" alt="Texono 4x5g">
             <div class="carousel-caption">
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU Galatea</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono 4x5g Ge detectors</a></p>
             </div>
           </div>
           
-          <div class="item">
-            <img class="third-slide" src="https://drive.google.com/uc?export=view&id=0BwM7XYhFgK7oa2hIQzAySzNKQlE" alt="K2">
+	  <div class="item">
+            <img class="third-slide" src="https://dl.dropboxusercontent.com/s/nwhac21tywafgfu/500g.png" alt="Texono 500g">
             <div class="carousel-caption">
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">MPPMU K2</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono 500g Ge detector</a></p>
+            </div>
+          </div>
+	  
+          <div class="item">
+            <img class="third-slide" src="https://dl.dropboxusercontent.com/s/5k6ir02og6vnl2l/900g.png" alt="Texono 900g">
+            <div class="carousel-caption">
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono 900g Ge detector</a></p>
+            </div>
+          </div>
+	  
+          <div class="item">
+            <img class="third-slide" src="https://dl.dropboxusercontent.com/s/gegi230dmioficy/scintillator.jpg" alt="Texono scintillators">
+            <div class="carousel-caption">
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono scintillators</a></p>
+            </div>
+          </div>
+	  
+          <div class="item">
+            <img class="third-slide" src="https://dl.dropboxusercontent.com/s/o1pia1vak1q8e24/shield.jpg" alt="Texono shielding">
+            <div class="carousel-caption">
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono shielding</a></p>
             </div>
           </div>
         </div><!--carousel-inner-->

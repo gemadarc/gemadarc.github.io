@@ -9,8 +9,8 @@ layout: page
 <div class="featurette">
   <h2 class="featurette-heading">Meet the Collaborators</h2>
   <p class="lead">GEMADARC is a global partnership of 11 institutions across 5 countries. Meet the members and institutions from the U.S.A., Canada, China, Germany, and Taiwan on our collaboration page</p>
-	<p><a class="btn btn-default" href="/collab" role="button">Collaboration &raquo;</a></p>
-  <img class="featurette-image img-responsive center-block" img src="https://dl.dropboxusercontent.com/s/iift2ygev8w82sg/logos.png" alt="Institution logos">
+  <p><a class="btn btn-default" href="/collab" role="button">Collaboration &raquo;</a></p>
+  <img class="featurette-image img-fluid pull-right" img src="https://dl.dropboxusercontent.com/s/iift2ygev8w82sg/logos.png" alt="Institution logos">
 </div>
 
 <div class="container text-center">

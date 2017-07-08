@@ -17,7 +17,7 @@ layout: index
 		  <p><a class="btn btn-default" href="/collab" role="button">Collaboration &raquo;</a></p>
         </div>
         <div class="col-md-7">
-          <img class="featurette-image img-responsive center-block" img src="http://www.usd.edu/-/media/images/research/orsphero.ashx?la=en&hash=F4F8456D1A5E6C10246A5E9CD96702F5945391B9" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" img src="https://dl.dropboxusercontent.com/s/iift2ygev8w82sg/logos.png" alt="Institution logos">
         </div>
       </div>
 </div>
@@ -73,6 +73,13 @@ layout: index
             <img class="third-slide" src="https://dl.dropboxusercontent.com/s/o1pia1vak1q8e24/shield.jpg" alt="Texono shielding">
             <div class="carousel-caption">
               <p><a class="btn btn-lg btn-primary" href="index.html" role="button">Texono shielding</a></p>
+            </div>
+          </div>
+	  
+          <div class="item">
+            <img class="third-slide" src="http://www.usd.edu/-/media/images/research/orsphero.ashx?la=en&hash=F4F8456D1A5E6C10246A5E9CD96702F5945391B9" alt="USD Cryostal grower">
+            <div class="carousel-caption">
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Ge crystal grower</a></p>
             </div>
           </div>
         </div><!--carousel-inner-->

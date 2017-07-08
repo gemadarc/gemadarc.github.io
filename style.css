@@ -10,6 +10,10 @@ img {
   max-width: 100%; 
   height: auto;
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+    height:none;
+}
 
 /* bootstrip does not recognize markdown tables */
 table {
@@ -26,4 +30,3 @@ td, th {
 th {
   background-color: #F5F5F5;
 }
-

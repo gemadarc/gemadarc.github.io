@@ -77,9 +77,9 @@ layout: index
           </div>
 	  
           <div class="item">
-            <img class="third-slide" src="http://www.usd.edu/-/media/images/research/orsphero.ashx?la=en&hash=F4F8456D1A5E6C10246A5E9CD96702F5945391B9" alt="USD Cryostal grower">
+            <img class="third-slide" src="http://www.usd.edu/-/media/images/research/orsphero.ashx?la=en&hash=F4F8456D1A5E6C10246A5E9CD96702F5945391B9" alt="USD Sputtering Machine">
             <div class="carousel-caption">
-              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Ge crystal grower</a></p>
+              <p><a class="btn btn-lg btn-primary" href="index.html" role="button">USD Sputtering Machine</a></p>
             </div>
           </div>
         </div><!--carousel-inner-->
@@ -111,6 +111,3 @@ layout: index
     </div>
 	<hr class="featurette-divider">
 </div>
-
-
-

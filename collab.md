@@ -73,12 +73,12 @@
 
 <div class="row">
   <div class="col-md-6">
-    <img class="img-circle" src="https://upload.wikimedia.org/wikipedia/en/3/39/TexasTechSeal.svg" alt="Texas Tech Logo" width="140" height="140">
-    <h3>Texas Tech University</h3>
+    <img class="img-circle" src="https://www.tntech.edu/assets/images/TechSignatureSeal_Purple_RGB.jpg" width="140" height="140">
+    <h3>Tennessee Tech University</h3>
     <ul>
 		  <li><b>Senior Personnel</b>: Mary Kidd</li>
 	  </ul>
-    <p><a class="btn btn-default" href="http://www.depts.ttu.edu/phas/" role="button">TTU Physics &raquo;</a></p>
+    <p><a class="btn btn-default" href="http://blogs.tntech.edu/physics/" role="button">TTU Physics &raquo;</a></p>
   </div>
 
   <div class="col-md-6">

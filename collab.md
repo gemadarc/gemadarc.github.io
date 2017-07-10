@@ -2,7 +2,7 @@
 ---
 
 <div class="jumbotron">
-<h1 class="text-center">The GEMADARC Consortium</h1>
+<h1 class="text-center">The GEMADARC Collaborators</h1>
 </div>
 
 <p class="text-center">PIRE-GEMADARC is a global partnership of 11 institutions across 5 countries.</p>

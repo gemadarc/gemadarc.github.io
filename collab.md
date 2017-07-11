@@ -107,7 +107,7 @@
     <h3>Max-Planck-Institut für Physik</h3>
     <ul>
 		  <li><b>Principle Investigator</b>: Iris Abt</li>
-		  <li><b>Senior Personnel</b>: Béla Majorovits Li</li>
+		  <li><b>Senior Personnel</b>: Béla Majorovits</li>
 	  </ul>
     <p><a class="btn btn-default" href="https://www.mpp.mpg.de/" role="button">MPI Physics &raquo;</a></p>
   </div>

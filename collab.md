@@ -1,6 +1,6 @@
 ---
 ---
-
+<div class="container">
 <div class="jumbotron">
 <h1 class="text-center">The GEMADARC Collaborators</h1>
 </div>

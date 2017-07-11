@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-<h4></h4>
-</div>
 <header class="business-header">
 	<div class="container">
 		<div class="row">
@@ -14,7 +12,7 @@ layout: page
 					<li>To advance knowledge, research and discovery in fundamental physics by developing novel detectors that will improve the sensitivity of ton-scale DM and neutrino experiments.</li>
 					<li>To increase knowledge and advance frontier physics education and training for undergraduate STEM (science, technology, engineering, mathematics) majors, graduate students, post-docs, and early career faculty, and develop a diverse workforce in physics and engineering.</li>
 					<li>To improve global collaboration on Ge related technology through integrative global partnerships, anchored by best-in-class research facilities, resources, and expertise.</li>
-					<h4>
+					</h4>
 			</div>
 		</div>
 	</div>

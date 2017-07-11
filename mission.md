@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 <h4></h4>
 </div>

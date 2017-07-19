@@ -1,6 +1,6 @@
 ---
 ---
-<div class="container">
+
 # Facilities and Labs
   <p>Every institution in GEMADARC has unique labs and facilities that are involved in germanium related research. </p>
 

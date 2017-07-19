@@ -33,21 +33,13 @@ th {
 
 .business-header {
     height: 250px;
-    background: url('banner.jpg') center center no-repeat scroll;
+    background: url('/assets/banner.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
 
-.mission-header {
-    height: 400px;
-    background-color: #0000c6;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
 
 /* Customize the text color and shadow color and to optimize text legibility. */
 

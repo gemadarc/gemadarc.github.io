@@ -1,0 +1,48 @@
+---
+title: Search Pire.Gemadarc.org
+---
+
+<gcse:search></gcse:search>
+
+{% assign sorted_tags = (site.tags | sort:0) %}
+
+<div class="well well-sm">
+  <ul class="nav nav-pills">
+    {% for each in sorted_tags %}
+      {% assign name = each | first %}
+      {% assign posts = each | last %}
+      <li><a href="/tags/#{{name|replace:' ','-'}}">{{name}}
+	<span class="badge">{{posts|size}}</span></a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% for each in sorted_tags %}
+  {% assign name = each | first %}
+  {% assign posts = each | last %}
+  <h4 id="{{name|replace:' ','-'}}" style="padding-top: 60px; margin-top: -60px;">
+    <span class="glyphicon glyphicon-tag"></span>{{name}}
+    <span class="badge">{{ posts | size }}</span>
+  </h4>
+  <ul class="list-unstyled">
+    {% for post in posts %}
+      {% if post.tags contains name %}
+	<li><span class="glyphicon glyphicon-time"></span>
+	{{ post.date | date: "%Y-%m-%d" }} &raquo;
+	<a href="{{ post.url }}">{{ post.title|upcase }}</a>
+	</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+<div class="well well-sm">
+  <ul class="nav nav-pills">
+    {% for each in sorted_tags %}
+      {% assign name = each | first %}
+      {% assign posts = each | last %}
+      <li><a href="/tags/#{{name|replace:' ','-'}}">{{name}}
+	<span class="badge">{{posts|size}}</span></a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -14,7 +14,7 @@
     <ul>
       <li><b>Principle Investigator</b>: Dongming Mei </li>
 	    <li><b>Administrator</b>: Christina Keller </li>
-	    <li><b>Senior Personnel</b>: Joel Sander, Wenqin Xu, guojian Wang, Jing Liu</li>
+	    <li><b>Senior Personnel</b>: Joel Sander, Wenqin Xu, Guojian Wang, Jing Liu</li>
 	    <li><b>Graduate Students</b>: Mitchell Wagner, Wenzhao Wei</li>
     </ul>
     <p><a class="btn btn-default" href="http://www.usd.edu/arts-and-sciences/physics" role="button">USD Physics &raquo;</a></p>

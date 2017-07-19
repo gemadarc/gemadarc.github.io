@@ -33,7 +33,8 @@ th {
 }
 
 .business-header {
-    height: 250px;
+    height: 350px;
+	padding-top: 75px;
     background: url('/assets/banner.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;

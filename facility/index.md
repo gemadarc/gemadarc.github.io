@@ -20,48 +20,50 @@
 
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
-    {% include_relative /usd.md %}
-
+	{% capture my_include %}{% include_relative /usd.md %}{% endcapture %}
+	{{ my_include | markdownify }}
     </div>
     <div id="menu1" class="tab-pane fade">
-    {% include_relative /unc.md %}
+	{% capture my_include %}{% include_relative /unc.md %}{% endcapture %}
+	{{ my_include | markdownify }}
 
     </div>
     <div id="menu2" class="tab-pane fade">
-    {% include_relative /tamu.md %}
+	{% capture my_include %}{% include_relative /tamu.md %}{% endcapture %}
+	{{ my_include | markdownify }}
     
     </div>
     <div id="menu3" class="tab-pane fade">
-    {% include_relative /lbnl.md %}
-    
+	{% capture my_include %}{% include_relative /lbnl.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
 	<div id="menu4" class="tab-pane fade">
-    {% include_relative /bhsu.md %}
-    
+	{% capture my_include %}{% include_relative /bhsu.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
     <div id="menu5" class="tab-pane fade">
-    {% include_relative /umn.md %}
-    
+	{% capture my_include %}{% include_relative /umn.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
     <div id="menu6" class="tab-pane fade">
-    {% include_relative /ttu.md %}
-    
+	{% capture my_include %}{% include_relative /ttu.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
     <div id="menu7" class="tab-pane fade">
-    {% include_relative /queens.md %}
-    
+	{% capture my_include %}{% include_relative /queens.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
     <div id="menu8" class="tab-pane fade">
-    {% include_relative /tsinghua.md %}
-    
+	{% capture my_include %}{% include_relative /tsinghua.md %}{% endcapture %}
+	{{ my_include | markdownify }}    
     </div>
     <div id="menu9" class="tab-pane fade">
-    {% include_relative /mpi.md %}
-    
+ 	{% capture my_include %}{% include_relative /mpi.md %}{% endcapture %}
+	{{ my_include | markdownify }}   
     </div>
     <div id="menu10" class="tab-pane fade">
-    {% include_relative /iopas.md %}
-    
+ 	{% capture my_include %}{% include_relative /iopas.md %}{% endcapture %}
+	{{ my_include | markdownify }}   
     </div>
 	
   </div>

@@ -1,5 +1,5 @@
 body {
-  padding-top: 60px; /* skip navbar-fixed-top */
+  padding-top: 50px; /* skip navbar-fixed-top */
 }
 .post-date{
   float:right;
@@ -10,6 +10,7 @@ img {
   max-width: 100%; 
   height: auto;
 }
+
 .carousel-inner > .item > img {
     margin: 0 auto;
     height: 300px;
@@ -54,6 +55,16 @@ th {
 
 footer {
     margin: 50px 0;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 /************************************************************
 *************************Footer******************************

@@ -10,7 +10,7 @@ The observed decays show a spectrum of the energies of the two electrons which i
 
 ![0vbb](https://drive.google.com/uc?id=0BwM7XYhFgK7oa0M5bDJQam1TYVE "Normal double beta decay and neutrinoless double beta decay")
 
-It would be a fundamental discover to find such a decay. If the neutrino is its own anti-particle this could be part of the explanation
+It would be a fundamental discovery to find such a decay. If the neutrino is its own anti-particle this could be part of the explanation
 why after the big bang some matter survived but no anti-matter. However, even if they can, it is much harder for two neutrons to match up
 properly to exchange a neutrino than to just decay together. Therefore, the decay rate is expected to even be orders of magnitude lower than for
 the normal double-beta decay, i.e. the half-life is orders of magnitude larger. The best experimental limit in germanium has also been set by the

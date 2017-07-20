@@ -1,3 +1,16 @@
+---
+---
 
+## Zone refinement equipment
 
-## test
+## Crystal grower
+
+## Sputter machine
+
+Targets:
+
+- Ge
+- SiO<sub>2</sub>
+- Al
+
+## E-beam evaporation machine

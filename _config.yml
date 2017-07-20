@@ -1,13 +1,5 @@
-markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
 paginate: 5
 gems: [jekyll-paginate]
-highlighter: rouge
-
-permalink: pretty
 
 defaults:
   -

@@ -4,7 +4,8 @@
 ## Zone refinement equipment
 
 ## Crystal grower
-
+## X ray orientation 
+![X ray orientation](https://drive.google.com/file/d/0B3yvXEqPBERIOVpJVGpNazBGazg/view?usp=sharing)
 ## Sputter machine
 
 Targets:

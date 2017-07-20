@@ -13,6 +13,8 @@ layout: page
       <li class="active"><a data-toggle="pill" href="#menu1">Neutrinoless double beta decay</a></li>
       <li><a data-toggle="pill" href="#menu2">Dark Matter</a></li>
       <li><a data-toggle="pill" href="#menu3">Neutrino Magnetic Moment</a></li>
+      <li><a data-toggle="pill" href="#menu4">Coherent neutrino-nucleus scattering</a></li>
+      <li><a data-toggle="pill" href="#menu5">Ge crystal purification and growth</a></li>
     </ul>
   </div>
   
@@ -30,8 +32,14 @@ layout: page
        	{% capture my_include %}{% include_relative /mu.md %}{% endcapture %}
 	      {{ my_include | markdownify }}
       </div>
+      <div id="menu4" class="tab-pane fade">
+       	{% capture my_include %}{% include_relative /cevns.md %}{% endcapture %}
+	      {{ my_include | markdownify }}
+      </div>
+      <div id="menu5" class="tab-pane fade">
+       	{% capture my_include %}{% include_relative /crystal.md %}{% endcapture %}
+	      {{ my_include | markdownify }}
+      </div>
     </div>
   </div>
 </div> <!-- END OF ROW -->
-
- 

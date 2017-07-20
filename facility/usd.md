@@ -3,7 +3,8 @@
 
 ## Zone refinement equipment
 
-## Crystal grower
+## Crystal growth furnace
+![Crystal growerfurnace](https://drive.google.com/a/usd.edu/file/d/0B3yvXEqPBERISVVFWkhIZWlHQms)
 ## X ray orientation 
 ![X ray orientation](https://drive.google.com/file/d/0B3yvXEqPBERIOVpJVGpNazBGazg)
 

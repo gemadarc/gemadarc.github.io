@@ -4,5 +4,8 @@ In Einstein's description of gravity, any mass bends space-time. Thus, even the 
 
 The observation of multiple images of far away objects makes it possible to estimate the amount of mass between the far away object and us. Many observations have to be combinded to create a amap of the dark mass.
 
-As we cannot see this dark mass, we call whatever it is made of "dark matter". Particle physics provides a couple of hypothetical candiates for dark matter. One of them is the "weakly interacting massive particle". 
+As we cannot see this dark mass, we call whatever it is made of "dark matter". Particle physics provides a couple of hypothetical candiates for dark matter. One of them is the "weakly interacting massive particle", WIMP. This particular candidate has been searched for by many collaborations and in many ways. One approach is to place germanium detectors in a laboratory deep underground, protected from all natural radioactivity. In such an environment, a germanium detector does not produce background signals and it is possible to wait for the signal from an interaction of a WIMP in the crystal. So far, nobody has been able to identify such a signal. Thus, it is only possible to excludes WIMPs with certain masses and certain propabilities to interact.
+
+Such exclusions only make sense, if we assume that dark matter is present around and in earth. As the stars at the edge of our galaxy also move faster than the visible mass would suggest, this is believed to be a good assumption.
+One of the experiments searching for WIMPs is the "China Dark Matter EXperiment", CDEX. Some Members of CDEX are also members of GEMADARK PIRE and visits are possible.
 

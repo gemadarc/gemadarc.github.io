@@ -4,6 +4,7 @@
 ## Zone refinement equipment
 
 ## Crystal growth furnace
+Two crystal growth furnaces.
 ![Crystal growerfurnace](https://drive.google.com/uc?id=0B3yvXEqPBERISVVFWkhIZWlHQms)
 ## X ray orientation 
 ![X ray orientation](https://drive.google.com/uc?id=0B3yvXEqPBERIOVpJVGpNazBGazg)

@@ -5,7 +5,8 @@ Then came the observation that the stars at the edge of large spiral galaxies ci
 
 <img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oaEdaVFlGb2s3bmM" width="500">
 
-Stars move as fast at the edge of the galaxy as further in. They would be slower, if only the visible matter was there. 
+Stars move as fast at the edge of the galaxy as further in. They would be slower, 
+if only the visible matter was there. 
 
 And finally came the mapping of the dark masses with gravitational lensing.
 In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
@@ -14,7 +15,7 @@ In Einstein's description of gravity, any mass bends space-time. Thus, even the 
 
 A typical example of this phenomenon is an "Einstein cross".
 
-![Einstein cross](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Einstein_cross.jpg/1024px-Einstein_cross.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Einstein_cross.jpg/1024px-Einstein_cross.jpg" width="500" >
 
 Spectral analysis shows that the five images show the same object. A single object is sometimes seen as an arc or even as a complete ring. This depends on the distribution of the masses bending the light.  Thus, the observation of multiple images of many far away objects makes it possible to estimate the amount and distribution of mass between the far away objects and us. It is like a gigantic puzzle. In the end, a three dimensional map of the dark universe emerges.
 

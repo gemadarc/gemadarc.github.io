@@ -3,7 +3,7 @@ There seems to be a lot more in the universe than can be seen. The normal matter
 In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
 
 ![galaxy](https://drive.google.com/uc?id=0BwM7XYhFgK7oaEdaVFlGb2s3bmM)
-stars move as fast at the edge of the galaxy as furher in
+Stars move as fast at the edge of the galaxy as furher in
 
 ![gravitaional lensing](https://drive.google.com/uc?id=0BwM7XYhFgK7oWHYyR3lZSkEyVzA)
 Multiple images of Multiple images of the same object are created through the bending of light.

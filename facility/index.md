@@ -1,8 +1,9 @@
 ---
 ---
-
-# Facilities and Labs
-  <p>Every institution in GEMADARC has unique labs and facilities that are involved in germanium related research. </p>
+<div class="jumbotron">
+  <h1 class="text-center">Facilities and Labs</h1>
+  <h3 class="text-center">Unique labs and facilities available to GEMADARC collaboration</h3>
+</div>
 
   <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#home">USD</a></li>

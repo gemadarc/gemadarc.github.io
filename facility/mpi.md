@@ -22,7 +22,6 @@ K2 is mainly used to study drift paths patterns and the temperature dependence o
 # Gerdalinchen II
 
 <img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oU3JEbVlsQ2pEZGc" align="left">
-
 Gerdalinchen II features a small cryogentic vessel which can be filled with liquid argon or nitrogen. Germanium detectors can be submerged in a controlled way avoiding icing. 
 
 Gerdalinchen II is mainly used to study the behaviour of detectors when directly submerged in cryo-liquid.

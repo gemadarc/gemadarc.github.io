@@ -12,8 +12,8 @@ Galatea is designed to allow detector scans with alpha, beta and gamma sources. 
 Galatea is mainly used to study surface events. 
 
 # K2
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA" align="left" style="image-orientation: 180deg;"/>
 
-<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA" style="image-orientation:180deg;" align="left" >
 
 K2 is designed to allow detector scans with gamma sources. A system of three stages surrounding a temperature controlled vacuum cryostat makes complete mantle scans possible. The system is fully automated. Currently work is ongoing to upgrade K2 with a Compton camera to allow for 3d scans.
 

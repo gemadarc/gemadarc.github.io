@@ -22,5 +22,5 @@ the future germanium-based experiment LEGEND and thus help to develop the concep
 Some members of the LEGEND collaboration are also members of GEMARDARC PIRE and provide opportunities for research. 
 
 [1] J. Phys. G: Nucl. Part. Phys. 40 (2013) 035110 (arXiv:1212.3210)
-              
+
 [2] Nature 554 (201) 47-52 (arXiv:1703.00570)

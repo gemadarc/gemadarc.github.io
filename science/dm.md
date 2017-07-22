@@ -25,7 +25,7 @@ Spectral analysis shows that the five images show the same object. A single obje
 
 Thus, the observation of multiple images of many far away objects makes it possible to estimate the amount and distribution of mass between the far away objects and us. It is like a gigantic puzzle. In the end, a three dimensional map of the dark universe emerges.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/COSMOS_3D_dark_matter_map.png/1024px-COSMOS_3D_dark_matter_map.png" width="700" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/COSMOS_3D_dark_matter_map.png/1024px-COSMOS_3D_dark_matter_map.png" width="900" align="left">
 
 The amazing thing is that there is about five times more dark mass in the universe than there is normal mass.
 
@@ -36,7 +36,8 @@ is a very special case.
   
 <img src="https://apod.nasa.gov/apod/image/0608/bullet_cluster_c60w.jpg" width="700" align="right">
 
-Two galaxy clusters collided and the visible matter interacted to form one cluster. The dark matter components of the two clusters  did not interact and separated again. They were mapped and are shown in blue. The bullet cluster is generally seen as THE evidence for dark mass.
+Two galaxy clusters collided and the visible matter interacted to form one cluster. The dark matter components of the two clusters  did not interact and separated again. They were mapped and are shown in blue. The normal matter is dominated by hot gas shown in pink. The bullet cluster is generally seen as THE evidence for dark mass.
+
 
 As we cannot see this dark mass, we call whatever it is made of "dark matter". Particle physics provides a couple of hypothetical candiates for dark matter. One of them is the "weakly interacting massive particle", WIMP. This particular candidate has been searched for by many collaborations and in many ways. One approach is to place germanium detectors in a laboratory deep underground, protected from all natural radioactivity. In such an environment, a germanium detector does not produce background signals and it is possible to wait for the signal from an interaction of a WIMP in the crystal. So far, nobody has been able to identify such a signal. Thus, it is only possible to excludes WIMPs with certain masses and certain propabilities to interact.
 

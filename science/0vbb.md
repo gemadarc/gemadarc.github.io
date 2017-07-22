@@ -15,7 +15,7 @@ If the neutrino is its own anti-particle this could be part of the explanation w
 In the future, the search is to be extended by several orders of magnitude. This will happen using large amounts of germanium and also xenon.
 
 The research done within the framework of GEMARDARC will contribute to the better understanding of the germanium detectors used for the future germanium-based experiment LEGEND and will, thus, help to develop the concepts and strategies for this experiment.
-Some members of the LEGEND collaboration are also members of GEMARDARC PIRE and provide opportunities to be part this research. 
+Some members of the LEGEND collaboration are also members of GEMARDARC PIRE and provide opportunities to be part of this research. 
 
 [1] J. Phys. G: Nucl. Part. Phys. 40 (2013) 035110 (arXiv:1212.3210)
 

@@ -23,14 +23,14 @@ A typical example of this phenomenon is an "Einstein cross".
 
 Spectral analysis shows that the five images show the same object. A single object is sometimes seen as an arc or even as a complete ring. This depends on the distribution of the masses bending the light.  Thus, the observation of multiple images of many far away objects makes it possible to estimate the amount and distribution of mass between the far away objects and us. It is like a gigantic puzzle. In the end, a three dimensional map of the dark universe emerges.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/COSMOS_3D_dark_matter_map.png/1024px-COSMOS_3D_dark_matter_map.png" width="600" align="left"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/COSMOS_3D_dark_matter_map.png/1024px-COSMOS_3D_dark_matter_map.png" width="600" align="left">
 
 The amazing thing is that there is about five times more dark mass in the universe than there is normal mass.
 
 Normally the dark mass is seen to surround the normal mass. However, one exception has been observed. The bullet cluster
 is a very special case.
   
-![bullet cluster](https://apod.nasa.gov/apod/image/0608/bullet_cluster_c60w.jpg)
+<img src="https://apod.nasa.gov/apod/image/0608/bullet_cluster_c60w.jpg" width="600" align="right">
 
 Two galaxy clusters collided and the visible matter interacted to form one cluster. The dark matter components of the two clusters  did not interact and separated again. They were mapped and are shown in blue. The bullet cluster is generally seen as THE evidence for dark mass.
 

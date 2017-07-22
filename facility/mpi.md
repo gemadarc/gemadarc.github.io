@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Max-Plank-Institute for physics operates three facilities to investigate germanium detectors
+# The Max-Plank-Institute for physics operates three facilities to investigate germanium detectors:
 
 # Galatea
 

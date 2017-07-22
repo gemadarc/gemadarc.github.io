@@ -1,9 +1,16 @@
 # Dark matter
-There seems to be a lot more in the universe than can be seen. The normal matter that "our world" is made of seems to be only a small part of it. The first indication that the observed matter is not enough came from the study of galaxy clusters: there is apparantly not enough matter to hold them together. The galaxies move about so fast that the clusters should disperse. Then came the observation that the stars at the edge of large spiral galaxies circle their galaxies too fast. This indicates that these galaxies have very massive halos which are invisible, i.e. "dark". And finally came the mapping of the dark masses with gravitational lensing.
-In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
+There seems to be a lot more in the universe than can be seen. The normal matter that "our world" is made of seems to be only a small part of it. The first indication that the observed matter cannot be all there is came from the study of galaxy clusters: there is apparantly not enough matter to hold them together. The galaxies move about so fast that the clusters should disperse. 
+
+Then came the observation that the stars at the edge of large spiral galaxies circle their galaxies too fast. This indicates that these galaxies have very massive halos which are invisible, i.e. "dark". 
 
 ![galaxy](https://drive.google.com/uc?id=0BwM7XYhFgK7oaEdaVFlGb2s3bmM){height="100px" width="100px"}
-Stars move as fast at the edge of the galaxy as furher in
+
+Stars move as fast at the edge of the galaxy as furher in.
+
+And finally came the mapping of the dark masses with gravitational lensing.
+In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
+
+
 
 ![gravitaional lensing](https://drive.google.com/uc?id=0BwM7XYhFgK7oWHYyR3lZSkEyVzA = 50x50)
 Multiple images of Multiple images of the same object are created through the bending of light.

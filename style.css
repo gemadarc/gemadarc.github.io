@@ -41,8 +41,8 @@ th {
 }
 
 .business-header {
-    height: 350px;
-	padding-top: 75px;
+    min-height: 250px;
+    padding-top: 5px;
     background: url('/assets/banner.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -62,26 +62,13 @@ th {
     margin: 0 auto;
 }
 
-footer {
-    margin: 50px 0;
-}
-
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
-}
 /************************************************************
 *************************Footer******************************
 *************************************************************/
 
 @import url(http://fonts.googleapis.com/css?family=Fjalla+One);
 @import url(http://fonts.googleapis.com/css?family=Gudea);
-.footer1 {
+.footer {
     background: #fff repeat scroll left top;
 	padding-top: 40px;
 	padding-right: 0;

@@ -13,7 +13,7 @@ Galatea is mainly used to study surface events.
 
 # K2
 
-![k2](https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA)
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA" align="left" rotate="90">
 
 K2 is designed to allow detector scans with gamma sources. A system of three stages surrounding a temperature controlled vacuum cryostat makes complete mantle scans possible. The system is fully automated. Currently work is ongoing to upgrade K2 with a Compton camera to allow for 3d scans.
 
@@ -21,7 +21,7 @@ K2 is mainly used to study drift paths patterns and the temperature dependence o
 
 # Gerdalinchen II
 
-<src="https://drive.google.com/uc?id=0BwM7XYhFgK7oU3JEbVlsQ2pEZGc" align="left">
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oU3JEbVlsQ2pEZGc" align="left">
 
 Gerdalinchen II features a small cryogentic vessel which can be filled with liquid argon or nitrogen. Germanium detectors can be submerged in a controlled way avoiding icing. 
 

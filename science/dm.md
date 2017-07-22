@@ -9,9 +9,13 @@ Stars move as fast at the edge of the galaxy as further in. They would be slower
 if only the visible matter was there. 
 
 And finally came the mapping of the dark masses with gravitational lensing.
-In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
+
 
 <img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oWHYyR3lZSkEyVzA" width="400" align="left"> 
+
+In Einstein's description of gravity, any mass bends space-time. Thus, even the path of a massless particle like a photon, i.e. light, gets bent. This can result in observing the same object multiple times. 
+
+
 
 A typical example of this phenomenon is an "Einstein cross".
 

@@ -19,19 +19,12 @@
 <h2>K2</h2>
 <p>K2 is designed to allow detector scans with gamma sources. A system of three stages surrounding a temperature controlled vacuum cryostat makes complete mantle scans possible. The system is fully automated. Currently work is ongoing to upgrade K2 with a Compton camera to allow for 3d scans.</p>
 <p>K2 is mainly used to study drift paths patterns and the temperature dependence of pulse shapes.</p>
-</div>
-<div class="col-sm-6">
-<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA">
-</div>
-</div>
-
-<div class="row">
-<div class="col-sm-6">
-<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oU3JEbVlsQ2pEZGc">
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7obWxqVGNvdlg0QjA" style="image-orientation:from-image">
 </div>
 <div class="col-sm-6">
 <h2>Gerdalinchen II</h2>
 <p>Gerdalinchen II features a small cryogentic vessel which can be filled with liquid argon or nitrogen. Germanium detectors can be submerged in a controlled way avoiding icing.</p>
 <p>Gerdalinchen II is mainly used to study the behaviour of detectors when directly submerged in cryo-liquid.</p>
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oU3JEbVlsQ2pEZGc">
 </div>
 </div>

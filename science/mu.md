@@ -6,11 +6,11 @@ Neutrino oscillation experiments provide compelling evidence on finite neutrino 
 ![Coupling between neutrinos and photons](https://drive.google.com/uc?id=0BwM7XYhFgK7oQnNpUlJ3cWE3Rjg)
 Figure 1. Studies of neutrino electromagnetic processes probe the possible existence of couplings between the neutrino and the photon. Neutrino magnetic moments parametrize the case when the incoming and outgoing neutrinos have opposite helicities (as depicted), while neutrino milli-charge and charge radius describe one where the spin states are conserved.
 
-Intrinsic neutrino properties such as magnetic moments (&Mu;<sub>&Nu;</sub>) [2], milli-charge (q<sub>&Nu;</sub>) [3] and charge radius (<r<sub>&Nu;</sub><sup>2</sup>) are the realizations of anomalous neutrino electromagnetic effects. Their experimental manifestations are the deviations of the integral and differential cross-sections in neutrino-atom interactions: 
+Intrinsic neutrino properties such as magnetic moments (&mu;<sub>&nu;</sub>) [2], milli-charge (q<sub>&nu;</sub>) [3] and charge radius (<r<sub>&nu;</sub><sup>2</sup>>) are the realizations of anomalous neutrino electromagnetic effects. Their experimental manifestations are the deviations of the integral and differential cross-sections in neutrino-atom interactions: 
 
-&Nu; + A &rarr; &Nu; + A<sup>+</sup> + e<sup>-</sup>
+&nu; + A &rarr; &nu; + A<sup>+</sup> + e<sup>-</sup>
 
-relative to those due to Standard Model electroweak processes. In particular, both &Mu;<sub>&Nu;</sub>  and q<sub>&Nu;</sub>  would provide cross-section enhancement as well as distinct spectral features at low (<10 keV) energy transfer or equivalently the measureable energy in an interaction (Figure 1). These distinct features have also be adopted in placing constraints on sterile neutrinos as dark matter [4].
+relative to those due to Standard Model electroweak processes. In particular, both &nu;<sub>&nu;</sub>  and q<sub>&nu;</sub>  would provide cross-section enhancement as well as distinct spectral features at low (<10 keV) energy transfer or equivalently the measureable energy in an interaction (Figure 1). These distinct features have also be adopted in placing constraints on sterile neutrinos as dark matter [4].
 
 Germanium detectors, with their low threshold and excellent energy resolution, are optimal in the studies of neutrino electromagnetic effects [5]. Some of the most sensitive studies have been obtained with germanium detectors using reactor neutrinos at the Kuo-Sheng Reactor Neutrino Laboratory in Taiwan by the TEXONO group, a collaborating partner or the PIRE-GEMADARC research program. The expected improvement of the germanium detector technologies in detection threshold, energy resolution and intrinsic background in the course of the PIRE-GEMADARC program will further extend the sensitivity reach in these investigations. 
 

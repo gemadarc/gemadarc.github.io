@@ -5,6 +5,7 @@ Check out some amazing research activities that are carried out by the collabora
 
 - [Neutrino properties](https://drive.google.com/uc?id=1NRCNIGPrhmObE8YOwxklzc-deQVhumQd)
 - [Neutrinoless double beta decay](https://drive.google.com/uc?id=190zpMeBdRrWsPSjkHce_PmmI1vui5hVV)
+- [New ideas in dark matter detection](https://drive.google.com/open?id=1bOxZuOdxmUCZRnWhuiSaYSU83RZQHRGl)
 - [Crystal purification and growth](https://drive.google.com/uc?id=1NyQos4YAf3YyFeNta5km1I_HTBNByw8u)
 - [Planar detector fabrication](https://drive.google.com/uc?id=1jrbWGtGmoPQBoH5Hubl3BwhLx88iiMWt)
 - [Novel Detector fabrication and development](https://drive.google.com/uc?id=1VmVkb-nEWNfkbEi10jrE16YNaT45IOU3)

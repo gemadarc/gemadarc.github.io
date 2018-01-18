@@ -1,5 +1,3 @@
----
----
 # Mentoring and Exchange
 
 ## How it works

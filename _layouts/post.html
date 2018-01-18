@@ -5,10 +5,10 @@
 <p>
 <span class="glyphicon glyphicon-time"></span>{{ page.date | date: "%b %d, %Y" }}
 {% for cat in page.categories %}
-  <span class="glyphicon glyphicon-folder-open"></span> <a href="/{{cat}}">{{cat}}</a>
+  <span class="glyphicon glyphicon-folder-open"></span> <a href="/{{cat|replace:' ','-'}}">{{cat}}</a>
 {% endfor %}
 {% for tag in page.tags %}
-  <span class="glyphicon glyphicon-tag"></span><a href="/tags/#{{tag}}">{{tag}}</a>
+  <span class="glyphicon glyphicon-tag"></span><a href="/tags/#{{tag|replace:' ','-'}}">{{tag}}</a>
 {% endfor %}
 </p>
 {{ content }}

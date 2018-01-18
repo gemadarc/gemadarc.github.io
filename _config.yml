@@ -1,6 +1,8 @@
+# https://jekyllrb.com/docs/pagination/
+plugins: [jekyll-paginate]
 paginate: 5
-gems: [jekyll-paginate]
 
+# https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
   -
     scope:

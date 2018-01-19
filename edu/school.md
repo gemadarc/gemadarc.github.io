@@ -32,6 +32,7 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 - [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - [Joel Sander][Joel], [University of South Dakota][USD], Vermillion, SD, USA
 - [Guojian Wang][Guojian], [University of South Dakota][USD], Vermillion, SD, USA
+- [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Wenqin Xu][Wenqin], [University of South Dakota][USD], Vermillion, SD, USA
 - [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
@@ -143,3 +144,5 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 [UNC]: http://www.unc.edu/
 [Rusty]: https://engineering.tamu.edu/electrical/people/rharris
 [TAMU]: http://www.tamu.edu/
+[IOP]: http://www.phys.sinica.edu.tw/index_en.php
+[Henry]: http://www.phys.sinica.edu.tw/~htwong/

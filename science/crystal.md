@@ -1,6 +1,3 @@
----
----
-
 ## Zone refinement
 
 - item 1

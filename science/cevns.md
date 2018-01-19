@@ -1,6 +1,3 @@
----
----
-
 # Coherent Elastic &nu;-Nucleus Scattering (CEvNS)
 
 ![strikes by objects with different energies](https://drive.google.com/uc?id=0BwM7XYhFgK7objRmQUdET2ZfbGc)

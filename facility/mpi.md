@@ -1,6 +1,3 @@
----
----
-
 <p class="lead">The Max-Plank-Institute for physics operates three facilities to investigate germanium detectors:</p>
 
 <div class="row">

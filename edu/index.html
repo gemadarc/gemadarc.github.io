@@ -8,33 +8,38 @@
 <div class="row">
   <div class="col-md-3">  
     <ul class="nav nav-pills nav-stacked">
-      <li class="active"><a data-toggle="pill" href="#menu1">Teaching</a></li>
-      <li><a data-toggle="pill" href="#menu2">Mentoring</a></li>
-      <li><a data-toggle="pill" href="#menu3">Oversea</a></li>
-      <li><a data-toggle="pill" href="#menu4">Scholarships</a></li>
-      <li><a data-toggle="pill" href="#menu5">Outreach</a></li>
+      <li class="active"><a data-toggle="pill" href="#summer-school">Summer school</a></li>
+      <li><a data-toggle="pill" href="#teaching">Teaching</a></li>
+      <li><a data-toggle="pill" href="#mentoring">Mentoring</a></li>
+      <li><a data-toggle="pill" href="#oversea">Oversea</a></li>
+      <li><a data-toggle="pill" href="#scholarship">Scholarships</a></li>
+      <li><a data-toggle="pill" href="#outreach">Outreach</a></li>
     </ul>
   </div>
 
   <div class="col-md-9">  
     <div class="tab-content">
-      <div id="menu1" class="tab-pane fade in active">
+      <div id="teaching" class="tab-pane fade in active">
+	{% capture my_include %}{% include_relative school.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="teaching" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /teaching.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
-      <div id="menu2" class="tab-pane fade">
+      <div id="mentoring" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /mentoring.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
-      <div id="menu3" class="tab-pane fade">
+      <div id="oversea" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /oversea.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
-      <div id="menu4" class="tab-pane fade">
+      <div id="scholarship" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /scholarship.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
-      <div id="menu5" class="tab-pane fade">
+      <div id="outreach" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /outreach.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>

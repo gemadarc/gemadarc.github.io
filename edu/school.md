@@ -1,25 +1,97 @@
 # Summer school 2018
 
 July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
+
 <div class="row">
-  <div class="col-sm-6">
-    <img src="http://physics.scu.edu.cn/en/public/images/logo.png">
-  </div>
-  <div class="col-sm-6">
-    <img src="http://cwsn2016.scu.edu.cn/wp-content/uploads/2016/01/scu-logo-s.png">
-  </div>
+
+<div class="col-md-6">
+<ul>
+<li><a href="#schedule">Schedule</a></li>
+<li><a href="#lecturers">Lecturers</a></li>
+<li><a href="#topics">Topics</a></li>
+<li><a href="#visa">Visa</a></li>
+<li><a href="#food">Food</a></li>
+<li><a href="#lodging">Lodging</a></li>
+<li><a href="#excursion">Excursion</a></li>
+<li><a href="#registration">Registration</a></li>
+<li><a href="#transportation">Transportation</a></li>
+<li><a href="#culture-and-activities">Culture & Activities</a></li>
+</ul>
 </div>
 
-## Organizing committee
+<div id="science-carousel" class="carousel slide col-md-6" data-ride="carousel">
 
-- Local committee
-  - Shin-Ted Lin, [Sichuan University][SCU], Chengdu, Sichuan, China
-  - Shukui Liu, [Sichuan University][SCU], Chengdu, Sichuan, China
-  - Qian Yue, [Tsinghua University][Tsinghua], Beijing, China
-- International committee
-  - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
-  - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
-  - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
+<div class="carousel-inner" role="listbox">
+<div class="item active">
+<img src="http://images.iop.org/objects/phw/news/20/2/21/PW-2016-02-23-jinping.jpg">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#underground-laboratories" role="button">Underground Lab</a>
+</div>
+</div>
+
+<div class="item">
+<img src="http://www.scu.edu.cn/en/lib/mytemp/images/index_22.gif">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#lodging" role="button">Lodging</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/COSMOS_3D_dark_matter_map.png/1024px-COSMOS_3D_dark_matter_map.png">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#dark-matter" role="button">Dark matter</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://tblg.k-img.com/resize/660x370c/restaurant/images/Rvw/29067/29067331.jpg?token=f993a15&api=v2">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#food" role="button">Taste of Sichuan</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oMmZNb2dnQ0xHWXM">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#germanium-detector-technologies" role="button">HPGe detectors</a>
+</div>
+</div>
+
+<div class="item">
+<img src="http://www.sghequan.com/wp-content/uploads/2016/06/Face-changing-singapore-1024x683.jpg">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#culture-and-activities" role="button">Mask changing in Sichuan Opera</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://www.symmetrymagazine.org/sites/default/files/styles/2015_hero/public/images/standard/FINAL_neutrinos_header_sized.jpg?itok=ZDqZNm5W">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#neutrino-physics" role="button">Neutrinos</a>
+</div>
+</div>
+</div><!--carousel-inner-->
+
+<a class="left carousel-control" href="#science-carousel" role="button" data-slide="prev">
+<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+<span class="sr-only">Previous</span>
+</a>
+
+<a class="right carousel-control" href="#science-carousel" role="button" data-slide="next">
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+<span class="sr-only">Next</span>
+</a>
+
+</div><!-- carousel slide -->
+
+</div><!-- row -->
+
+## Schedule
+
+- July 11, Trip from Xichang to Chengdu
+- July 12-13, Classes
+- July 14-15 (Sat. & Sun.), [Excursion](#excursion)
+- July 16-18, Classes
 
 ## Lecturers
 
@@ -30,11 +102,9 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 - [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
 - [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Joel Sander][Joel], [University of South Dakota][USD], Vermillion, SD, USA
 - [Guojian Wang][Guojian], [University of South Dakota][USD], Vermillion, SD, USA
 - [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
-- [Wenqin Xu][Wenqin], [University of South Dakota][USD], Vermillion, SD, USA
 - [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - JUNO or Daya Bay collaborator
 
@@ -72,6 +142,11 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 - Indirect detection
   - experimental methods and experiments survey
 - theory survey
+
+### Underground laboratories
+
+- Laboratory survey
+- Cosmic ray, natural radiation, Rn, etc.
 
 ### Ge detector technologies
 
@@ -128,6 +203,35 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 - radiation imaging
 - security / non proliferation
 - identification of fake food
+
+## Organizing committee
+
+- Local committee
+  - Shin-Ted Lin, [Sichuan University][SCU], Chengdu, Sichuan, China
+  - Shukui Liu, [Sichuan University][SCU], Chengdu, Sichuan, China
+  - Qian Yue, [Tsinghua University][Tsinghua], Beijing, China
+- International committee
+  - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
+  - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
+  - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
+
+## Excursion
+
+## Visa
+
+## Food
+
+## Lodging
+
+## Transportation
+
+## Registration
+
+\$160 US dollar (or 1,000 RMB).
+
+## Financial assistance
+
+## Culture and activities
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/

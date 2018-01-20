@@ -1,11 +1,13 @@
-# Summer school 2018
-
-July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
+# Summer School 2018
 
 <div class="row">
 
 <div class="col-md-6">
+July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
+<a href="https://en.wikipedia.org/wiki/Chengdu">Chengdu</a>,
+<a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
+<li><a href="#registration">Registration</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
@@ -13,9 +15,10 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 <li><a href="#food">Food</a></li>
 <li><a href="#lodging">Lodging</a></li>
 <li><a href="#excursion">Excursion</a></li>
-<li><a href="#registration">Registration</a></li>
+<li><a href="#financial-support">Financial Support</a></li>
 <li><a href="#transportation">Transportation</a></li>
 <li><a href="#culture-and-activities">Culture & Activities</a></li>
+<li><a href="#organizing-committee">Organizing committee</a></li>
 </ul>
 </div>
 
@@ -207,31 +210,47 @@ July 12-18, 2018, [Sichuan University][SCU], Chengdu, Sichuan, China
 ## Organizing committee
 
 - Local committee
+  - Hong Zhang, [Sichuan University][SCU], Chengdu, Sichuan, China
   - Shin-Ted Lin, [Sichuan University][SCU], Chengdu, Sichuan, China
   - Shukui Liu, [Sichuan University][SCU], Chengdu, Sichuan, China
   - Qian Yue, [Tsinghua University][Tsinghua], Beijing, China
 - International committee
   - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
-  - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
   - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
+  - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
 
 ## Excursion
 
-## Visa
+## VISA
+
+Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you an invitation letter for your VISA application.
 
 ## Food
 
+Breakfast will be provided by hotel. We encourage you to book lunch box and dinner provided by the local organizing committee to have save, convenient and delicious food. Please indicate your food preference in our [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) so that we can prepare accordingly. You can of course to have some food adventure by yourselves. However, it would be wise to have some local guide in your adventure team.
+
 ## Lodging
+
+We will be staying in one or two hotels right on [SCU] campus or very close.
 
 ## Transportation
 
-## Registration
-
-\$160 US dollar (or 1,000 RMB).
 
 ## Financial assistance
 
+For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financial-aid>.
+
 ## Culture and activities
+
+In addition to a one-day excursion, we offer you
+
+- Culture show in banquet: <https://en.wikipedia.org/wiki/Bian_lian>
+- Afternoon sports: Basketball, soccer, swimming, jogging, and Kong fu in the beautiful [SCU] campus
+
+## Registration
+
+The registration fee is \$160 US dollars for students outside of China, 1,000 RMB for Chinese students.
+Please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) if you are outside of China.
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/

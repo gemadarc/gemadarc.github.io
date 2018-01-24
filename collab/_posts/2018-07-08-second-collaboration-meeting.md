@@ -1,7 +1,7 @@
- # Second PIRE-GEMADARC Collaboration Meeting, Xichang, China, July 8-10, 2018 
+ Second PIRE-GEMADARC Collaboration Meeting, Xichang, China, July 8-10, 2018 
  ![Xichang, China](https://drive.google.com/uc?id=1LlOecTJfrjyPGYUeNNYadbR0tiThvAIR)
  
- ## Flight information
+ Flight information
  
   On July 7, 2018, you have the following options  to arrive in Xichang airport (XIC): 
   * Guangzhou (CAN) to Xichang (XIC):

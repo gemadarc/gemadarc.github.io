@@ -231,7 +231,7 @@ Breakfast will be provided by hotel. We encourage you to book lunch box and dinn
 
 ## Lodging
 
-![KeHua Hotel](https://drive.google.com/file/d/1RHh3aKz9WrR6VPtVGZArP1hIkq1I0sMS/view?usp=sharing)
+![KeHua Hotel](https://drive.google.com/uc?id=1RHh3aKz9WrR6VPtVGZArP1hIkq1I0sMS)
 
 We will be staying in the KeHua Hotel right on [SCU] campus from July 11 to 18.
 Its address is

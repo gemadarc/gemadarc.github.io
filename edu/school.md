@@ -96,6 +96,25 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - July 14-15 (Sat. & Sun.), [Excursion](#excursion)
 - July 16-18, Classes
 
+
+| Time        | July 12         | July 13         | July 16         | July 17         | July 18         |
+|-------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| 08:30-09:30 | Neutrino        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
+| 09:30-09:45 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
+| 09:45-10:45 | Ge detector     | Ge detector     | Ge detector     | Ge detector     | Ge detector     |
+| 10:45-11:00 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
+| 11:00-12:00 | Dark matter     | Dark matter     | Dark matter     | Dark matter     | Dark matter     |
+| 12:00-13:00 | Lunch           | Lunch           | Lunch           | Lunch           | Lunch           |
+| 13:00-14:00 | Discussion      | Discussion      | Discussion      | Discussion      | Discussion      |
+| 14:00-14:45 | Electronics     | Electronics     | Electronics     | Electronics     | Electronics     |
+| 14:45-15:00 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
+| 15:00-16:00 | Neutrino        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
+| 16:00-16:15 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
+| 16:15-17:15 | Data processing | Data processing | Data processing | Data processing | Data processing |
+| 17:15-18:15 | Exercise        | Exercise        | Exercise        | Exercise        | Exercise        |
+| 18:15-19:15 | Dinner          | Dinner          | Dinner          | Dinner          | Dinner          |
+| 19:15-20:15 | Culture         | Culture         | Culture         | Culture         | Culture         |
+
 ## Lecturers
 
 - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany

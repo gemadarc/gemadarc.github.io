@@ -231,7 +231,19 @@ Breakfast will be provided by hotel. We encourage you to book lunch box and dinn
 
 ## Lodging
 
-We will be staying in one or two hotels right on [SCU] campus or very close.
+![KeHua Hotel](https://drive.google.com/file/d/1RHh3aKz9WrR6VPtVGZArP1hIkq1I0sMS/view?usp=sharing)
+
+We will be staying in the KeHua Hotel right on [SCU] campus from July 11 to 18.
+Its address is
+
+    No. 141,
+    Ke-Hua North Road,
+    Wuhou District,
+    Chengdu, China
+
+There is no need to make your own reservation as long as you indicate your lodging preference in the [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2). Students are encouraged to share rooms. Foreign students will be mixed with Chinese students if they are willing to share rooms.
+
+Lecturers will stay in the same hotel to maximize the chance for students to discuss with them.
 
 ## Transportation
 

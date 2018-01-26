@@ -263,7 +263,7 @@ Two days of guided excursions will interleave five days of lectures. The expense
 
 ## Visa
 
-Participants should apply for L visa via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. Information can be found [here](http://www.china-embassy.org/eng/visas/hrsq/).
+Participants should apply for L visa via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. Information can be found online. For US students, please check [this page](http://www.china-embassy.org/eng/visas/hrsq/).
 
 Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you necessary documents for your visa application. There is no need to book the flight in advance since our invitation letter would work for visa application as well.
 

@@ -8,7 +8,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
 <li><a href="#registration">Registration</a></li>
-<li><a href="#schedule">Schedule</a></li>
+<li><a href="#draft-schedule">Draft schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
 <li><a href="#visa">Visa</a></li>
@@ -19,6 +19,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <li><a href="#transportation">Transportation</a></li>
 <li><a href="#culture-and-activities">Culture & Activities</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
+<li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 </ul>
 </div>
 
@@ -89,17 +90,20 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 </div><!-- row -->
 
-## Schedule
+## Draft schedule
 
-- July 11, Trip from Xichang to Chengdu
-- July 12-13, Classes
-- July 14-15 (Sat. & Sun.), [Excursion](#excursion)
-- July 16-18, Classes
+- July 10, visit Chinese underground laboratory, [CJPL] (optional)
+- July 11, travel from Xichang back to Chengdu
+- July 12 (Thu.), classes
+- July 13 (Fri.), [Excursion](#excursion)
+- July 14-15, classes
+- July 16 (Mon.), [Excursion](#excursion)
+- July 17-18, classes
 
 
-| Time        | July 12         | July 13         | July 16         | July 17         | July 18         |
+| Time        | July 12         | July 14         | July 15         | July 17         | July 18         |
 |-------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| 08:30-09:30 | Neutrino        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
+| 08:30-09:30 | Welcome         | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
 | 09:30-09:45 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
 | 09:45-10:45 | Ge detector     | Ge detector     | Ge detector     | Ge detector     | Ge detector     |
 | 10:45-11:00 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
@@ -111,7 +115,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 | 15:00-16:00 | Neutrino        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
 | 16:00-16:15 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
 | 16:15-17:15 | Data processing | Data processing | Data processing | Data processing | Data processing |
-| 17:15-18:15 | Exercise        | Exercise        | Exercise        | Exercise        | Exercise        |
+| 17:15-18:15 | Sports          | Sports          | Sports          | Sports          | Sports          |
 | 18:15-19:15 | Dinner          | Dinner          | Dinner          | Dinner          | Dinner          |
 | 19:15-20:15 | Culture         | Culture         | Culture         | Culture         | Culture         |
 
@@ -240,19 +244,38 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ## Excursion
 
+Two days of guided excursions will interleave five days of lectures. The expense is included in the [registration fee](#registration). We may visit the following sites:
+
+<div class="row">
+  <div class="col-sm-4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/%E9%9D%92%E9%93%9C%E7%BA%B5%E7%9B%AE%E9%9D%A2%E5%85%B7B.jpg">
+    <p><a href="https://en.wikipedia.org/wiki/Sanxingdui">Sanxingdui</a></p>
+  </div>
+  <div class="col-sm-4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Leshan_Buddha_Statue_View.JPG">
+    <p><a href="https://en.wikipedia.org/wiki/Leshan_Giant_Buddha">Leshan Giant Buddha</a></p>
+  </div>
+  <div class="col-sm-4">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Dujiang_Weir.jpg">
+    <p><a href="https://en.wikipedia.org/wiki/Dujiangyan">Dujiang Weir (UNESCO World Heritage Site)</a></p>
+  </div>
+</div>
+
 ## VISA
 
-Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you an invitation letter for your VISA application.
+Students should apply for X2 visa via their local Chinese embassy or consulate by providing their ordinary passport, admission notice, visa application form, and other required documents. Information can be found online, for example, <http://www.visarite.com/china_student_visa.htm>. Students must enter China with X visa and ensure that their visa will be valid for the entire duration of their stay in China.
+
+Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you necessary documents for your visa application.
 
 ## Food
 
-Breakfast will be provided by hotel. We encourage you to book lunch box and dinner provided by the local organizing committee to have save, convenient and delicious food. Please indicate your food preference in our [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) so that we can prepare accordingly. You can of course to have some food adventure by yourselves. However, it would be wise to have some local guide in your adventure team.
+Breakfast will be provided by hotel. We highly encourage you to book lunch box and dinner provided by the local organizing committee to have save, convenient and delicious food. Tickets can be purchased on site one day before the school. Please indicate your food preference in our [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) so that we can prepare accordingly. We can provide information for your own food adventures on excursion days. It would be wise to have some local students in your adventure team.
 
 ## Lodging
 
 ![KeHua Hotel](https://drive.google.com/uc?id=1RHh3aKz9WrR6VPtVGZArP1hIkq1I0sMS)
 
-We will be staying in the KeHua Hotel right on [SCU] campus from July 11 to 18.
+We will be staying in the KeHuaYuan Hotel right on [SCU] campus from July 11 to 18.
 Its address is
 
     No. 141,
@@ -260,12 +283,15 @@ Its address is
     Wuhou District,
     Chengdu, China
 
-There is no need to make your own reservation as long as you indicate your lodging preference in the [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2). Students are encouraged to share rooms. Foreign students will be mixed with Chinese students if they are willing to share rooms.
+There is no need to make your own reservation as long as you [register online](#registration). Students are highly encouraged to share rooms. Foreign students will be mixed with Chinese students to increase culture exchange opportunities.
 
 Lecturers will stay in the same hotel to maximize the chance for students to discuss with them.
 
 ## Transportation
 
+Transportation between [SCU] and [CJPL] will be provided by local organizers, which is not included in the [registration fee](#registration).
+
+Some local students may meet you in Chengdu airport if you need help to find your [way to the hotel](https://www.google.com/maps/dir/chengdu+airport/Kehuayuan+Hotel,+141+Kehua+N+Rd,+JiuYan+Qiao,+Wuhou+Qu,+Chengdu+Shi,+Sichuan+Sheng,+China). If that is the case, please [email the organizer](mailto:jing.liu@usd.edu) your flight information as soon as you have it.
 
 ## Financial assistance
 
@@ -273,10 +299,12 @@ For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financ
 
 ## Culture and activities
 
-In addition to a one-day excursion, we offer you
+In addition to two days of excursions, we offer you
 
 - Culture show in banquet: <https://en.wikipedia.org/wiki/Bian_lian>
-- Afternoon sports: Basketball, soccer, swimming, jogging, and Kong fu in the beautiful [SCU] campus
+- Morning [Tai chi](https://en.wikipedia.org/wiki/Tai_chi) or [Qigong](https://en.wikipedia.org/wiki/Qigong)
+- Afternoon exercises: Basketball, soccer, swimming, jogging, tennis, and Kong fu in the beautiful [SCU] campus
+- Early evening parties: Karaoke, [Mahjong](https://en.wikipedia.org/wiki/Mahjong), [Tea ceremony](https://en.wikipedia.org/wiki/Tea_ceremony), Chinese movies, etc.
 
 ## Registration
 
@@ -287,7 +315,14 @@ The registration fee is \$160 US dollars for students outside of China, and 1,00
 - a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
 It can be paid on site on July 11 by cash. The online payment option will be available soon.
 
-Please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (outside of China) at your earliest convenience so that we can have a rather accurate head counts for better preparation. The registration fee is not required for filling the form.
+No deadline is set for registration at this moment. However, please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (outside of China) at your earliest convenience so that
+
+1. We can have a rather accurate head counts in an early stage for better preparation (Registration fee is not required for filling the form).
+2. We can provide necessary documents for participants outside of China to start their [visa](#visa) application processes.
+
+Please be cautious about purchasing air tickets before obtaining a Chinese [visa](#visa). A round trip ticket from US to China in July at this moment costs about \$1,200, and will be quickly approaching \$1,500.
+
+**Please note that the registration process and fee are NOT waived for lecturers within the PIRE-GEMADARC collaboration.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee. Lecturers outside the collaboration also need to fill the [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2). But their registration fee may be waived in a case-by-case manner.
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/
@@ -306,3 +341,4 @@ Please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (ou
 [TAMU]: http://www.tamu.edu/
 [IOP]: http://www.phys.sinica.edu.tw/index_en.php
 [Henry]: http://www.phys.sinica.edu.tw/~htwong/
+[CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory

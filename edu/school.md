@@ -322,7 +322,7 @@ No deadline is set for registration at this moment. However, please fill [this r
 
 Please be cautious about purchasing air tickets before obtaining a Chinese [visa](#visa). A round trip ticket from US to China in July at this moment costs about \$1,200, and will be quickly approaching \$1,500.
 
-**Please note that the registration process and fee are NOT waived for lecturers within the PIRE-GEMADARC collaboration.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee. Lecturers outside the collaboration also need to fill the [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2). But their registration fee may be waived in a case-by-case manner.
+**Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/

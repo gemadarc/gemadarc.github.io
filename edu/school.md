@@ -309,10 +309,12 @@ In addition to two days of excursions, we offer you
 ## Registration
 
 The registration fee is \$160 US dollars for students outside of China, and 1,000 RMB for Chinese students. It is used to cover the following cost:
+
 - coffee, tea, and snacks in between lectures
 - a banquet and a [culture show](https://en.wikipedia.org/wiki/Bian_lian) during the banquet
 - two-days of [excursion](#excursion)
 - a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
+
 It can be paid on site on July 11 by cash. The online payment option will be available soon.
 
 No deadline is set for registration at this moment. However, please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (outside of China) at your earliest convenience so that

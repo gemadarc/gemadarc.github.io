@@ -261,11 +261,11 @@ Two days of guided excursions will interleave five days of lectures. The expense
   </div>
 </div>
 
-## VISA
+## Visa
 
-Students should apply for X2 visa via their local Chinese embassy or consulate by providing their ordinary passport, admission notice, visa application form, and other required documents. Information can be found online, for example, <http://www.visarite.com/china_student_visa.htm>. Students must enter China with X visa and ensure that their visa will be valid for the entire duration of their stay in China.
+Participants should apply for L visa via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. Information can be found [here](http://www.china-embassy.org/eng/visas/hrsq/).
 
-Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you necessary documents for your visa application.
+Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible so that we can send you necessary documents for your visa application. There is no need to book the flight in advance since our invitation letter would work for visa application as well.
 
 ## Food
 

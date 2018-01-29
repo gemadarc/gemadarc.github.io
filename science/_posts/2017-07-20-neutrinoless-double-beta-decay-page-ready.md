@@ -1,5 +1,5 @@
 ---
-tag: [www, 0vbb]
+tag: [0νββ]
 ---
 
 ![0vbb](https://drive.google.com/uc?id=0BwM7XYhFgK7oa0M5bDJQam1TYVE)

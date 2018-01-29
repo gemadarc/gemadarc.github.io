@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 ![PIRE-GEMADARC-collaboration](https://drive.google.com/uc?id=1AxDR1xCqAMpx7TqH3XsctXjCHbyWtsQw)
 
 The first PIRE-GEMADARC collaboration meeting was held at the University of California, Berkeley, December 10, 2017.

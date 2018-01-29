@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 ![Xichang, China](https://drive.google.com/uc?id=1LlOecTJfrjyPGYUeNNYadbR0tiThvAIR)
 
 The second PIRE-GEMADARC collaboration meeting will be held in Xichang, China, July 8-10, 2018.

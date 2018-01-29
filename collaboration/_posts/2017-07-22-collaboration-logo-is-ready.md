@@ -1,7 +1,3 @@
----
-tag: www
----
-
 ![GEMADARC logo](/assets/logo/color.full.png)
 
 After two weeks of [contest](https://www.freelancer.com/contest/Design-a-Logo-for-a-scientific-collaboration-1065937.html) on https://www.freelancer.com, the [logo designed by ouaredi](https://www.freelancer.com/contest/Design-a-Logo-for-a-scientific-collaboration-1065937-by-ouaredi-24687165.html) was voted by the collaboration to be the final winner. The artist ,[ouaredi](https://www.freelancer.com/u/ouaredi.html), worked for another week to take into account all requests from the collaboration and came up with the final product as shown above. The design concept and variations of the logo is explained in detail [here](/logo).

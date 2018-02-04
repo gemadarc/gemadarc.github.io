@@ -142,7 +142,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
   - Beta decays, Lepton number, Parity violation, helicity, etc.
 - Neutrino oscillations
   - theory
-  - solar, accelarator, reactor, atmosphere neutrino experiments
+  - solar, accelerator, reactor, atmosphere neutrino experiments
   - sterile neutrinos
   - absolute mass problem and hierarchy problem
 - Neutrino masses
@@ -295,7 +295,9 @@ Some local students may meet you in Chengdu airport if you need help to find you
 
 ## Financial assistance
 
-For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financial-aid>.
+PIRE GEMADARC provides some limited amount of [travel support](http://pire.gemadarc.org/education/#travel-support) for graduate students.
+
+For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financial-aid>. The link also include some general information on finding financial assistance.
 
 ## Culture and activities
 

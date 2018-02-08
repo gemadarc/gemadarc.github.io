@@ -332,7 +332,7 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/
 [USD]: http://www.usd.edu
 [MPI]: https://www.mpp.mpg.de/en/
-[Iris]:https://www.mppmu.mpg.d://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
+[Iris]:https://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
 [Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
 [Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
 [Wenqin]: http://www.usd.edu/faculty-and-staff/Wenqin-Xu

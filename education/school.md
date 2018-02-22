@@ -7,7 +7,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <a href="https://en.wikipedia.org/wiki/Chengdu">Chengdu</a>,
 <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
-<li><a href="#registration">Registration</a></li>
+<li><a href="#registration">Registration</a> (Deadline: Apr. 30)</li>
 <li><a href="#draft-schedule">Draft schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
@@ -295,7 +295,7 @@ Some local students may meet you in Chengdu airport if you need help to find you
 
 ## Financial assistance
 
-PIRE GEMADARC provides some limited amount of [travel support](http://pire.gemadarc.org/education/#travel-support) for graduate students.
+PIRE GEMADARC provides some limited amount of [travel support](http://pire.gemadarc.org/education/#travel-support) for graduate students. However, to be elegible to receive the support, one has to register before April 30, 2018.
 
 For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financial-aid>. The link also include some general information on finding financial assistance.
 
@@ -319,7 +319,7 @@ The registration fee is \$160 US dollars for students outside of China, and 1,00
 
 It can be paid on site on July 11 by cash. The online payment option will be available soon.
 
-No deadline is set for registration at this moment. However, please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (outside of China) at your earliest convenience so that
+No deadline is set for registration. However, if you want to compete for the limited [financial suport](#financial-assistance), please register before April. 30. Please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) (outside of China) at your earliest convenience so that
 
 1. We can have a rather accurate head counts in an early stage for better preparation (Registration fee is not required for filling the form).
 2. We can provide necessary documents for participants outside of China to start their [visa](#visa) application processes.

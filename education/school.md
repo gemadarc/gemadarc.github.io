@@ -7,7 +7,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <a href="https://en.wikipedia.org/wiki/Chengdu">Chengdu</a>,
 <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
-<li><a href="#registration">Registration</a> (Deadline: Apr. 30)</li>
+<li><a href="#registration">Registration</a> (Deadline: Mar. 8)</li>
 <li><a href="#draft-schedule">Draft schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
@@ -92,8 +92,6 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ## Draft schedule
 
-- July 10, visit Chinese underground laboratory, [CJPL] (optional)
-- July 11, travel from Xichang back to Chengdu
 - July 12 (Thu.), classes
 - July 13 (Fri.), [Excursion](#excursion)
 - July 14-15, classes
@@ -103,18 +101,18 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 | Time        | July 12         | July 14         | July 15         | July 17         | July 18         |
 |-------------|-----------------|-----------------|-----------------|-----------------|-----------------|
-| 08:30-09:30 | Welcome         | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
+| 08:30-09:30 | Welcome         | ν osc. | Neutrino        | Neutrino        | Neutrino        |
 | 09:30-09:45 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
-| 09:45-10:45 | Ge detector     | Ge detector     | Ge detector     | Ge detector     | Ge detector     |
+| 09:45-10:45 | ν in SM | Ge detector     | Ge detector     | Ge detector     | Ge detector     |
 | 10:45-11:00 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
-| 11:00-12:00 | Dark matter     | Dark matter     | Dark matter     | Dark matter     | Dark matter     |
+| 11:00-12:00 | 0νββ intro. & exp.   | Dark matter     | Dark matter     | Dark matter     | Dark matter     |
 | 12:00-13:00 | Lunch           | Lunch           | Lunch           | Lunch           | Lunch           |
 | 13:00-14:00 | Discussion      | Discussion      | Discussion      | Discussion      | Discussion      |
-| 14:00-14:45 | Electronics     | Electronics     | Electronics     | Electronics     | Electronics     |
+| 14:00-14:45 | DM intro.| Electronics     | Electronics     | Electronics     | Electronics     |
 | 14:45-15:00 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
-| 15:00-16:00 | Neutrino        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
+| 15:00-16:00 | PSS        | Neutrino        | Neutrino        | Neutrino        | Neutrino        |
 | 16:00-16:15 | Coffee          | Coffee          | Coffee          | Coffee          | Coffee          |
-| 16:15-17:15 | Data processing | Data processing | Data processing | Data processing | Data processing |
+| 16:15-17:15 | DM exp.| Data processing | Data processing | Data processing | Data processing |
 | 17:15-18:15 | Sports          | Sports          | Sports          | Sports          | Sports          |
 | 18:15-19:15 | Dinner          | Dinner          | Dinner          | Dinner          | Dinner          |
 | 19:15-20:15 | Culture         | Culture         | Culture         | Culture         | Culture         |

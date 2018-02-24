@@ -99,23 +99,23 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - July 17-18, classes
 
 
-| Time        | July 12            | July 14          | July 15         | July 17         | July 18         |
-|-------------|--------------------|------------------|-----------------|-----------------|-----------------|
-| 08:30-09:30 | Welcome            | ν osc. the.      | Neutrino        | Neutrino        | Neutrino        |
-| 09:30-09:45 | Coffee             | Coffee           | Coffee          | Coffee          | Coffee          |
-| 09:45-10:45 | ν in SM            | ν osc. exp.      | Ge detector     | Ge detector     | Ge detector     |
-| 10:45-11:00 | Coffee             | Coffee           | Coffee          | Coffee          | Coffee          |
-| 11:00-12:00 | 0νββ intro. & exp. | ν mass the.      | Dark matter     | Dark matter     | Dark matter     |
-| 12:00-13:00 | Lunch              | Lunch            | Lunch           | Lunch           | Lunch           |
-| 13:00-14:00 | Discussion         | Discussion       | Discussion      | Discussion      | Discussion      |
-| 14:00-14:45 | DM intro.          | v mass exp.      | Electronics     | Electronics     | Electronics     |
-| 14:45-15:00 | Coffee             | Coffee           | Coffee          | Coffee          | Coffee          |
-| 15:00-16:00 | PSS                | v astr.          | Neutrino        | Neutrino        | Neutrino        |
-| 16:00-16:15 | Coffee             | Coffee           | Coffee          | Coffee          | Coffee          |
-| 16:15-17:15 | DM exp.            | semicond. intro. | Data processing | Data processing | Data processing |
-| 17:15-18:15 | Sports             | Sports           | Sports          | Sports          | Sports          |
-| 18:15-19:15 | Dinner             | Dinner           | Dinner          | Dinner          | Dinner          |
-| 19:15-20:15 | Culture            | Culture          | Culture         | Culture         | Culture         |
+| Time        | July 12            | July 14         | July 15         | July 17      | July 18       |
+|-------------|--------------------|-----------------|-----------------|--------------|---------------|
+| 08:30-09:30 | Welcome            | ν osc. the.     | DM the.         | pre-amp      | digital elec. |
+| 09:30-09:45 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
+| 09:45-10:45 | ν in SM            | ν osc. exp.     | DM exp. (ind.)  | HPGe Adv.    | det. fab.     |
+| 10:45-11:00 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
+| 11:00-12:00 | 0νββ intro. & exp. | ν mass the.     | semiconductor   | Dark matter  | HPGe system   |
+| 12:00-13:00 | Lunch              | Lunch           | Lunch           | Lunch        | Lunch         |
+| 13:00-14:00 | Discussion         | Discussion      | Discussion      | Discussion   | Discussion    |
+| 14:00-14:45 | DM intro.          | v mass exp.     | rad. det. basic | calibration  | HPGe appl.    |
+| 14:45-15:00 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
+| 15:00-16:00 | PSS                | v astr.         | HPGe basic      | xstal growth | Undergrd lab  |
+| 16:00-16:15 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
+| 16:15-17:15 | DM exp. (direct)   | CEvNS & ν prop. | statistics      | analog elec. | sum. & exam   |
+| 17:15-18:15 | Sports             | Sports          | Sports          | Sports       | Sports        |
+| 18:15-19:15 | Dinner             | Dinner          | Dinner          | Dinner       | Dinner        |
+| 19:15-20:15 | Culture            | Culture         | Culture         | Culture      | Culture       |
 
 ## Lecturers
 

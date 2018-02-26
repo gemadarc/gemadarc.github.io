@@ -99,28 +99,29 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - July 17-18, classes
 
 
-| Time        | July 12          | July 14               | July 15               | July 17             | July 18               |
-|-------------|------------------|-----------------------|-----------------------|---------------------|-----------------------|
-| 08:30-09:30 | [0]. Welcome     | [6]. ν osc. the.      | [12]. DM the.         | [18]. pre-amp       | [24]. digital elec.   |
-| 09:30-09:45 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
-| 09:45-10:45 | [1]. ν overview  | [7]. ν osc. exp.      | [13]. DM exp. (ind.)  | [19]. HPGe Adv.     | [25]. det. fab.       |
-| 10:45-11:00 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
-| 11:00-12:00 | [2]. ν mass exp. | [8]. ν mass the.      | [14]. semiconductor   | [20]. calibration   | [26]. HPGe system     |
-| 12:00-13:00 | Lunch            | Lunch                 | Lunch                 | Lunch               | Lunch                 |
-| 13:00-14:00 | Discussion       | Discussion            | Discussion            | Discussion          | Discussion            |
-| 14:00-14:45 | [3]. DM intro.   | [9]. v mass exp.      | [15]. rad. det. basic | [21]. data analysis | [27]. HPGe appl.      |
-| 14:45-15:00 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
-| 15:00-16:00 | [4]. PSS         | [10]. v astr.         | [16]. HPGe basic      | [22]. xstal growth  | [28]. Underground lab |
-| 16:00-16:15 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
-| 16:15-17:15 | [5]. DM intro.   | [11]. CEvNS & ν prop. | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
-| 17:15-18:15 | Sports           | Sports                | Sports                | Sports              | Sports                |
-| 18:15-19:15 | Dinner           | Dinner                | Dinner                | Dinner              | Dinner                |
-| 19:15-20:15 | Culture          | Culture               | Culture               | Culture             | Culture               |
+| Time        | July 12          | July 14              | July 15               | July 17             | July 18               |
+|-------------|------------------|----------------------|-----------------------|---------------------|-----------------------|
+| 08:30-09:30 | [0]. Welcome     | [6]. ν osc. the.     | [12]. DM theory       | [18]. pre-amp       | [24]. digital elec.   |
+| 09:30-09:45 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
+| 09:45-10:45 | [1]. ν overview  | [7]. ν osc. exp.     | [13]. DM (indirect)   | [19]. comp. tools   | [25]. det. fab.       |
+| 10:45-11:00 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
+| 11:00-12:00 | [2]. ν mass exp. | [8]. ν mass the.     | [14]. semiconductor   | [20]. Geant4 MC sim.| [26]. data analysis   |
+| 12:00-13:00 | Lunch            | Lunch                | Lunch                 | Lunch               | Lunch                 |
+| 13:00-14:00 | Discussion       | Discussion           | Discussion            | Discussion          | Discussion            |
+| 14:00-14:45 | [3]. ν mass exp. | [9]. comp. tools     | [15]. rad. det. basic | [21]. data analysis | [27]. HPGe & ν appl.  |
+| 14:45-15:00 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
+| 15:00-16:00 | [4]. DM intro.   | [10]. v astr.        | [16]. HPGe system     | [22]. xstal growth  | [28]. Underground lab |
+| 16:00-16:15 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
+| 16:15-17:15 | [5]. PSS         | [11]. ν interactions | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
+| 17:15-18:15 | Sports           | Sports               | Sports                | Sports              | Sports                |
+| 18:15-19:15 | Dinner           | Dinner               | Dinner                | Dinner              | Dinner                |
+| 19:15-20:15 | Culture          | Culture              | Culture               | Culture             | Culture               |
 
 ## Lecturers
 
 - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill, NC, USA
+- [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing, China
 - [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
 - [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
@@ -169,84 +170,104 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
   - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
 
 ### Neutrino astronomy
+(Meng-Ru Wu)
+- supernova neutrinos
+- ultra-high energy neutrinos
+- neutrino floor from solar neutrinos
 
-- supernova neutrinos (Meng-Ru Wu)
-- ultra-high energy neutrinos (Meng-Ru Wu)
-
-### CEvNS and others
-- CEvNS (Henry Wang)
-- Neutrino-electromagnetic interactions, etc. (Henry Wang)
+### Neutrino interactions
+(Henry Wang)
+- high energy (above CC threshold)
+- NC and CC deep inealastic, coherent
+- Neutrino-electromagnetic interactions, etc.
 
 ### Dark matter
 
 - Introduction (Bela Majorovits)
-  - Gravitational evidences (CMB, large-scale structure, rotation curves, bullet cluster)
+  - CMB, large-scale structure, rotation curves, bullet cluster, etc.
 - Direct detection (Bela Majorovits)
   - experimental methods and experiments survey
 - Indirect detection (?)
   - experimental methods and experiments survey
 - Theory survey (?)
 
-### Underground laboratories
-
-- Laboratory survey (Oliver Schulz)
-- Cosmic ray, natural radiation, Rn, etc. (Oliver Schulz)
-
 ### Radiation detection
-
-- radioactive sources (Jing Liu)
-- interactions with matter (Jing Liu)
+(Jing Liu)
+- radioactive sources
+- interactions with matter
 - creation of charge carriers by radiation
-- counting statistics
-- basic spectroscopy concepts (resolution, Fano, dead time, etc.)
-
-### Statistics
 
 ### Semiconductor
 (Iris Abt)
 - band structure, impurity, p/n-type
 - p-n junction and detector configurations
-- electric field, mobility
-- signal formation on electrodes (PSS)
+
+### HPGe system
+(Xiang Liu)
+- components (detector, cryostat, electronics, software)
+- operation (trigger, threshold, coincidence, etc.)
+
+### Pulse-shape simulation
+(Tom Caldwell)
+- geometry and types, field calculation
+- mobility
+- signal formation on electrodes
+- electronic and other effects
+
+### Underground laboratories
+(Dongming Mei)
+- Laboratory survey
+- Cosmic ray, natural radiation, Rn, etc.
+
+### Computational tools
+(Oliver Schulz)
+- operation systems, Linux, commandline
+- programming languages
+- version control and collaborating tools
+
+### Data analysis
+(Oliver Schulz, Xiang Liu)
+- fitting, plotting
+- energy calibration
+- counting
+- Geant4 MC simulation
+
+### Statistics
+(Xiang Liu)
+- counting statistics (basic distributions)
+- basic spectroscopy concepts (resolution, Fano, dead time, etc.)
 
 ### Detector fabrication
 
 - crystal purification and growth (Guojian Wang)
 - surface treatment for contact making (H. Rusty Harris)
-- geometry and types (field calculation)
 
-#### Electronics
+### Electronics
 
-- pre-amp
+- pre-amp (Zhi Deng)
   - basics of charge sensitive amplifier
   - noise
   - bandwidth
-- analog pulse shaping
+- analog pulse shaping (Zhi Deng)
   - integration & differentiation circuits
   - shaping time
   - pole zero
-- digital pulse shaping
+- digital pulse shaping (Zhi Deng)
   - ADC basics (bits, etc.)
   - filters
 
-#### Cryogenic technologies
-
-- safety
-- vacuum technology
-- cooling methods (LN2, mechanical)
-
-#### detector system
-
-- trigger, threshold
-- coincidence
-- energy calibration (ROOT or other analysis tools)
-- counting (ROOT or other analysis tools)
-
-#### Application
+### Application
+(Iris Abt)
 - background counting
 - radiation imaging
 - security / non proliferation
 - identification of fake food
+
+### Summary
+(Jing Liu)
+- summary
+- survey
+- exam
 
 ## Organizing committee
 
@@ -351,6 +372,7 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [USD]: http://www.usd.edu
 [MPI]: https://www.mpp.mpg.de/en/
 [Iris]:https://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
+[Deng]: http://www.engineeringphysics.tsinghua.edu.cn/publish/epen/1733/2010/20101211163730097209304/20101211163730097209304_.html
 [Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
 [Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
 [Wenqin]: http://www.usd.edu/faculty-and-staff/Wenqin-Xu
@@ -368,30 +390,30 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [0]: #welcome
 [1]: #neutrino-overview
 [2]: #neutrino-masses-and-properties
-[3]: #dark-matter
-[4]: #pulse-shape-simulation
-[5]: #dark-matter
+[3]: #neutrino-masses-and-properties
+[4]: #dark-matter
+[5]: #pulse-shape-simulation
 [6]: #neutrino-oscillations
 [7]: #neutrino-oscillations
 [8]: #neutrino-masses-and-properties
-[9]: #neutrino-masses-and-properties
+[9]: #computational-tools
 [10]: #neutrino-astronomy
-[11]: #cevns-and-others
+[11]: #neutrino-interactions
 [12]: #dark-matter
 [13]: #dark-matter
 [14]: #semiconductor
-[15]: #radiationi-detection
-[16]: #hpge
+[15]: #radiation-detection
+[16]: #hpge-system
 [17]: #statistics
 [18]: #electronics
-[19]: #hpge
-[20]: #calibration
+[19]: #computational-tools
+[20]: #data-analysis
 [21]: #data-analysis
-[22]: #crystal-growth
+[22]: #detector-fabrication
 [23]: #electronics
 [24]: #electronics
-[25]: #germanium-detector-fabrication
-[26]: #hpge
-[27]: #hpge
-[28]: #ungerground-laboratories
+[25]: #detector-fabrication
+[26]: #data-analysis
+[27]: #application
+[28]: #underground-laboratories
 [29]: #summary

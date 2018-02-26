@@ -99,27 +99,28 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - July 17-18, classes
 
 
-| Time        | July 12            | July 14         | July 15         | July 17      | July 18       |
-|-------------|--------------------|-----------------|-----------------|--------------|---------------|
-| 08:30-09:30 | Welcome            | ν osc. the.     | DM the.         | pre-amp      | digital elec. |
-| 09:30-09:45 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
-| 09:45-10:45 | ν in SM            | ν osc. exp.     | DM exp. (ind.)  | HPGe Adv.    | det. fab.     |
-| 10:45-11:00 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
-| 11:00-12:00 | 0νββ intro. & exp. | ν mass the.     | semiconductor   | Dark matter  | HPGe system   |
-| 12:00-13:00 | Lunch              | Lunch           | Lunch           | Lunch        | Lunch         |
-| 13:00-14:00 | Discussion         | Discussion      | Discussion      | Discussion   | Discussion    |
-| 14:00-14:45 | DM intro.          | v mass exp.     | rad. det. basic | calibration  | HPGe appl.    |
-| 14:45-15:00 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
-| 15:00-16:00 | PSS                | v astr.         | HPGe basic      | xstal growth | Undergrd lab  |
-| 16:00-16:15 | Coffee             | Coffee          | Coffee          | Coffee       | Coffee        |
-| 16:15-17:15 | DM exp. (direct)   | CEvNS & ν prop. | statistics      | analog elec. | sum. & exam   |
-| 17:15-18:15 | Sports             | Sports          | Sports          | Sports       | Sports        |
-| 18:15-19:15 | Dinner             | Dinner          | Dinner          | Dinner       | Dinner        |
-| 19:15-20:15 | Culture            | Culture         | Culture         | Culture      | Culture       |
+| Time        | July 12          | July 14               | July 15               | July 17             | July 18               |
+|-------------|------------------|-----------------------|-----------------------|---------------------|-----------------------|
+| 08:30-09:30 | [0]. Welcome     | [6]. ν osc. the.      | [12]. DM the.         | [18]. pre-amp       | [24]. digital elec.   |
+| 09:30-09:45 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
+| 09:45-10:45 | [1]. ν overview  | [7]. ν osc. exp.      | [13]. DM exp. (ind.)  | [19]. HPGe Adv.     | [25]. det. fab.       |
+| 10:45-11:00 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
+| 11:00-12:00 | [2]. ν mass exp. | [8]. ν mass the.      | [14]. semiconductor   | [20]. calibration   | [26]. HPGe system     |
+| 12:00-13:00 | Lunch            | Lunch                 | Lunch                 | Lunch               | Lunch                 |
+| 13:00-14:00 | Discussion       | Discussion            | Discussion            | Discussion          | Discussion            |
+| 14:00-14:45 | [3]. DM intro.   | [9]. v mass exp.      | [15]. rad. det. basic | [21]. data analysis | [27]. HPGe appl.      |
+| 14:45-15:00 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
+| 15:00-16:00 | [4]. PSS         | [10]. v astr.         | [16]. HPGe basic      | [22]. xstal growth  | [28]. Underground lab |
+| 16:00-16:15 | Coffee           | Coffee                | Coffee                | Coffee              | Coffee                |
+| 16:15-17:15 | [5]. DM intro.   | [11]. CEvNS & ν prop. | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
+| 17:15-18:15 | Sports           | Sports                | Sports                | Sports              | Sports                |
+| 18:15-19:15 | Dinner           | Dinner                | Dinner                | Dinner              | Dinner                |
+| 19:15-20:15 | Culture          | Culture               | Culture               | Culture             | Culture               |
 
 ## Lecturers
 
 - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
+- Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
 - [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
@@ -129,70 +130,89 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [Guojian Wang][Guojian], [University of South Dakota][USD], Vermillion, SD, USA
 - [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
+- [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- JUNO or Daya Bay collaborator
 
 ## Topics
 
-### Neutrino physics
+### Welcome
 
-- Neutrinos in the Standard Model
-  - Beta decays, Lepton number, Parity violation, helicity, etc.
-- Neutrino oscillations
-  - theory
-  - solar, accelerator, reactor, atmosphere neutrino experiments
-  - sterile neutrinos
+- Introduction of PIRE-GEMADARC (Dongming Mei)
+- Introduction of [Sichuan University][SCU] (Hong Zhang)
+- Logistics (Shin-Ted Lin)
+
+### Neutrino overview
+
+- Historical development of the field (Iris Abt)
+  - Evidence from beta decays, first observation by Cowan–Reines
+  - Lepton number, Parity violation, helicity, etc.
+  - Neutrino beams, solar neutrino problem, atmospheric neutrinos
+- Ideas for future neutrino applications (Iris Abt)
+  - Oil exploration, nuclear proliferation, mantle scans, etc.
+
+### Neutrino oscillations
+
+- Theory (Meng-Ru Wu)
+  - history, formula, Majorana and CP phases, etc.
   - absolute mass problem and hierarchy problem
-- Neutrino masses
+  - sterile neutrinos
+- Experiment (Anna Zsigmond)
+  - solar, accelerator, reactor, atmospheric neutrino experiments
+
+### Neutrino masses and properties
+
+- Experiments (John Wilkerson)
+  - neutrinoless double beta decay
+  - single beta decay
+  - cosmological observations
+- Theory (Meng-Ru Wu?)
   - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
-  - probing neutrino masses
-    - single beta decay experiments
-    - cosmological observations
-    - neutrinoless double beta decay
-    - other approaches
-- neutrino astronomy
-  - supernova neutrinos
-  - ultra-high energy neutrinos
-- others
-  - CEvNS, neutrino-electromagnetic interactions, etc.
-  - reactor monitoring, disable nuclear weapons, etc.
+
+### Neutrino astronomy
+
+- supernova neutrinos (Meng-Ru Wu)
+- ultra-high energy neutrinos (Meng-Ru Wu)
+
+### CEvNS and others
+- CEvNS (Henry Wang)
+- Neutrino-electromagnetic interactions, etc. (Henry Wang)
 
 ### Dark matter
 
-- Gravitational evidences
-  - CMB, large-scale structure, galaxy, cluster rotation, bullet cluster, etc.
-- Direct detection
+- Introduction (Bela Majorovits)
+  - Gravitational evidences (CMB, large-scale structure, rotation curves, bullet cluster)
+- Direct detection (Bela Majorovits)
   - experimental methods and experiments survey
-- Indirect detection
+- Indirect detection (?)
   - experimental methods and experiments survey
-- theory survey
+- Theory survey (?)
 
 ### Underground laboratories
 
-- Laboratory survey
-- Cosmic ray, natural radiation, Rn, etc.
+- Laboratory survey (Oliver Schulz)
+- Cosmic ray, natural radiation, Rn, etc. (Oliver Schulz)
 
-### Ge detector technologies
+### Radiation detection
 
-#### basics of radiation detection
-
-- radioactive sources
-- interactions with matter (may include GEANT4 simulation)
+- radioactive sources (Jing Liu)
+- interactions with matter (Jing Liu)
+- creation of charge carriers by radiation
 - counting statistics
 - basic spectroscopy concepts (resolution, Fano, dead time, etc.)
 
-#### Semiconductor basics
+### Statistics
 
+### Semiconductor
+(Iris Abt)
 - band structure, impurity, p/n-type
 - p-n junction and detector configurations
-- creation of charge carriers by radiation
 - electric field, mobility
 - signal formation on electrodes (PSS)
 
-#### detector fabrication
+### Detector fabrication
 
-- crystal purification and growth
-- surface treatment for contact making
+- crystal purification and growth (Guojian Wang)
+- surface treatment for contact making (H. Rusty Harris)
 - geometry and types (field calculation)
 
 #### Electronics
@@ -344,3 +364,34 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [IOP]: http://www.phys.sinica.edu.tw/index_en.php
 [Henry]: http://www.phys.sinica.edu.tw/~htwong/
 [CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory
+[Wu]: http://www.phys.sinica.edu.tw/directory_en.php?directory=11&id_key=143
+[0]: #welcome
+[1]: #neutrino-overview
+[2]: #neutrino-masses-and-properties
+[3]: #dark-matter
+[4]: #pulse-shape-simulation
+[5]: #dark-matter
+[6]: #neutrino-oscillations
+[7]: #neutrino-oscillations
+[8]: #neutrino-masses-and-properties
+[9]: #neutrino-masses-and-properties
+[10]: #neutrino-astronomy
+[11]: #cevns-and-others
+[12]: #dark-matter
+[13]: #dark-matter
+[14]: #semiconductor
+[15]: #radiationi-detection
+[16]: #hpge
+[17]: #statistics
+[18]: #electronics
+[19]: #hpge
+[20]: #calibration
+[21]: #data-analysis
+[22]: #crystal-growth
+[23]: #electronics
+[24]: #electronics
+[25]: #germanium-detector-fabrication
+[26]: #hpge
+[27]: #hpge
+[28]: #ungerground-laboratories
+[29]: #summary

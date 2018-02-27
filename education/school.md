@@ -166,7 +166,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
   - neutrinoless double beta decay
   - single beta decay
   - cosmological observations
-- Theory (Meng-Ru Wu?)
+- Theory (?)
   - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
 
 ### Neutrino astronomy

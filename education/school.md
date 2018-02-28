@@ -122,6 +122,8 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing, China
+- [Yizhong Fan][Fan], [Purple Mountain Observatory][PMO], [Chinese Academy of Sciences][CAS], Nanjing, China
+- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Nanjing, China
 - [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
 - [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
@@ -187,9 +189,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
   - CMB, large-scale structure, rotation curves, bullet cluster, etc.
 - Direct detection (Bela Majorovits)
   - experimental methods and experiments survey
-- Indirect detection (?)
+- Indirect detection (Yizhong Fan)
   - experimental methods and experiments survey
-- Theory survey (?)
+- Theory survey (Yufeng Zhou)
 
 ### Radiation detection
 (Jing Liu)
@@ -387,6 +389,11 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [Henry]: http://www.phys.sinica.edu.tw/~htwong/
 [CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory
 [Wu]: http://www.phys.sinica.edu.tw/directory_en.php?directory=11&id_key=143
+[Fan]: http://people.ucas.ac.cn/~yzfan?language=en
+[Zhou]: http://sourcedb.cas.cn/sourcedb_itp_cas/yw/zjrck/fas/200907/t20090729_2281978.html
+[ITP]: http://english.itp.cas.cn/
+[PMO]: http://english.pmo.cas.cn/
+[CAS]: http://english.cas.cn/
 [0]: #welcome
 [1]: #neutrino-overview
 [2]: #neutrino-masses-and-properties

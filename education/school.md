@@ -123,7 +123,6 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing, China
 - [Yizhong Fan][Fan], [Purple Mountain Observatory][PMO], [Chinese Academy of Sciences][CAS], Nanjing, China
-- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Nanjing, China
 - [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
 - [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
@@ -134,6 +133,8 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
+- [Shun Zhou][Shun], [Institute of High Energy Physics][IHEP], [Chinese Academy of Sciences][CAS], Beijing, China
+- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Nanjing, China
 - [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 
 ## Topics
@@ -168,7 +169,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
   - neutrinoless double beta decay
   - single beta decay
   - cosmological observations
-- Theory (?)
+- Theory (Shun Zhou)
   - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
 
 ### Neutrino astronomy
@@ -180,7 +181,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 ### Neutrino interactions
 (Henry Wang)
 - high energy (above CC threshold)
-- NC and CC deep inealastic, coherent
+- NC and CC deep inelastic, coherent
 - Neutrino-electromagnetic interactions, etc.
 
 ### Dark matter
@@ -223,7 +224,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ### Computational tools
 (Oliver Schulz)
-- operation systems, Linux, commandline
+- operation systems, Linux, command line
 - programming languages
 - version control and collaborating tools
 
@@ -391,6 +392,8 @@ Please be cautious about purchasing air tickets before obtaining a Chinese [visa
 [Wu]: http://www.phys.sinica.edu.tw/directory_en.php?directory=11&id_key=143
 [Fan]: http://people.ucas.ac.cn/~yzfan?language=en
 [Zhou]: http://sourcedb.cas.cn/sourcedb_itp_cas/yw/zjrck/fas/200907/t20090729_2281978.html
+[Shun]: http://tpcsf.ihep.ac.cn/div4-english/zhoushun.htm
+[IHEP]: http://english.ihep.cas.cn/
 [ITP]: http://english.itp.cas.cn/
 [PMO]: http://english.pmo.cas.cn/
 [CAS]: http://english.cas.cn/

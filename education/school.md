@@ -307,7 +307,7 @@ Two days of guided excursions will interleave five days of lectures. The expense
 
 Participants should apply for L visa via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. Information can be found online. For US students, please check [this page](http://www.china-embassy.org/eng/visas/hrsq/).
 
-Please [register](https://goo.gl/forms/Z8obATHgnBI5s3vA2) as early as possible. Please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:jing.liu@usd.edu) together with a photo copy of the name page of your passport so that we can draft the letter accordingly.
+Please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:jing.liu@usd.edu) together with a photo copy of the name page of your passport so that we can draft the invitation letter for you accordingly.
 
 ## Food
 

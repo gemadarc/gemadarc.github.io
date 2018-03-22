@@ -20,6 +20,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <li><a href="#culture-and-activities">Culture & Activities</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
+<li><a href="#linkedin">LinkedIn Alumni List</a></li>
 </ul>
 </div>
 
@@ -134,7 +135,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [Shun Zhou][Shun], [Institute of High Energy Physics][IHEP], [Chinese Academy of Sciences][CAS], Beijing, China
-- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Nanjing, China
+- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Beijing, China
 - [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 
 ## Topics
@@ -307,7 +308,7 @@ Two days of guided excursions will interleave five days of lectures. The expense
 
 Participants should apply for L visa via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. Information can be found online. For US students, please check [this page](http://www.china-embassy.org/eng/visas/hrsq/).
 
-Please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:jing.liu@usd.edu) together with a photo copy of the name page of your passport so that we can draft the invitation letter for you accordingly.
+If your institute representative is not assisting your visa application process, please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:jing.liu@usd.edu) together with a photo copy of the name page of your passport so that we can draft the invitation letter for you accordingly. If you have been taken care of, there is no need to submit the materials twice.
 
 ## Food
 
@@ -367,6 +368,10 @@ The registration fee is \$160 US dollars for students outside of China, and 1,00
 It can be paid on site on July 11 by cash. The online payment option will be available soon.
 
 **Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
+
+## LinkedIn
+
+<https://www.linkedin.com/company/pire-gemadarc/> is a webpage about our school in LinkedIn, which can be referred to in your LinkedIn profile.
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/

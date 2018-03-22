@@ -111,9 +111,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 | 13:00-14:00 | Discussion       | Discussion           | Discussion            | Discussion          | Discussion            |
 | 14:00-14:45 | [3]. ν mass exp. | [9]. comp. tools     | [15]. rad. det. basic | [21]. data analysis | [27]. HPGe & ν appl.  |
 | 14:45-15:00 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 15:00-16:00 | [4]. DM intro.   | [10]. v astr.        | [16]. HPGe system     | [22]. xstal growth  | [28]. Underground lab |
+| 15:00-16:00 | [4]. DM intro.   | [10]. v astr.        | [16]. PSS             | [22]. xstal growth  | [28]. Underground lab |
 | 16:00-16:15 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 16:15-17:15 | [5]. PSS         | [11]. ν interactions | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
+| 16:15-17:15 | [5]. det. readout| [11]. ν interactions | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
 | 17:15-18:15 | Sports           | Sports               | Sports                | Sports              | Sports                |
 | 18:15-19:15 | Dinner           | Dinner               | Dinner                | Dinner              | Dinner                |
 | 19:15-20:15 | Culture          | Culture              | Culture               | Culture             | Culture               |
@@ -405,7 +405,7 @@ It can be paid on site on July 11 by cash. The online payment option will be ava
 [2]: #neutrino-masses-and-properties
 [3]: #neutrino-masses-and-properties
 [4]: #dark-matter
-[5]: #pulse-shape-simulation
+[5]: #hpge-system
 [6]: #neutrino-oscillations
 [7]: #neutrino-oscillations
 [8]: #neutrino-masses-and-properties
@@ -416,7 +416,7 @@ It can be paid on site on July 11 by cash. The online payment option will be ava
 [13]: #dark-matter
 [14]: #semiconductor
 [15]: #radiation-detection
-[16]: #hpge-system
+[16]: #pulse-shape-simulation
 [17]: #statistics
 [18]: #electronics
 [19]: #computational-tools

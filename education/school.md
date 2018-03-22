@@ -21,6 +21,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
+<li><a href="#code-of-conduct">Code of Conduct</a></li>
 </ul>
 </div>
 
@@ -377,6 +378,10 @@ It can be paid on site on July 11 by cash. The online payment option will be ava
 ## LinkedIn
 
 <https://www.linkedin.com/company/pire-gemadarc/> is a webpage about our school in LinkedIn, which can be referred to in your LinkedIn profile.
+
+## Code of Conduct
+
+We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng/zmzlljs/t84229.htm) for our summer school. Please make sure that you are familiar with it before you join the school.
 
 [SCU]: http://www.scu.edu.cn/en/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/

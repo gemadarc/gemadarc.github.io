@@ -20,3 +20,7 @@ On July 7, 2018, you have the following options to arrive in Xichang airport (XI
   * Flight: CA4592, Carrier: Air China (AirBus 320), Departure: 14:40, Ticket: 1203 RMB.
 
 You can choose your international flights to arrive in BJS, SHA, CAN and CTU accordingly. The listed ticket price is the current price. It may go up or down. It is only for your reference.
+
+# Code of Conduct
+
+We adopt the [Code of Conduct for APS Meetings](https://www.aps.org/meetings/policies/code-conduct.cfm) for our collaboration meetings. Please make sure that you are familiar with the rules before joining our meetings.

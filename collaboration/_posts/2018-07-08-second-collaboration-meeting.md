@@ -6,6 +6,10 @@ tags: [ meeting ]
 
 The second PIRE-GEMADARC collaboration meeting will be held in Xichang, China, July 8-10, 2018.
 
+# Registration
+
+The meeting is now open for [registration](https://goo.gl/forms/FD5tCYE1MTWbSd753). Information on registration fee will be available soon.
+
 # Flight information
 
 On July 7, 2018, you have the following options to arrive in Xichang airport (XIC):

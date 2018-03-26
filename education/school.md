@@ -371,7 +371,7 @@ The registration fee is \$160 US dollars for students outside of China, and 1,00
 - two-days of [excursion](#excursion)
 - a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
 
-It can be paid on site on July 11 by cash. The online payment option will be available soon.
+Please refer to [this page](http://pire.gemadarc.org/collaboration/2018/07/08/second-collaboration-meeting.html) for the payment of the registration fee.
 
 **Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
 

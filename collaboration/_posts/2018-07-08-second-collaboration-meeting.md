@@ -10,7 +10,7 @@ The second PIRE-GEMADARC collaboration meeting will be held in Xichang, China, J
 
 The meeting is now open for [registration](https://goo.gl/forms/FD5tCYE1MTWbSd753).
 
-The registration fee can be paid online through [this link](http://www.coyotestore.usd.edu/category-s/101.htm). This is the recommended method. If for some reason you have to pay on the spot by cash or check, it will take some time for you to get an official receipt for your reimbursement.
+The registration fee for **both the collaboration meeting and the summer school** can be paid online through [this link](http://www.coyotestore.usd.edu/category-s/101.htm). This is the recommended method. If for some reason you have to pay on the spot by cash or check, it will take some time for you to get an official receipt for your reimbursement.
 
 # Flight information
 

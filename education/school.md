@@ -240,7 +240,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - energy calibration
 
 ### Spectroscopy
-(Elena Sale)
+(Elena Sala)
 - counting statistics (basic distributions)
 - basic spectroscopy concepts (resolution, Fano, dead time, etc.)
 

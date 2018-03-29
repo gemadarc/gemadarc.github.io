@@ -23,6 +23,9 @@ Some instructions on filling the [form](https://drive.google.com/file/d/12krTqy9
 - one can find the right Chinese Embassy to submit your visa application on this page: <http://www.china-embassy.org/eng/zmzlljs/t84229.htm>
 - select "single entry" in the form
 
+# Hotel
+We are going to stay in a [hotel](http://english.ctrip.com/hotels/xichang-hotel-detail-436387/bonreal-hotel-xichang-qionghai-bay/) by the beautify [Qionghai Lake](https://www.tripadvisor.com/Attraction_Review-g776958-d1372939-Reviews-Qionghai_Lake-Xichang_Sichuan.html). You don't have to book the room by yourself as long as you register the conference.
+
 # Flight information
 
 On July 7, 2018, you have the following options to arrive in Xichang airport (XIC):

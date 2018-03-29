@@ -12,6 +12,17 @@ The meeting is now open for [registration](https://goo.gl/forms/FD5tCYE1MTWbSd75
 
 The registration fee for **both the collaboration meeting and the summer school** can be paid online through [this link](http://www.coyotestore.usd.edu/category-s/101.htm). This is the recommended method. If for some reason you have to pay on the spot by cash or check, it will take some time for you to get an official receipt for your reimbursement.
 
+# Visa
+
+Participants should apply for L visa (tourist visa) via their [local Chinese embassy or consulate](http://www.china-embassy.org/eng/zmzlljs/t84229.htm) by providing their ordinary passport, visa application form, and other required documents. General information can be found on the [Chinese embassy website](http://www.china-embassy.org/eng/visas/hrsq/). For US citizen, please follow instructions on [this page](http://www.visaexpress.net/china/chinatouristvisa.htm).
+
+If your institute representative is not assisting you with your visa application process, please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:Dongming.Mei@usd.edu) together with a photo copy of the name page of your passport so that we can draft the invitation letter for you accordingly. If you have been taken care of, there is no need to submit the materials twice. **Please note that these materials have to be submitted before March 31.** Otherwise, you may not get an invitation letter in time. In that case, you can still use your hotel and flight booking information instead of the invitation letter in your visa application. But We recommend you to use the invitatation letter. It will help when you pass the custom as well.
+
+Some instructions on filling the [form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing):
+
+- one can find the right Chinese Embassy to submit your visa application on this page: <http://www.china-embassy.org/eng/zmzlljs/t84229.htm>
+- select "single entry" in the form
+
 # Flight information
 
 On July 7, 2018, you have the following options to arrive in Xichang airport (XIC):

@@ -102,22 +102,22 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 
 | Time        | July 12          | July 14              | July 15               | July 17             | July 18               |
-|-------------|------------------|----------------------|-----------------------|---------------------|-----------------------|
-| 08:30-09:30 | [0]. Welcome     | [6]. ν osc. the.     | [12]. DM theory       | [18]. pre-amp       | [24]. digital elec.   |
-| 09:30-09:45 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 09:45-10:45 | [1]. ν overview  | [7]. ν osc. exp.     | [13]. DM (indirect)   | [19]. comp. tools   | [25]. det. fab.       |
-| 10:45-11:00 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 11:00-12:00 | [2]. ν mass exp. | [8]. ν mass the.     | [14]. semiconductor   | [20]. Geant4 MC sim.| [26]. data analysis   |
-| 12:00-13:00 | Lunch            | Lunch                | Lunch                 | Lunch               | Lunch                 |
-| 13:00-14:00 | Discussion       | Discussion           | Discussion            | Discussion          | Discussion            |
-| 14:00-14:45 | [3]. ν mass exp. | [9]. comp. tools     | [15]. rad. det. basic | [21]. data analysis | [27]. HPGe & ν appl.  |
-| 14:45-15:00 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 15:00-16:00 | [4]. DM intro.   | [10]. v astr.        | [16]. PSS             | [22]. xstal growth  | [28]. Underground lab |
-| 16:00-16:15 | Coffee           | Coffee               | Coffee                | Coffee              | Coffee                |
-| 16:15-17:15 | [5]. det. readout| [11]. ν interactions | [17]. statistics      | [23]. analog elec.  | [29]. sum. & exam     |
-| 17:15-18:15 | Sports           | Sports               | Sports                | Sports              | Sports                |
-| 18:15-19:15 | Dinner           | Dinner               | Dinner                | Dinner              | Dinner                |
-| 19:15-20:15 | Culture          | Culture              | Culture               | Culture             | Culture               |
+|-------------|--------------------|----------------------|---------------------|--------------------|----------------------|
+| 08:30-09:30 | [0]. Welcome       | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. digital elec.  |
+| 09:30-09:45 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
+| 09:45-10:45 | [1]. ν overview    | [7]. ν osc. exp.     | [13]. DM (indirect) | [19]. Geant4 sim.  | [25]. det. fab.      |
+| 10:45-11:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
+| 11:00-12:00 | [2]. ν mass exp.   | [8]. ν mass the.     | [14]. HPGe system   | [20]. Geant4 sim.  | [26]. underground lab|
+| 12:00-13:00 | Lunch              | Lunch                | Lunch               | Lunch              | Lunch                |
+| 13:00-14:00 | Discussion         | Discussion           | Discussion          | Discussion         | Discussion           |
+| 14:00-14:45 | [3]. ν mass exp.   | [9]. rad. det. basic | [15]. spectroscopy  | [21]. pre-amp      | [27]. data analysis  |
+| 14:45-15:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
+| 15:00-16:00 | [4]. DM intro.     | [10]. v astr.        | [16]. PSS           | [22]. xstal growth | [28]. data analysis  |
+| 16:00-16:15 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
+| 16:15-17:15 | [5]. semiconductor | [11]. ν interactions | [17]. HPGe appl.    | [23]. analog elec. | [29]. sum. & exam    |
+| 17:15-18:15 | Sports             | Sports               | Sports              | Sports             | Sports               |
+| 18:15-19:15 | Dinner             | Dinner               | Dinner              | Dinner             | Dinner               |
+| 19:15-20:15 | Culture            | Culture              | Culture             | Culture            | Culture              |
 
 ## Lecturers
 
@@ -211,6 +211,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 (Xiang Liu)
 - components (detector, cryostat, electronics, software)
 - operation (trigger, threshold, coincidence, etc.)
+- pulse formation and signal processing
 
 ### Pulse-shape simulation
 (Tom Caldwell)
@@ -224,21 +225,22 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - Laboratory survey
 - Cosmic ray, natural radiation, Rn, etc.
 
-### Computational tools
-(Oliver Schulz)
-- operation systems, Linux, command line
-- programming languages
-- version control and collaborating tools
+### Computational tools and Geant4 simulation
+(Oliver Schulz, Xiang Liu, Anna Zsigmond)
+- programming languages, version control and collaborating tools
+- setup for hand-on tutorial
+- Geant4 MC simulation basics
+- Geant4 hands-on tutorial
 
 ### Data analysis
-(Oliver Schulz, Xiang Liu)
+(Oliver Schulz, Xiang Liu, Anna Zsigmond)
+- ROOT hands-on tutorial
+- counting
 - fitting, plotting
 - energy calibration
-- counting
-- Geant4 MC simulation
 
-### Statistics
-(Xiang Liu)
+### Spectroscopy
+(Elena Sala)
 - counting statistics (basic distributions)
 - basic spectroscopy concepts (resolution, Fano, dead time, etc.)
 
@@ -415,28 +417,28 @@ We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng
 [2]: #neutrino-masses-and-properties
 [3]: #neutrino-masses-and-properties
 [4]: #dark-matter
-[5]: #hpge-system
+[5]: #semiconductor
 [6]: #neutrino-oscillations
 [7]: #neutrino-oscillations
 [8]: #neutrino-masses-and-properties
-[9]: #computational-tools
+[9]: #radiation-detection
 [10]: #neutrino-astronomy
 [11]: #neutrino-interactions
 [12]: #dark-matter
 [13]: #dark-matter
-[14]: #semiconductor
-[15]: #radiation-detection
+[14]: #hpge-system
+[15]: #spectroscopy
 [16]: #pulse-shape-simulation
-[17]: #statistics
-[18]: #electronics
+[17]: #application
+[18]: #computational-tools
 [19]: #computational-tools
-[20]: #data-analysis
-[21]: #data-analysis
+[20]: #computational-tools
+[21]: #electronics
 [22]: #detector-fabrication
 [23]: #electronics
 [24]: #electronics
 [25]: #detector-fabrication
-[26]: #data-analysis
-[27]: #application
-[28]: #underground-laboratories
+[26]: #underground-laboratories
+[27]: #data-analysis
+[28]: #data-analysis
 [29]: #summary

@@ -340,8 +340,6 @@ Lecturers will stay in the same hotel to maximize the chance for students to dis
 
 ## Transportation
 
-Transportation between [SCU] and [CJPL] will be provided by local organizers, which is not included in the [registration fee](#registration).
-
 Some local students may meet you in Chengdu airport if you need help to find your [way to the hotel](https://www.google.com/maps/dir/chengdu+airport/Kehuayuan+Hotel,+141+Kehua+N+Rd,+JiuYan+Qiao,+Wuhou+Qu,+Chengdu+Shi,+Sichuan+Sheng,+China). If that is the case, please [email the organizer](mailto:jing.liu@usd.edu) your flight information as soon as you have it.
 
 ## Financial assistance

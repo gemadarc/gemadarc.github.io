@@ -351,7 +351,7 @@ Some local students may meet you in Chengdu airport if you need help to find you
 
 ## Financial assistance
 
-PIRE GEMADARC provides some limited amount of awards for students and lecturers who perform well in the school. The awards will be announced at the end of the school.
+PIRE GEMADARC provides some limited amount of awards for students and lecturers who perform well in the school. The awards will be announced at the end of the school. The school does not have budget to cover individual travel costs. Participants are responsible to finance their own travels.
 
 ## Culture and activities
 

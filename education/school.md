@@ -11,6 +11,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <li><a href="#draft-schedule">Draft schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
+<li><a href="#posters">Posters</a></li>
 <li><a href="#visa">Visa</a></li>
 <li><a href="#food">Food</a></li>
 <li><a href="#lodging">Lodging</a></li>
@@ -96,28 +97,28 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 - July 12 (Thu.), classes
 - July 13 (Fri.), [Excursion](#excursion)
-- July 14-15, classes
-- July 16 (Mon.), [Excursion](#excursion)
-- July 17-18, classes
+- July 14-16, classes
+- July 17 (Tue.), [Excursion](#excursion)
+- July 18, class
 
 
-| Time        | July 12          | July 14              | July 15               | July 17             | July 18               |
-|-------------|--------------------|----------------------|---------------------|--------------------|----------------------|
-| 08:30-09:30 | [0]. Welcome       | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. digital elec.  |
-| 09:30-09:45 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
-| 09:45-10:45 | [1]. ν overview    | [7]. ν osc. exp.     | [13]. DM (indirect) | [19]. Geant4 sim.  | [25]. det. fab.      |
-| 10:45-11:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
-| 11:00-12:00 | [2]. ν mass exp.   | [8]. ν mass the.     | [14]. HPGe system   | [20]. Geant4 sim.  | [26]. underground lab|
-| 12:00-13:00 | Lunch              | Lunch                | Lunch               | Lunch              | Lunch                |
-| 13:00-14:00 | Discussion         | Discussion           | Discussion          | Discussion         | Discussion           |
-| 14:00-14:45 | [3]. ν mass exp.   | [9]. rad. det. basic | [15]. spectroscopy  | [21]. pre-amp      | [27]. data analysis  |
-| 14:45-15:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
-| 15:00-16:00 | [4]. DM intro.     | [10]. v astr.        | [16]. PSS           | [22]. xstal growth | [28]. data analysis  |
-| 16:00-16:15 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee               |
-| 16:15-17:15 | [5]. semiconductor | [11]. ν interactions | [17]. HPGe appl.    | [23]. analog elec. | [29]. sum. & exam    |
-| 17:15-18:15 | Sports             | Sports               | Sports              | Sports             | Sports               |
-| 18:15-19:15 | Dinner             | Dinner               | Dinner              | Dinner             | Dinner               |
-| 19:15-20:15 | Culture            | Culture              | Culture             | Culture            | Culture              |
+| Time        | July 12            | July 14              | July 15             | July 16            | July 18               |
+|-------------|--------------------|----------------------|---------------------|--------------------|-----------------------|
+| 08:30-09:30 | [0]. Welcome       | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. analog elec.    |
+| 09:30-09:45 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
+| 09:45-10:45 | [1]. ν overview    | [7]. ν osc. exp.     | [13]. DM (indirect) | [19]. Geant4 sim.  | [25]. digital elec.   |
+| 10:45-11:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
+| 11:00-12:00 | [2]. ν mass exp.   | [8]. ν mass the.     | [14]. HPGe system   | [20]. Geant4 sim.  | [26]. underground lab |
+| 12:00-13:00 | Lunch              | Lunch                | Lunch               | Lunch              | Lunch                 |
+| 13:00-14:00 | Discussion         | Discussion           | Discussion          | Discussion         | Discussion            |
+| 14:00-14:45 | [3]. ν mass exp.   | [9]. rad. det. basic | [15]. spectroscopy  | [21]. pre-amp      | [27]. data analysis   |
+| 14:45-15:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
+| 15:00-16:00 | [4]. DM intro.     | [10]. v astr.        | [16]. RPC & INO     | [22]. xstal growth | [28]. data analysis   |
+| 16:00-16:15 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
+| 16:15-17:15 | [5]. semiconductor | [11]. ν interactions | [17]. HPGe appl.    | [23]. det. fab.    | [29]. sum. & exam     |
+| 17:15-18:15 | Sports             | Sports               | Sports              | Sports             | Sports                |
+| 18:15-19:15 | Dinner             | Dinner               | Dinner              | Dinner             | Dinner                |
+| 19:15-20:15 | Culture            | Culture              | Culture             | Culture            | Culture               |
 
 ## Lecturers
 
@@ -131,7 +132,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
 - [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Guojian Wang][Guojian], [University of South Dakota][USD], Vermillion, SD, USA
+- [Venktesh Singh][https://www.researchgate.net/profile/Venktesh_Singh], [Banaras Hindu University][http://www.bhu.ac.in], Varanasi, India
 - [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
@@ -211,14 +212,12 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 (Xiang Liu)
 - components (detector, cryostat, electronics, software)
 - operation (trigger, threshold, coincidence, etc.)
-- pulse formation and signal processing
+- Pulse-shape simulation (Tom Caldwell)
 
-### Pulse-shape simulation
-(Tom Caldwell)
-- geometry and types, field calculation
-- mobility
-- signal formation on electrodes
-- electronic and other effects
+### RPC & INO
+(Venktesh Singh)
+- Gaseous detectors & comparisioin to HPGe detectors
+- INO & comparison to other neutrino oscillation experiments
 
 ### Underground laboratories
 (Dongming Mei)
@@ -307,9 +306,17 @@ Two days of guided excursions will interleave five days of lectures. The expense
   </div>
 </div>
 
+## Posters
+
+Students are encouraged to present their own research in the form of posters. There will be a "Best poster award" announced at the end of the school. Posters will be hang around the lecture room and/or the dinner place to give us chances to discuss about them.
+
 ## Visa
 
 Participants should apply for L visa (tourist visa) via their local Chinese embassy or consulate by providing their ordinary passport, visa application form, and other required documents. General information can be found on the [Chinese embassy website](http://www.china-embassy.org/eng/visas/hrsq/). For US citizen, please follow instructions on [this page](http://www.visaexpress.net/china/chinatouristvisa.htm).
+
+**Updates on Apr. 30, 2018: we cannot issue invitation letters anymore. People who registered late have to apply their visa without the letter. This is possible. Please read the links provided above carefully and find out how to do that.**
+
+**Outdated:**
 
 If your institute representative is not assisting you with your visa application process, please fill [this form](https://drive.google.com/file/d/12krTqy9auMr03SI4vr65woqvKTOKWOWh/view?usp=sharing) and send it to [the organizer](mailto:jing.liu@usd.edu) together with a photo copy of the name page of your passport so that we can draft the invitation letter for you accordingly. If you have been taken care of, there is no need to submit the materials twice. **Please note that these materials have to be submitted before March 31.** Otherwise, you may not get an invitation letter in time. In that case, you can use your hotel and flight booking information instead of the invitation letter in your visa application. But in general, you are advised to avoid any last-minute action if possible.
 
@@ -320,7 +327,7 @@ Some instructions on filling the [form](https://drive.google.com/file/d/12krTqy9
 
 ## Food
 
-Breakfast will be provided by hotel. We highly encourage you to book lunch box and dinner provided by the local organizing committee to have save, convenient and delicious food. Tickets can be purchased on site one day before the school. Please indicate your food preference in our [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) so that we can prepare accordingly. We can provide information for your own food adventures on excursion days. It would be wise to have some local students in your adventure team.
+Breakfast will be provided by hotel. We highly encourage you to book lunch box and dinner provided by the local organizing committee to have safe, convenient and delicious food. Tickets can be purchased on site one day before the school. Please indicate your food preference in our [registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) so that we can prepare accordingly. We can provide information for your own food adventures on excursion days. It would be wise to have some local students in your adventure team.
 
 ## Lodging
 
@@ -344,9 +351,7 @@ Some local students may meet you in Chengdu airport if you need help to find you
 
 ## Financial assistance
 
-PIRE GEMADARC provides some limited amount of [travel support](http://pire.gemadarc.org/education/#travel-support) for graduate students. However, to be elegible to receive the support, one has to register before April 30, 2018.
-
-For students at [USD], please check <http://www.usd.edu/cage/study-abroad/financial-aid>. The link also include some general information on finding financial assistance.
+PIRE GEMADARC provides some limited amount of awards for students and lecturers who perform well in the school. The awards will be announced at the end of the school.
 
 ## Culture and activities
 
@@ -356,6 +361,7 @@ In addition to two days of excursions, we offer you
 - Morning [Tai chi](https://en.wikipedia.org/wiki/Tai_chi) or [Qigong](https://en.wikipedia.org/wiki/Qigong)
 - Afternoon exercises: Basketball, soccer, swimming, jogging, tennis, and Kong fu in the beautiful [SCU] campus
 - Early evening parties: Karaoke, [Mahjong](https://en.wikipedia.org/wiki/Mahjong), [Tea ceremony](https://en.wikipedia.org/wiki/Tea_ceremony), Chinese movies, etc.
+- Culture 101 for most of countries where our participants are from.
 
 ## Registration
 
@@ -421,16 +427,16 @@ We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng
 [13]: #dark-matter
 [14]: #hpge-system
 [15]: #spectroscopy
-[16]: #pulse-shape-simulation
+[16]: #rpc
 [17]: #application
 [18]: #computational-tools
 [19]: #computational-tools
 [20]: #computational-tools
 [21]: #electronics
 [22]: #detector-fabrication
-[23]: #electronics
+[23]: #detector-fabrication
 [24]: #electronics
-[25]: #detector-fabrication
+[25]: #electronics
 [26]: #underground-laboratories
 [27]: #data-analysis
 [28]: #data-analysis

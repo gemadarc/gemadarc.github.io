@@ -7,7 +7,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <a href="https://en.wikipedia.org/wiki/Chengdu">Chengdu</a>,
 <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
-<li><a href="#registration">Registration</a> (Closed. See <a href="#registration">here</a> for late registration.)</li>
+<li><a href="#registration">Registration</a> (Closed)</li>
 <li><a href="#draft-schedule">Draft schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
@@ -359,19 +359,14 @@ In addition to two days of excursions, we offer you
 
 ## Registration
 
-The official registration is closed already. However, if you still want to join us, please fill [this registration form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) at your earliest convenience so that
-
-1. We can have a rather accurate head counts in an early stage for better preparation (Registration fee is not required for filling the form).
-2. We can provide necessary documents for participants outside of China to start their [visa](#visa) application processes.
-
-The registration fee is \$160 US dollars for students outside of China, and 1,000 RMB for Chinese students. It is used to cover the following cost:
+The registration is closed. The registration fee is \$160 US dollars for students outside of China, and 1,000 RMB for Chinese students. It is used to cover the following cost:
 
 - coffee, tea, and snacks in between lectures
 - a banquet and a [culture show](https://en.wikipedia.org/wiki/Bian_lian) during the banquet
 - two-days of [excursion](#excursion)
 - a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
 
-Please refer to [this page](http://pire.gemadarc.org/collaboration/2018/07/08/second-collaboration-meeting.html) for the payment of the registration fee.
+Please refer to [this page](http://pire.gemadarc.org/collaboration/2018/07/08/second-collaboration-meeting.html) for the payment of the registration fee. If you cannot stay for the whole school, you can pay for a daily fee on the spot.
 
 **Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
 

@@ -24,7 +24,7 @@ Some instructions on filling the [form](https://drive.google.com/file/d/12krTqy9
 - select "single entry" in the form
 
 # Hotel
-We are going to stay in a [hotel](http://english.ctrip.com/hotels/xichang-hotel-detail-436387/bonreal-hotel-xichang-qionghai-bay/) by the beautify [Qionghai Lake](https://www.tripadvisor.com/Attraction_Review-g776958-d1372939-Reviews-Qionghai_Lake-Xichang_Sichuan.html). You don't have to book the room by yourself as long as you register the conference.
+We are going to stay in a [hotel](http://www.xcqhhotel.com/) by the beautify [Qionghai Lake](https://www.tripadvisor.com/Attraction_Review-g776958-d1372939-Reviews-Qionghai_Lake-Xichang_Sichuan.html). You don't have to book the room by yourself as long as you register the conference.
 
 # Flight information
 

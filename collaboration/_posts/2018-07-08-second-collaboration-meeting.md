@@ -24,7 +24,8 @@ Some instructions on filling the [form](https://drive.google.com/file/d/12krTqy9
 - select "single entry" in the form
 
 # Hotel
-We are going to stay in a [hotel](http://www.xcqhhotel.com/) by the beautify [Qionghai Lake](https://www.tripadvisor.com/Attraction_Review-g776958-d1372939-Reviews-Qionghai_Lake-Xichang_Sichuan.html). You don't have to book the room by yourself as long as you register the conference.
+We are going to stay in a [hotel](http://www.xcqhhotel.com/) by the beautify [Qionghai Lake](https://www.tripadvisor.com/Attraction_Review-g776958-d1372939-Reviews-Qionghai_Lake-Xichang_Sichuan.html). You don't have to book the room by yourself as long as you register the conference. The address is: No. 115 Binghai Zhong Lu, Xichang, Liangshan, Sichuan, Email: qhbg@vip.163.com, Tel: 0834-3953170.
+
 
 # Flight information
 

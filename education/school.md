@@ -132,7 +132,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
 - [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Venktesh Singh][https://www.researchgate.net/profile/Venktesh_Singh], [Banaras Hindu University][http://www.bhu.ac.in], Varanasi, India
+- [Venktesh Singh](https://www.researchgate.net/profile/Venktesh_Singh), [Banaras Hindu University](http://www.bhu.ac.in), Varanasi, India
 - [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
 - [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan

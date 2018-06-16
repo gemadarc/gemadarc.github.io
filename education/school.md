@@ -102,23 +102,23 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - July 18, class
 
 
-| Time        | July 12            | July 14              | July 15             | July 16            | July 18               |
-|-------------|--------------------|----------------------|---------------------|--------------------|-----------------------|
-| 08:30-09:30 | [0]. Welcome       | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. analog elec.    |
-| 09:30-09:45 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
-| 09:45-10:45 | [1]. ν overview    | [7]. ν osc. exp.     | [13]. DM (indirect) | [19]. Geant4 sim.  | [25]. digital elec.   |
-| 10:45-11:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
-| 11:00-12:00 | [2]. ν mass exp.   | [8]. ν mass the.     | [14]. HPGe system   | [20]. Geant4 sim.  | [26]. underground lab |
-| 12:00-13:00 | Lunch              | Lunch                | Lunch               | Lunch              | Lunch                 |
-| 13:00-14:00 | Discussion         | Discussion           | Discussion          | Discussion         | Discussion            |
-| 14:00-14:45 | [3]. ν mass exp.   | [9]. rad. det. basic | [15]. spectroscopy  | [21]. pre-amp      | [27]. data analysis   |
-| 14:45-15:00 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
-| 15:00-16:00 | [4]. DM intro.     | [10]. v astr.        | [16]. RPC & INO     | [22]. xstal growth | [28]. data analysis   |
-| 16:00-16:15 | Coffee             | Coffee               | Coffee              | Coffee             | Coffee                |
-| 16:15-17:15 | [5]. semiconductor | [11]. ν interactions | [17]. HPGe appl.    | [23]. det. fab.    | [29]. sum. & exam     |
-| 17:15-18:15 | Sports             | Sports               | Sports              | Sports             | Sports                |
-| 18:15-19:15 | Dinner             | Dinner               | Dinner              | Dinner             | Dinner                |
-| 19:15-20:15 | Culture            | Culture              | Culture             | Culture            | Culture               |
+| Time        | July 12              | July 14              | July 15             | July 16            | July 18               |
+|-------------|----------------------|----------------------|---------------------|--------------------|-----------------------|
+| 08:30-09:30 | [0]. Welcome         | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. analog elec.    |
+| 09:30-09:45 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
+| 09:45-10:45 | [1]. ν overview      | [7]. ν osc. exp.     | [13]. DM (indirect) | [19]. Geant4 sim.  | [25]. digital elec.   |
+| 10:45-11:00 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
+| 11:00-12:00 | [2]. ν mass exp.     | [8]. ν mass the.     | [14]. HPGe system   | [20]. Geant4 sim.  | [26]. underground lab |
+| 12:00-13:00 | Lunch                | Lunch                | Lunch               | Lunch              | Lunch                 |
+| 13:00-14:00 | Discussion           | Discussion           | Discussion          | Discussion         | Discussion            |
+| 14:00-14:45 | [3]. ν mass exp.     | [9]. semiconductor   | [15]. spectroscopy  | [21]. pre-amp      | [27]. data analysis   |
+| 14:45-15:00 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
+| 15:00-16:00 | [4]. DM intro.       | [10]. v astr.        | [16]. RPC & INO     | [22]. xstal growth | [28]. data analysis   |
+| 16:00-16:15 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
+| 16:15-17:15 | [5]. rad. det. basic | [11]. ν interactions | [17]. HPGe appl.    | [23]. det. fab.    | [29]. sum. & exam     |
+| 17:15-18:15 | Sports               | Sports               | Sports              | Sports             | Sports                |
+| 18:15-19:15 | Dinner               | Dinner               | Dinner              | Dinner             | Dinner                |
+| 19:15-20:15 | Culture              | Culture              | Culture             | Culture            | Culture               |
 
 ## Lecturers
 
@@ -198,7 +198,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - Theory survey (Yufeng Zhou)
 
 ### Radiation detection
-(Jing Liu)
+(Tomas Caldwell)
 - radioactive sources
 - interactions with matter
 - creation of charge carriers by radiation
@@ -212,7 +212,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 (Xiang Liu)
 - components (detector, cryostat, electronics, software)
 - operation (trigger, threshold, coincidence, etc.)
-- Pulse-shape simulation (Tom Caldwell)
+- Pulse-shape simulation
 
 ### RPC & INO
 (Venktesh Singh)

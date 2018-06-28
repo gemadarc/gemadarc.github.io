@@ -7,8 +7,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 <a href="https://en.wikipedia.org/wiki/Chengdu">Chengdu</a>,
 <a href="https://en.wikipedia.org/wiki/Sichuan">Sichuan</a>, China
 <ul>
+  <li><a href="http://www.weather.com.cn/weather/101270101.shtml">Weather</a></li>
 <li><a href="#registration">Registration</a> (Closed)</li>
-<li><a href="#draft-schedule">Draft schedule</a></li>
+<li><a href="#schedule">Schedule</a></li>
 <li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
 <li><a href="#posters">Posters</a></li>
@@ -93,7 +94,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 </div><!-- row -->
 
-## Draft schedule
+## Schedule
 
 - July 12 (Thu.), classes
 - July 13 (Fri.), [Excursion](#excursion)
@@ -115,7 +116,7 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 | 14:45-15:00 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
 | 15:00-16:00 | [4]. DM intro.       | [10]. v astr.        | [16]. RPC & INO     | [22]. xstal growth | [28]. data analysis   |
 | 16:00-16:15 | Coffee               | Coffee               | Coffee              | Coffee             | Coffee                |
-| 16:15-17:15 | [5]. rad. det. basic | [11]. ν interactions | [17]. HPGe appl.    | [23]. det. fab.    | [29]. sum. & exam     |
+| 16:15-17:15 | [5]. rad. det. basic | [11]. ν interactions | [17]. ν application | [23]. det. fab.    | [29]. sum. & exam     |
 | 17:15-18:15 | Sports               | Sports               | Sports              | Sports             | Sports                |
 | 18:15-19:15 | Dinner               | Dinner               | Dinner              | Dinner             | Dinner                |
 | 19:15-20:15 | Culture              | Culture              | Culture             | Culture            | Culture               |
@@ -187,6 +188,14 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - NC and CC deep inelastic, coherent
 - Neutrino-electromagnetic interactions, etc.
 
+### Neutrino applications
+(Iris Abt)
+- study the universe
+- study the earth
+- study physics beyond the SM
+- search for oil and other deposits
+- destroy nuclear weapons remotely
+
 ### Dark matter
 
 - Introduction (Bela Majorovits)
@@ -205,8 +214,11 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ### Semiconductor
 (Iris Abt)
-- band structure, impurity, p/n-type
-- p-n junction and detector configurations
+- band-structure
+- some comparison to silicon
+- diodes
+- detector configurations
+- some example applications
 
 ### HPGe system
 (Xiang Liu)
@@ -216,8 +228,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ### RPC & INO
 (Venktesh Singh)
-- Gaseous detectors & comparisioin to HPGe detectors
-- INO & comparison to other neutrino oscillation experiments
+- Basic of gaseous detectors
+- RPC fabrication and its characterization
+- RPC for INO experiment
 
 ### Underground laboratories
 (Dongming Mei)
@@ -261,13 +274,6 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 - digital pulse shaping (Zhi Deng)
   - ADC basics (bits, etc.)
   - filters
-
-### Application
-(Iris Abt)
-- background counting
-- radiation imaging
-- security / non proliferation
-- identification of fake food
 
 ### Summary
 (Jing Liu)
@@ -416,11 +422,11 @@ We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng
 [2]: #neutrino-masses-and-properties
 [3]: #neutrino-masses-and-properties
 [4]: #dark-matter
-[5]: #semiconductor
+[5]: #radiation-detection
 [6]: #neutrino-oscillations
 [7]: #neutrino-oscillations
 [8]: #neutrino-masses-and-properties
-[9]: #radiation-detection
+[9]: #semiconductor
 [10]: #neutrino-astronomy
 [11]: #neutrino-interactions
 [12]: #dark-matter
@@ -428,7 +434,7 @@ We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng
 [14]: #hpge-system
 [15]: #spectroscopy
 [16]: #rpc
-[17]: #application
+[17]: #neutrino-applications
 [18]: #computational-tools
 [19]: #computational-tools
 [20]: #computational-tools

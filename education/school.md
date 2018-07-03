@@ -161,9 +161,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 ### Neutrino oscillations
 
 - Theory (Meng-Ru Wu)
-  - history, formula, Majorana and CP phases, etc.
-  - absolute mass problem and hierarchy problem
-  - sterile neutrinos
+  - general formalism
+  - flavor oscillations in vacuum
+  - matter effect, and collective oscillations
 - Experiment (Anna Zsigmond)
   - solar, accelerator, reactor, atmospheric neutrino experiments
 
@@ -178,9 +178,9 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ### Neutrino astronomy
 (Meng-Ru Wu)
+- solar neutrinos
 - supernova neutrinos
 - ultra-high energy neutrinos
-- neutrino floor from solar neutrinos
 
 ### Neutrino interactions
 (Henry Wang)

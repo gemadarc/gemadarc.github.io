@@ -123,23 +123,23 @@ July 12-18, <a href="http://www.scu.edu.cn/en/">Sichuan University</a>,
 
 ## Lecturers
 
-- [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill, NC, USA
-- [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing, China
-- [Yizhong Fan][Fan], [Purple Mountain Observatory][PMO], [Chinese Academy of Sciences][CAS], Nanjing, China
-- [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX, USA
-- [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
-- [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
-- [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
-- [Venktesh Singh](https://www.researchgate.net/profile/Venktesh_Singh), [Banaras Hindu University](http://www.bhu.ac.in), Varanasi, India
-- [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
-- [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC, USA
-- [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
-- [Shun Zhou][Shun], [Institute of High Energy Physics][IHEP], [Chinese Academy of Sciences][CAS], Beijing, China
-- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Beijing, China
-- [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
+- [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich
+- Thomas Caldwell, [University of North Carolina][UNC], Chapel Hill
+- [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing
+- [Yizhong Fan][Fan], [Purple Mountain Observatory][PMO], [Chinese Academy of Sciences][CAS], Nanjing
+- [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX
+- [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD
+- [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich
+- [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
+- [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD
+- [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
+- [Venktesh Singh](https://www.researchgate.net/profile/Venktesh_Singh), [Banaras Hindu University](http://www.bhu.ac.in), Varanasi
+- [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei
+- [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC
+- [Meng-Ru Wu][Wu], [Institute of Physics, Academia Sinica][IOP], Taipei
+- [Shun Zhou][Shun], [Institute of High Energy Physics][IHEP], [Chinese Academy of Sciences][CAS], Beijing
+- [Yufeng Zhou][Zhou], [Institute of Theoretical Physics][ITP], [Chinese Academy of Sciences][CAS], Beijing
+- [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
 
 ## Topics
 

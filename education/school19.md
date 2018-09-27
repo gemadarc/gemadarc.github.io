@@ -38,7 +38,7 @@ May 16-25, <a href="https://www.mpp.mpg.de/">Max-Planck-Institut für Physik</a>
 </div>
 
 <div class="item">
-<img src="https://cdn.muenchen-p.de/image/upload/w_320,h_120,c_scale/resources/blank1x1.gif">
+<img src="https://cdn.muenchen-p.de/.imaging/stk/responsive/image980/dms/homepages-2016/herbstpanorama-hp/document/herbstpanorama-hp.jpg">
 <div class="carousel-caption">
 <a class="btn btn-lg btn-primary" href="#lodging" role="button">Munich</a>
 </div>
@@ -149,7 +149,7 @@ The registration fee is xxx Euro or \$xxx. It is used to cover the following cos
 - two-days of [excursion](#excursion)
 - a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
 
-**Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/Z8obATHgnBI5s3vA2) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
+**Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/sigaTVyrv6bzLL9g1) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
 
 ## LinkedIn
 

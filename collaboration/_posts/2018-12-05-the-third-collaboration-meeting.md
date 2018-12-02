@@ -1,8 +1,1 @@
-# Where
-Knoxville, TN, U.S.A. 
-
-# When
-December 5, 2018, right after the LEGEND collaboration meeting
-
-# What
-One day workshop on HPGe: https://wasabi.physics.unc.edu/event/10/overview
+The 3rd PIRE-GEMADARC Collaboration Meeting and a one-day Ge Technology Workshop will take place on December 5th, 2018 in the Crowne Plaza Knoxville Downtown University (Summit 2 Room) beginning at 8:00 (business meeting) and 8:30 (Workshop on Ge Technology). The schedule is available [here](https://wasabi.physics.unc.edu/event/10/overview).

@@ -1,6 +1,6 @@
 # Agenda
 
-- https://indico.mpp.mpg.de/event/6013/
+- <https://indico.mpp.mpg.de/event/6013/>
 
 # Logistics
 

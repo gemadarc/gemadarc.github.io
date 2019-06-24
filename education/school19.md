@@ -8,20 +8,9 @@ May 16-25, <a href="https://www.mpp.mpg.de/">Max-Planck-Institut für Physik</a>
 <a href="https://en.wikipedia.org/wiki/Bavaria">Bavaria</a>, Germany
 <ul>
 <li><a href="https://weather.com/weather/tenday/l/Munich+Germany+GMXX0087:1:GM">Weather</a></li>
-<li><a href="#registration">Registration</a></li>
-<li><a href="#schedule">Schedule</a></li>
-<li><a href="#lecturers">Lecturers</a></li>
-<li><a href="#topics">Topics</a></li>
-<li><a href="#posters">Posters</a></li>
-<li><a href="#visa">Visa</a></li>
-<li><a href="#food">Food</a></li>
-<li><a href="#lodging">Lodging</a></li>
-<li><a href="#excursion">Excursion</a></li>
-<li><a href="#financial-assistance">Financial Assistance</a></li>
-<li><a href="#transportation">Transportation</a></li>
-<li><a href="#culture-and-activities">Culture & Activities</a></li>
+<li><a href="https://indico.mpp.mpg.de/event/6013/">Indico</a></li>
+<li><a href="https://nextcloud.mpp.mpg.de/nextcloud/index.php/s/f7TbHZY8RYKF9XF">Pictures</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
-<li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
 <li><a href="#code-of-conduct">Code of Conduct</a></li>
 </ul>
@@ -31,7 +20,7 @@ May 16-25, <a href="https://www.mpp.mpg.de/">Max-Planck-Institut für Physik</a>
 
 <div class="carousel-inner" role="listbox">
 <div class="item active">
-<img src="https://www.mpp.mpg.de/fileadmin/user_upload/Header-Bilder/Startseite_Header-Bilder/160513_2_Caldwell_v4.jpg">
+<img src="https://www.mpg.de/251174/standard-1533037269.jpg?t=eyJ3aWR0aCI6ODQ4LCJoZWlnaHQiOjM5NSwiZml0IjoiY3JvcCIsIm9ial9pZCI6MjUxMTc0fQ==--48549c8bb2bf48d7eed97d38d2b395b45a307db1">
 <div class="carousel-caption">
 <a class="btn btn-lg btn-primary" href="#underground-laboratories" role="button">Max-Planck-Institut</a>
 </div>
@@ -87,69 +76,12 @@ May 16-25, <a href="https://www.mpp.mpg.de/">Max-Planck-Institut für Physik</a>
 
 </div><!-- row -->
 
-## Schedule
-
-- May 16 ...
-- May 17
-- May 18
-- May 19
-- May 20
-
-
-| Time        | May 12              | May 14              | May 15             | May 16            | May 18               |
-|-------------|----------------------|----------------------|---------------------|--------------------|-----------------------|
-| 08:30-09:30 | [0]. Welcome         | [6]. ν osc. the.     | [12]. DM theory     | [18]. comp. tools  | [24]. analog elec.    |
-| 19:15-20:15 | Culture              | Culture              | Culture             | Culture            | Culture               |
-
-## Lecturers
-
-- [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich
-- [Zhi Deng][Deng], [Tsinghua University][Tsinghua], Beijing
-- [H. Rusty Harris][Rusty], [Texas A&M University][TAMU], College Station, TX
-- [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD
-- [Xiang Liu][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich
-- [Bela Majorovits][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
-- [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD
-- [Oliver Schulz][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
-- [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei
-- [John Wilkerson][John], [University of North Carolina][UNC], Chapel Hill, NC
-- [Anna Zsigmond][Bela], [Max-Planck-Institut fuer Physik][MPI], Munich
-
-## Topics
-
-
 ## Organizing committee
 
 - Local committee
   - [Iris Abt][Iris], [Max-Planck-Institut fuer Physik][MPI], Munich, Germany
 - International committee
   - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
-
-## Excursion
-
-## Posters
-
-Students are encouraged to present their own research in the form of posters. There will be a "Best poster award" announced at the end of the school. Posters will be hang around the lecture room and/or the dinner place to give us chances to discuss about them.
-
-## Visa
-
-## Food
-
-## Lodging
-
-## Transportation
-
-## Culture and activities
-
-## Registration
-
-The registration fee is xxx Euro or \$xxx. It is used to cover the following cost:
-
-- coffee, tea, and snacks in between lectures
-- two-days of [excursion](#excursion)
-- a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
-
-**Please note that the registration process and fee are NOT waived for lecturers.** They need to fill the [form](https://goo.gl/forms/sigaTVyrv6bzLL9g1) and pay the registration fee as well. However, lecturers from outside the PIRE-GEMADARC collaboration may receive lecturing fees as compensation.
 
 ## LinkedIn
 
@@ -159,21 +91,12 @@ The registration fee is xxx Euro or \$xxx. It is used to cover the following cos
 
 We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng/zmzlljs/t84229.htm) for our summer school. Please make sure that you are familiar with it before you join the school.
 
-[Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/
+## Quiz
+
+- Detector configuration quiz [1](https://forms.gle/MCLEoKFSe5vmDpyz6), [2](https://forms.gle/u37TzBKQQjKch1R38), [3](https://forms.gle/   tvu6UoFi4aixAYHY7), [4](https://forms.gle/zjzUb4Rk4ExBqsCC6), and [evaluation](https://forms.gle/jeheWLu5zsuP1qEM6)
+- Signal formation quiz [1](https://forms.gle/k3BD8UVHWRHDqYWt5), [2](https://forms.gle/YfMTTD8u2Ekcxr3d8), and [evaluation](https://forms.gle/gv1E5NJ5Y426xyG89)
+ 
 [USD]: http://www.usd.edu
 [MPI]: https://www.mpp.mpg.de/en/
 [Iris]:https://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
-[Deng]: http://www.engineeringphysics.tsinghua.edu.cn/publish/epen/1733/2010/20101211163730097209304/20101211163730097209304_.html
 [Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
-[Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
-[Wenqin]: http://www.usd.edu/faculty-and-staff/Wenqin-Xu
-[Joel]: http://www.usd.edu/faculty-and-staff/Joel-Sander
-[Guojian]: http://www.usd.edu/faculty-and-staff/Guojian-Wang
-[Bela]: https://www.mpp.mpg.de/en/research/astroparticle-physics-and-cosmology/gerda-detector-neutrino-physics/
-[John]: https://users.physics.unc.edu/~jfw/
-[UNC]: http://www.unc.edu/
-[Rusty]: https://engineering.tamu.edu/electrical/people/rharris
-[TAMU]: http://www.tamu.edu/
-[IOP]: http://www.phys.sinica.edu.tw/index_en.php
-[Henry]: http://www.phys.sinica.edu.tw/~htwong/
-[CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory

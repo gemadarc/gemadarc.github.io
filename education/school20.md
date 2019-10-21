@@ -8,18 +8,7 @@ May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Ph
 <a href="https://en.wikipedia.org/wiki/Taiwan">Taiwan</a>
 <ul>
 <li><a href="https://weather.com/weather/tenday/l/TWXX0021:1:TW">Weather</a></li>
-<li><a href="#registration">Registration</a></li>
-<li><a href="#schedule">Schedule</a></li>
-<li><a href="#lecturers">Lecturers</a></li>
-<li><a href="#topics">Topics</a></li>
-<li><a href="#posters">Posters</a></li>
-<li><a href="#visa">Visa</a></li>
-<li><a href="#food">Food</a></li>
-<li><a href="#lodging">Lodging</a></li>
-<li><a href="#excursion">Excursion</a></li>
-<li><a href="#financial-assistance">Financial Assistance</a></li>
-<li><a href="#transportation">Transportation</a></li>
-<li><a href="#culture-and-activities">Culture & Activities</a></li>
+<li><a href="https://indico.phys.sinica.edu.tw/e/pire2020">Indico page</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
@@ -80,16 +69,6 @@ May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Ph
 
 </div><!-- row -->
 
-## Schedule
-
-## Lecturers
-
-- [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD
-- [Henry Tsz-King Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei
-
-## Topics
-
-
 ## Organizing committee
 
 - Local committee
@@ -97,30 +76,6 @@ May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Ph
 - International committee
   - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
   - Chris Haufe, [Univeristy of North Carolina at Chapel Hill][UNC], NC, USA
-
-## Excursion
-
-## Posters
-
-Students are encouraged to present their own research in the form of posters. There will be a "Best poster award" announced at the end of the school. Posters will be hang around the lecture room and/or the dinner place to give us chances to discuss about them.
-
-## Visa
-
-## Food
-
-## Lodging
-
-## Transportation
-
-## Culture and activities
-
-## Registration
-
-The registration fee is \$300. It is used to cover the following cost:
-
-- coffee, tea, and snacks in between lectures
-- two-days of [excursion](#excursion)
-- a T-shirt and some stationaries with [PIRE-GEMADARC](http://pire.gemadarc.org/) logos
 
 ## LinkedIn
 

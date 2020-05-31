@@ -13,3 +13,4 @@
 - Overview: [pdf](https://drive.google.com/uc?id=1GweH-ZcilGQiPIrHUoUx-BsFVf6vNArS)
 ### June 4
 - paper: [pdf (access restricted to GEMADARC members only)](https://drive.google.com/uc?id=11Q8BuMS3_Ew9xEv6o4wHdiajegY-hH9q)
+- [points to ponder](https://drive.google.com/uc?id=1z3ZVRYLOMBlVekrTUmoysUVphdf6iwih)

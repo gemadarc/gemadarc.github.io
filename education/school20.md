@@ -20,3 +20,5 @@
 ### June 4
 - paper: [pdf (access restricted to GEMADARC members only)](https://drive.google.com/uc?id=11Q8BuMS3_Ew9xEv6o4wHdiajegY-hH9q)
 - [points to ponder](https://drive.google.com/uc?id=1z3ZVRYLOMBlVekrTUmoysUVphdf6iwih)
+- group photo: [pdf](https://drive.google.com/uc?id=1P32xstwtbB-BiAZTgoickpIAIDifGtys)
+- [Zoom recording](https://usd.zoom.us/rec/share/3udEEPbUqVlIRc_87EHfRbEPAqr-eaa82yQW-KVZn8z6Hh3omlHn8-9crxct3lo?startTime=1591274999000)

@@ -21,7 +21,6 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - http://physino.xyz/learning/2020/01/12/easiest-way-to-experience-linux-in-windows/
 - http://physino.xyz/learning/2016/08/30/Linux-101/
 - https://docs.microsoft.com/en-us/windows/wsl/install-win10
-- http://physino.xyz/learning/2020/02/11/automate-compilation-of-root-based-c++-program-with-makefile/
 
 ## Exploration Series
 

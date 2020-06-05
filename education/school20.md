@@ -19,7 +19,7 @@
 Notice: Based on the entrance survey result, the instruction will be at the graduate level. If You have not used command line and/or compiled C++ before, please try to learn them by yourself before the course. Here are some resources to start with:
 
 - http://physino.xyz/learning/2016/08/30/Linux-101/
-- http://physino.xyz/learning/2020/01/12/easiest-way-to-experience-linux-in-windows/
+- https://docs.microsoft.com/en-us/windows/wsl/install-win10
 - http://physino.xyz/learning/2020/02/11/automate-compilation-of-root-based-c++-program-with-makefile/
 
 ## Exploration Series

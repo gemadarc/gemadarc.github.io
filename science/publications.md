@@ -1,0 +1,2 @@
+1. **Investigation of ASIC-based signal readout electronics for LEGEND-1000**, F. Edzards, M. Wilers, A. AAlbotini, L. Bombelli, D. Fink, M. P. Green, M. Laubenstein, S. Mertens, G. Othman, D. C. Radford, S. Schönert and G. Zuzel, [arXiv: 2005.10366](https://export.arxiv.org/abs/2005.10366)
+1. **Characterization of High-Purity Germanium Detectors with Amorphous Germanium Contacts in Cryogenic Liquids**, R. Panth, J. Liu, I. Abt, X. Liu, O. Schulz, W.-Z. Wei, H. Mei, D.-M. Mei, G.-J. Wang, [arXiv: 2003.13792](https://export.arxiv.org/abs/2003.13792)

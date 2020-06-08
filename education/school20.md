@@ -18,9 +18,16 @@
 
 Notice: Based on the entrance survey result, the instruction will be at the graduate level. If You have not used command line and/or compiled C++ before, please try to learn them by yourself before the course. Here are some resources to start with:
 
-- http://physino.xyz/learning/2020/01/12/easiest-way-to-experience-linux-in-windows/
-- http://physino.xyz/learning/2016/08/30/Linux-101/
-- https://docs.microsoft.com/en-us/windows/wsl/install-win10
+- <http://physino.xyz/learning/2020/01/12/easiest-way-to-experience-linux-in-windows/>
+- <http://physino.xyz/learning/2016/08/30/Linux-101/>
+- <https://docs.microsoft.com/en-us/windows/wsl/install-win10>
+
+#### Week 1, What we can achieve after 10 weeks
+
+- Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
+- Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
+- Reference: [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
+- [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 
 ## Exploration Series
 

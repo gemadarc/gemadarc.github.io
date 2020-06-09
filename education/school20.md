@@ -26,8 +26,12 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
-- Reference: [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
+- Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)
+
+#### Week 2, Geant4 Installation
+
+- Reference: [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s), [Geant4 Installation Guide](http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/InstallationGuide/html/index.html), [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
 
 ## Exploration Series
 

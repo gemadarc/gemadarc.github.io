@@ -25,6 +25,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 #### Week 1, What we can achieve after 10 weeks
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12.
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)

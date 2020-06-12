@@ -10,6 +10,9 @@
 ### Hands-on Geant4 Monte Carlo simulation
 
 - Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu)
+- Graduate teaching assistants:
+  - [Kyler Kooi](mailto://kyler.kooi@coyotes.usd.edu) (Mac)
+  - [Keyu Ding](mailto://keyu.ding@coyotes.usd.edu) (Windows)
 - Syllabus: [pdf](https://drive.google.com/uc?id=1cjcMI-b14TmEeRYa-9AbSPLFyEQrMJPl)
 - Entrance survey:
   - [Google form](https://forms.gle/N8nxcX6RSWPgkuEU9) (You can still take it)
@@ -32,7 +35,11 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 #### Week 2, Geant4 Installation
 
-- Reference: [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s), [Geant4 Installation Guide](http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/InstallationGuide/html/index.html), [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
+- References:
+  - [How does the compilation/linking process work?](https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work)
+  - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)
+  - [Official Geant4 Installation Guide](http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/InstallationGuide/html/index.html)
+  - [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
 
 ## Exploration Series
 

@@ -9,10 +9,8 @@
 
 ### Hands-on Geant4 Monte Carlo simulation
 
-- Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu)
-- Graduate teaching assistants:
-  - [Kyler Kooi](mailto://kyler.kooi@coyotes.usd.edu) (Mac)
-  - [Keyu Ding](mailto://keyu.ding@coyotes.usd.edu) (Windows)
+- Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu), [Dr. Mary Kidd](https://www.tntech.edu/directory/cas/physics/mary-kidd.php)
+- Graduate teaching assistants: [Kyler Kooi](mailto:kyler.kooi@coyotes.usd.edu) (Mac), [Laxman Paudel](mailto:Laxman.Paudel@coyotes.usd.edu) (Mac), [Keyu Ding](mailto:keyu.ding@coyotes.usd.edu) (Windows)
 - Syllabus: [pdf](https://drive.google.com/uc?id=1cjcMI-b14TmEeRYa-9AbSPLFyEQrMJPl)
 - Entrance survey:
   - [Google form](https://forms.gle/N8nxcX6RSWPgkuEU9) (You can still take it)
@@ -28,7 +26,8 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 #### Week 1, What we can achieve after 10 weeks
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12.
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12
+  - [Group photo in Google Drive](https://drive.google.com/uc?id=1ndZ2N32nSh_qZibBe109oZ6KsH0D6t2f)
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)

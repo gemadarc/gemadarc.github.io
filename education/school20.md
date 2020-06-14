@@ -34,6 +34,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 #### Week 2, Geant4 Installation
 
+- Lectures: [Compile or not, it is a question](https://youtu.be/sg97nr8Kg-A)
 - References:
   - [How does the compilation/linking process work?](https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work)
   - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)

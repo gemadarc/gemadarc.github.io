@@ -12,6 +12,7 @@
 - Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu), [Dr. Mary Kidd](https://www.tntech.edu/directory/cas/physics/mary-kidd.php)
 - Graduate teaching assistants: [Kyler Kooi](mailto:kyler.kooi@coyotes.usd.edu) (Mac), [Laxman Paudel](mailto:Laxman.Paudel@coyotes.usd.edu) (Mac), [Keyu Ding](mailto:keyu.ding@coyotes.usd.edu) (Windows)
 - Syllabus: [pdf](https://drive.google.com/uc?id=1cjcMI-b14TmEeRYa-9AbSPLFyEQrMJPl)
+- [YouTube channel](https://www.youtube.com/channel/UCQd4wp1ehUPXVHLjqYAMR3g), [Bilibili channel](https://space.bilibili.com/610308328?spm_id_from=333.788.b_765f7570696e666f.2)
 - Entrance survey:
   - [Google form](https://forms.gle/N8nxcX6RSWPgkuEU9) (You can still take it)
   - [Result](https://drive.google.com/uc?id=12cPfzcersbh01G5jJ3N7QkBCRIwqBEXA) (up to June 4)

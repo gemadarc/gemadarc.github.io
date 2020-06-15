@@ -109,4 +109,4 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 ### June 18
 - paper: [A quasiparticle-trap-assisted transition edge sensor for phonon-mediated particle detection](https://drive.google.com/uc?id=1sP4YlpsQ1S6eCMZj5u-M2z6rSdb84iE2), Review of Scientific Instruments 66, 5322 (1995); <https://doi.org/10.1063/1.1146105>
 - Facilitators: Joel Sander, Vuk Mandic, and Matt Fritts
--[points to ponder](https://drive.google.com/uc?id=1FmQpZM9TEhY4ngdOkeA5eDqj2jehI3Rq)
+- [points to ponder](https://drive.google.com/uc?id=1FmQpZM9TEhY4ngdOkeA5eDqj2jehI3Rq)

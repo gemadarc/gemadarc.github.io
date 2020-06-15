@@ -9,6 +9,13 @@
   <div class="col-md-3">  
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a data-toggle="pill" href="#summer-school">Summer school</a></li>
+      <ul class="nav nav-pills nav-stacked">
+      <li><a data-toggle="pill" href="#school18">School 2018</a></li>
+      <li><a data-toggle="pill" href="#school19">School 2019</a></li>
+      <li class="active"><a data-toggle="pill" href="#school20">School 2020</a></li>
+      <li><a data-toggle="pill" href="#school21">School 2021</a></li>
+      <li><a data-toggle="pill" href="#school22">School 2022</a></li>
+      </ul>
       <li><a data-toggle="pill" href="#teaching">Teaching</a></li>
       <li><a data-toggle="pill" href="#mentoring">Mentoring</a></li>
       <li><a data-toggle="pill" href="#oversea">Oversea</a></li>
@@ -21,6 +28,26 @@
     <div class="tab-content">
       <div id="summer-school" class="tab-pane fade in active">
 	{% capture my_include %}{% include_relative school.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="school18" class="tab-pane fade">
+	{% capture my_include %}{% include_relative school18.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="school19" class="tab-pane fade">
+	{% capture my_include %}{% include_relative school19.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="school20" class="tab-pane fade">
+	{% capture my_include %}{% include_relative school20.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="school21" class="tab-pane fade">
+	{% capture my_include %}{% include_relative school21.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="school22" class="tab-pane fade">
+	{% capture my_include %}{% include_relative school21.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
       <div id="teaching" class="tab-pane fade">

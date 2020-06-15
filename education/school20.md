@@ -29,6 +29,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12
   - [Group photo in Google Drive](https://drive.google.com/uc?id=1ndZ2N32nSh_qZibBe109oZ6KsH0D6t2f)
+  - [YouTube video](https://www.youtube.com/watch?v=i7Ph2DsRq4Q)
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)
@@ -43,46 +44,45 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
   - [Official Geant4 Installation Guide](http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/InstallationGuide/html/index.html)
   - [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
   
-### Week 3, Compile a Geant4 application
+#### Week 3, Compile a Geant4 application
 
 - Homework: Compile and run GEARS
-- References:
-  - [GEARS Homepage](http://physino.xyz/gears)
+- Reference: [GEARS Homepage](http://physino.xyz/gears)
   
-### Week 4, Visualize detector geometry
+#### Week 4, Visualize detector geometry
 
 - Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
 - Reference: <http://physino.xyz/gears/examples/detector/visualization>
 
-### Week 5, Construct your detector
+#### Week 5, Construct your detector
 
 - Homework: Construct your detector in text geometry format, visualize it using GEARS
 - Reference: <http://physino.xyz/gears/examples/detector>
 
 
-### Week 6, Generate primary particles
+#### Week 6, Generate primary particles
 
 - Homework: Shoot various particles to your detector
 - Reference: <http://physino.xyz/gears/examples/sources>
 
 
-### Week 7, Understand the physics
+#### Week 7, Understand the physics
 
 - Homework: understand physics processes associated with different particles
 - Reference: <http://physino.xyz/gears/examples/physics>
 
 
-### Week 8, Analyize the output
+#### Week 8, Analyize the output
 
 - Homework: figure out the panetration depth of 662 keV gamma-rays in a germanium detector
 - Reference: <http://physino.xyz/gears/examples/output>
 
-### Week 9, Simulate radioactive decays
+#### Week 9, Simulate radioactive decays
 
 - Homework: draw the energy spectrum of a Co-60 source in a germanium detector
 - Reference: <http://physino.xyz/gears/examples/physics/#radioactive-decay>
 
-### Week 10, Simulate optical photons
+#### Week 10, Simulate optical photons
 
 - Homework: generate optical photons and visualize their propergation in LAr
 - Reference: <http://physino.xyz/gears/examples/physics/#optical-processes>

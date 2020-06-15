@@ -1,13 +1,6 @@
 # School 2020
 
-## Mini courses
-
-### Concepts of detector electronics
-
-- Instructor: [Dr. Reyco Henning](https://physics.unc.edu/people/henning-reyco/)
-- Syllabus: [pdf](https://drive.google.com/uc?id=1uJn-FfTwSogvqS7U1EsVxYNSzNiWf0e4)
-
-### Hands-on Geant4 Monte Carlo simulation
+## Hands-on Geant4 Monte Carlo simulation
 
 - Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu), [Dr. Mary Kidd](https://www.tntech.edu/directory/cas/physics/mary-kidd.php)
 - Graduate teaching assistants: [Kyler Kooi](mailto:kyler.kooi@coyotes.usd.edu) (Mac), [Laxman Paudel](mailto:Laxman.Paudel@coyotes.usd.edu) (Mac), [Keyu Ding](mailto:keyu.ding@coyotes.usd.edu) (Windows)
@@ -24,7 +17,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - <http://physino.xyz/learning/2016/08/30/Linux-101/>
 - <https://docs.microsoft.com/en-us/windows/wsl/install-win10>
 
-#### Week 1, What we can achieve after 10 weeks
+### Week 1, What we can achieve after 10 weeks
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12
@@ -34,7 +27,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)
 
-#### Week 2, Install Geant4
+### Week 2, Install Geant4
 
 - Lectures: [Compile or not, it's a question](https://youtu.be/sg97nr8Kg-A), [Installation in Windows](https://youtu.be/8pyf0qV9qGk), [Installation in macOS](https://youtu.be/uSp32UxGxBE)
 - Homework: watch lectures and install pre-compiled Geant4 libraries on your OS (If you use Linux, follow the official installation guide to compile Geant4).
@@ -44,69 +37,51 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
   - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)
   - [Official Geant4 Installation Guide](http://geant4-userdoc.web.cern.ch/geant4-userdoc/UsersGuides/InstallationGuide/html/index.html)
   - [GEARS: Install Geant4](http://physino.xyz/gears/install/#install-geant4)
-  
-#### Week 3, Compile a Geant4 application
+
+### Week 3, Compile a Geant4 application
 
 - Homework: Compile and run GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 26
 - Reference: [GEARS Homepage](http://physino.xyz/gears)
-  
-#### Week 4, Visualize detector geometry
+
+### Week 4, Visualize detector geometry
 
 - Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 3
 - Reference: <http://physino.xyz/gears/examples/detector/visualization>
 
-#### Week 5, Construct your detector
+### Week 5, Construct your detector
 
 - Homework: Construct your detector in text geometry format, visualize it using GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 10
 - Reference: <http://physino.xyz/gears/examples/detector>
 
-
-#### Week 6, Generate primary particles
+### Week 6, Generate primary particles
 
 - Homework: Shoot various particles to your detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 17
 - Reference: <http://physino.xyz/gears/examples/sources>
 
-
-#### Week 7, Understand the physics
+### Week 7, Understand the physics
 
 - Homework: understand physics processes associated with different particles
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 24
 - Reference: <http://physino.xyz/gears/examples/physics>
 
-
-#### Week 8, Analyze the output
+### Week 8, Analyze the output
 
 - Homework: figure out the penetration depth of 662 keV gamma-rays in a germanium detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 31
 - Reference: <http://physino.xyz/gears/examples/output>
 
-#### Week 9, Simulate radioactive decays
+### Week 9, Simulate radioactive decays
 
 - Homework: draw the energy spectrum of a Co-60 source in a germanium detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, August 7
 - Reference: <http://physino.xyz/gears/examples/physics/#radioactive-decay>
 
-#### Week 10, Simulate optical photons
+### Week 10, Simulate optical photons
 
 - Homework: generate optical photons and visualize their propagation in LAr
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, August 14
 - Reference: <http://physino.xyz/gears/examples/physics/#optical-processes>
-
-## Exploration Series
-
-- Overview: [pdf](https://drive.google.com/uc?id=1GweH-ZcilGQiPIrHUoUx-BsFVf6vNArS)
-
-### June 4
-- paper: [pdf (access restricted to GEMADARC members only)](https://drive.google.com/uc?id=11Q8BuMS3_Ew9xEv6o4wHdiajegY-hH9q)
-- [points to ponder](https://drive.google.com/uc?id=1z3ZVRYLOMBlVekrTUmoysUVphdf6iwih)
-- group photo: [pdf](https://drive.google.com/uc?id=1P32xstwtbB-BiAZTgoickpIAIDifGtys)
-- [Zoom recording](https://usd.zoom.us/rec/share/3udEEPbUqVlIRc_87EHfRbEPAqr-eaa82yQW-KVZn8z6Hh3omlHn8-9crxct3lo?startTime=1591274999000)
-
-### June 18
-- paper: [A quasiparticle-trap-assisted transition edge sensor for phonon-mediated particle detection](https://drive.google.com/uc?id=1sP4YlpsQ1S6eCMZj5u-M2z6rSdb84iE2), Review of Scientific Instruments 66, 5322 (1995); <https://doi.org/10.1063/1.1146105>
-- Facilitators: Joel Sander, Vuk Mandic, and Matt Fritts
-- [points to ponder](https://drive.google.com/uc?id=1FmQpZM9TEhY4ngdOkeA5eDqj2jehI3Rq)

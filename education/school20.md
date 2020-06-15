@@ -16,7 +16,7 @@
 - Entrance survey:
   - [Google form](https://forms.gle/N8nxcX6RSWPgkuEU9) (You can still take it to join the email list)
   - [Result](https://drive.google.com/uc?id=12cPfzcersbh01G5jJ3N7QkBCRIwqBEXA) (up to June 15)
-- Example code: [GERAS](http://physino.xyz/gears)
+- Example code: [GEARS](http://physino.xyz/gears)
 
 Notice: Based on the entrance survey result, the instruction will be at the graduate level. If You have not used command line and/or compiled C++ before, please try to learn them by yourself before the course. Here are some resources to start with:
 
@@ -54,34 +54,34 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 #### Week 4, Visualize detector geometry
 
 - Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, Juny 3
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 3
 - Reference: <http://physino.xyz/gears/examples/detector/visualization>
 
 #### Week 5, Construct your detector
 
 - Homework: Construct your detector in text geometry format, visualize it using GEARS
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, Juny 10
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 10
 - Reference: <http://physino.xyz/gears/examples/detector>
 
 
 #### Week 6, Generate primary particles
 
 - Homework: Shoot various particles to your detector
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, Juny 17
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 17
 - Reference: <http://physino.xyz/gears/examples/sources>
 
 
 #### Week 7, Understand the physics
 
 - Homework: understand physics processes associated with different particles
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, Juny 24
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 24
 - Reference: <http://physino.xyz/gears/examples/physics>
 
 
-#### Week 8, Analyize the output
+#### Week 8, Analyze the output
 
-- Homework: figure out the panetration depth of 662 keV gamma-rays in a germanium detector
-- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, Juny 31
+- Homework: figure out the penetration depth of 662 keV gamma-rays in a germanium detector
+- Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 31
 - Reference: <http://physino.xyz/gears/examples/output>
 
 #### Week 9, Simulate radioactive decays
@@ -92,7 +92,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 #### Week 10, Simulate optical photons
 
-- Homework: generate optical photons and visualize their propergation in LAr
+- Homework: generate optical photons and visualize their propagation in LAr
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, August 14
 - Reference: <http://physino.xyz/gears/examples/physics/#optical-processes>
 

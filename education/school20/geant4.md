@@ -34,7 +34,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 19
   - [Survey](https://forms.gle/sD3eaaToazuzZBwu8) and [it's result](https://docs.google.com/forms/d/1uSSB9bL7oLDLtBvYIPcAPL6DELbF9jcFIFLTvIuy0GQ/viewanalytics)
   - [Group photo in Google Drive](https://drive.google.com/uc?id=1tILGGCynJzs-FalXqC7s5pS52VE_hjPw)
-  - [Zoom recording](https://University of South Dakota.zoom.us/rec/share/2cFWP4ur3WhOEpXEuWzBeqcKIqPIaaa81yAe__tYn0uC67462aBZW_hUPINeHNqT)
+  - [Zoom recording](https://usd.zoom.us/rec/share/2cFWP4ur3WhOEpXEuWzBeqcKIqPIaaa81yAe__tYn0uC67462aBZW_hUPINeHNqT)
 - References:
   - [How does the compilation/linking process work?](https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work)
   - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)

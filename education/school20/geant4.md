@@ -32,7 +32,9 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Lectures: [Compile or not, it's a question](https://youtu.be/sg97nr8Kg-A), [Installation in Windows](https://youtu.be/8pyf0qV9qGk), [Installation in macOS](https://youtu.be/uSp32UxGxBE)
 - Homework: watch lectures and install pre-compiled Geant4 libraries on your OS (If you use Linux, follow the official installation guide to compile Geant4).
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 19
-  - [Survey](https://forms.gle/sD3eaaToazuzZBwu8)
+  - [Survey](https://forms.gle/sD3eaaToazuzZBwu8) and [it's result](https://docs.google.com/forms/d/1uSSB9bL7oLDLtBvYIPcAPL6DELbF9jcFIFLTvIuy0GQ/viewanalytics)
+  - [Group photo in Google Drive](https://drive.google.com/uc?id=1tILGGCynJzs-FalXqC7s5pS52VE_hjPw)
+  - [Zoom recording](https://University of South Dakota.zoom.us/rec/share/2cFWP4ur3WhOEpXEuWzBeqcKIqPIaaa81yAe__tYn0uC67462aBZW_hUPINeHNqT)
 - References:
   - [How does the compilation/linking process work?](https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work)
   - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)

@@ -43,7 +43,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 3, Compile a Geant4 application
 
-- Lecture : [Compile and run GEARS](https://youtu.be/YBH7o7NT5Tg)
+- Lecture : [Compile and run GEARS in Linux or Mac](https://youtu.be/YBH7o7NT5Tg), [in Windows](https://youtu.be/yBOs-JSQ6iA)
 - Homework: Compile and run GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 26
 - Reference: [GEARS Homepage](http://physino.xyz/gears)

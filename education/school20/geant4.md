@@ -46,7 +46,9 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Lecture : [Compile and run GEARS in Linux or Mac](https://youtu.be/YBH7o7NT5Tg), [in Windows](https://youtu.be/yBOs-JSQ6iA)
 - Homework: Compile and run GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 26
-  - [Survey (Google form)](https://forms.gle/Ygqen5B1ZVmam4As5)
+  - [Survey (Google form)](https://forms.gle/Ygqen5B1ZVmam4As5) and [its result](https://docs.google.com/forms/d/1k-75RyETNdUlXbu6byuGl9IBvkJG23WYijPcjZwM4Og/viewanalytics)
+  - [Group photo in Google Drive](https://drive.google.com/uc?id=1uHVRoXJG66A0iL4dmSAMJ1baBatlQB12)
+  - [Zoom recording](https://usd.zoom.us/rec/share/ztxZcu3p5mRLbs_82krZXvcBMYTfX6a82nMf_vYMxR1Ziv_8e1eVhOj_nFmmGsMb)
 - Reference: [GEARS Homepage](http://physino.xyz/gears)
 
 ### Week 4, Visualize detector geometry

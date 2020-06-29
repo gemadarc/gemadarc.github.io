@@ -53,6 +53,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 4, Visualize detector geometry
 
+- Lecture: [How to visualize detector geometry](https://youtu.be/ySOIkUnT3rw)
 - Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 3
 - Reference: <http://physino.xyz/gears/examples/detector/visualization>

@@ -21,8 +21,6 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12
-  - [Group photo in Google Drive](https://drive.google.com/uc?id=1ndZ2N32nSh_qZibBe109oZ6KsH0D6t2f)
-  - [YouTube video](https://www.youtube.com/watch?v=i7Ph2DsRq4Q)
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)
@@ -33,8 +31,6 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Homework: watch lectures and install pre-compiled Geant4 libraries on your OS (If you use Linux, follow the official installation guide to compile Geant4).
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 19
   - [Survey](https://forms.gle/sD3eaaToazuzZBwu8) and [it's result](https://docs.google.com/forms/d/1uSSB9bL7oLDLtBvYIPcAPL6DELbF9jcFIFLTvIuy0GQ/viewanalytics)
-  - [Group photo in Google Drive](https://drive.google.com/uc?id=1tILGGCynJzs-FalXqC7s5pS52VE_hjPw)
-  - [Zoom recording](https://usd.zoom.us/rec/share/2cFWP4ur3WhOEpXEuWzBeqcKIqPIaaa81yAe__tYn0uC67462aBZW_hUPINeHNqT)
 - References:
   - [How does the compilation/linking process work?](https://stackoverflow.com/questions/6264249/how-does-the-compilation-linking-process-work)
   - [YouTube Video: Compile Geant4](https://www.youtube.com/watch?v=RphShQC3mtw&t=10s)
@@ -56,6 +52,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Lecture: [How to visualize detector geometry](https://youtu.be/ySOIkUnT3rw)
 - Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 3
+  - [Kahoot Quiz](https://kahoot.it/challenge/06505345?challenge-id=82a0bd7f-5684-48d0-8bad-679898823afe_1593878342035) (expire date: July 31, PIN: 06505345)
 - Reference: <http://physino.xyz/gears/examples/detector/visualization>
 
 ### Week 5, Construct your detector

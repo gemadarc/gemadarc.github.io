@@ -21,6 +21,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 - Lecture: [YouTube video](https://youtu.be/bk7eTGXq_K8)
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 12
+  - [Kahoot Quiz](https://kahoot.it/challenge/06311828?challenge-id=82a0bd7f-5684-48d0-8bad-679898823afe_1593878751703) (expire date: July 31, PIN: 06311828)
 - Homework: Download latest [Geant4 libraries](https://geant4.web.cern.ch/support/download)
 - [Doodle poll of Q&A session time slot](https://doodle.com/poll/7ncry7uyar8wzmrg)
 - Reference: [C++ compilation](http://www.cplusplus.com/doc/tutorial/introduction/)
@@ -43,8 +44,6 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Homework: Compile and run GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, June 26
   - [Survey (Google form)](https://forms.gle/Ygqen5B1ZVmam4As5) and [its result](https://docs.google.com/forms/d/1k-75RyETNdUlXbu6byuGl9IBvkJG23WYijPcjZwM4Og/viewanalytics)
-  - [Group photo in Google Drive](https://drive.google.com/uc?id=1uHVRoXJG66A0iL4dmSAMJ1baBatlQB12)
-  - [Zoom recording](https://usd.zoom.us/rec/share/ztxZcu3p5mRLbs_82krZXvcBMYTfX6a82nMf_vYMxR1Ziv_8e1eVhOj_nFmmGsMb)
 - Reference: [GEARS Homepage](http://physino.xyz/gears)
 
 ### Week 4, Visualize detector geometry

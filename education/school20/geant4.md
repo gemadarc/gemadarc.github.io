@@ -56,6 +56,8 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 5, Construct your detector
 
+- Lecture: [How to create your own detector geometry](https://youtu.be/TSP0RLjhLDw)
+- Homework: Visualize example geometries in GEARS using all visualization methods that are available in your OS.
 - Homework: Construct your detector in text geometry format, visualize it using GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 10
 - Reference: <http://physino.xyz/gears/examples/detector>

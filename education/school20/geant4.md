@@ -63,6 +63,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 6, Generate primary particles
 
+- Lecture: [How to start your simulation with primary particles](https://youtu.be/wSREKbCLlmQ)
 - Homework: Shoot various particles to your detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 17
 - Reference: <http://physino.xyz/gears/examples/sources>

@@ -59,6 +59,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 - Lecture: [How to create your own detector geometry](https://youtu.be/TSP0RLjhLDw)
 - Homework: Construct your detector in text geometry format, visualize it using GEARS
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 10
+  - [Kahoot Quiz](https://kahoot.it/challenge/09162258?challenge-id=82a0bd7f-5684-48d0-8bad-679898823afe_1594640967280) (expire date Aug 9, PIN: 0962258)
 - Reference: <http://physino.xyz/gears/examples/detector>
 
 ### Week 6, Generate primary particles

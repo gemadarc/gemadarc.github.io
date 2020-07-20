@@ -71,6 +71,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 7, Understand the physics
 
+- Lecture: [How to choose a proper Geant4 physics list](https://youtu.be/E7VpAcXhhHo)
 - Homework: understand physics processes associated with different particles
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 24
 - Reference: <http://physino.xyz/gears/examples/physics>

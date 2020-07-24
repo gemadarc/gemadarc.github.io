@@ -19,3 +19,9 @@
 - paper: [Bulk and surface event identification in p-type germanium detectors](https://www.sciencedirect.com/science/article/pii/S0168900217314961?via%3Dihub)
 - Facilitators: Hau-Bin Li, Litao Yang, and Shukui Liu
 - [Papers/Points to Ponder](http://physcloud.phys.sinica.edu.tw:8080/share.cgi?ssid=0kZVLVE#0kZVLVE/Session%20July%209)
+
+### July 23
+- paper: Characterization and performance of germanium detectors with sub- keV sensitivities for neutrino and dark matter experiments
+- Facilitators: Lakhwinder Singh, B. Vivek Sharma and C. Shin-Ted Li
+- [Papers/Points to Ponder](http://physcloud.phys.sinica.edu.tw:8080/share.cgi?ssid=0kZVLVE#0kZVLVE/Session%20July%2023)
+- [Session Recording](https://drive.google.com/file/d/1r8o55hRsLqnK-17ZK3hzL844zSaq9fHL/edit)

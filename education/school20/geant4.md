@@ -78,6 +78,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 8, Analyze the output
 
+- Lecture: [How to save and analysis Geant4 output](https://youtu.be/CEniIMd67X8)
 - Homework: figure out the penetration depth of 662 keV gamma-rays in a germanium detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, July 31
 - Reference: <http://physino.xyz/gears/examples/output>

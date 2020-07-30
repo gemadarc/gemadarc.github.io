@@ -25,3 +25,7 @@
 - Facilitators: Lakhwinder Singh, B. Vivek Sharma and C. Shin-Ted Li
 - [Papers/Points to Ponder](http://physcloud.phys.sinica.edu.tw:8080/share.cgi?ssid=0kZVLVE#0kZVLVE/Session%20July%2023)
 - [Session Recording](https://drive.google.com/file/d/1r8o55hRsLqnK-17ZK3hzL844zSaq9fHL/edit)
+
+### August 6
+- paper:  “New Results from the Search for Low-Mass Weakly Interacting Massive Particles with the CDMS Low Ionization Threshold Experiment”,  R. Agnese et al., Phys. Rev. Lett.,116 071301 (2016). DOI: 10.1103/PhysRevLett.116.071301
+- Facilitators: Rusty Harris, Nader Mirabolfathi, Ryan Underwood

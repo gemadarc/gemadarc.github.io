@@ -85,6 +85,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 9, Simulate radioactive decays
 
+- Lecture: [How to simulate a radioactive decay chain properly](https://youtu.be/8dR0DQ5ypCw)
 - Homework: draw the energy spectrum of a Co-60 source in a germanium detector
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, August 7
 - Reference: <http://physino.xyz/gears/examples/physics/#radioactive-decay>

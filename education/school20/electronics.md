@@ -30,3 +30,9 @@ This course will provide a survey of analog electronic concepts relevant for phy
 - Read the lecture notes and work through exercises [here.](https://drive.google.com/file/d/1lwan95slO_FsmmdpJKJRdjfubh1e9xZV/)
 - Post questions and comments to the Slack channel.
 - Send an email to the instructor [rhenning@unc.edu](mailto:rhenning@unc.edu) when you have read the notes and watched the lecture so that we can track how many students participated.
+
+### Module 4: Transfer Functions, Filters
+- Watch the [lecture](https://youtu.be/b5pcZcAVj4I)
+- Read the lecture notes and work through exercises [here.](https://drive.google.com/file/d/1wNNWJHOcU2RtbpwkZCf7abeKJZip10hb/)
+- Post questions and comments to the Slack channel.
+- Send an email to the instructor [rhenning@unc.edu](mailto:rhenning@unc.edu) when you have read the notes and watched the lecture so that we can track how many students participated.

@@ -10,7 +10,7 @@
 This course will provide a survey of analog electronic concepts relevant for physics students working with detectors in particle and nuclear physics.
 
 ## Useful resources
-- [Mathemetical Concepts](https://drive.google.com/file/d/1Ym6byBg6R9KXJHh2JLH8W2pZaTygoFZG/) -- will be updated Periodically
+- [Mathematical Concepts](https://drive.google.com/file/d/1Ym6byBg6R9KXJHh2JLH8W2pZaTygoFZG/) -- will be updated Periodically
 - [Explanation of Decibel Units](https://drive.google.com/file/d/1VuXPsDP-YvG44tlyTAUuklLOPSuJKvnB/) from Pozar
 
 ## Modules

@@ -28,4 +28,6 @@
 
 ### August 6
 - paper:  “New Results from the Search for Low-Mass Weakly Interacting Massive Particles with the CDMS Low Ionization Threshold Experiment”,  R. Agnese et al., Phys. Rev. Lett.,116 071301 (2016). DOI: 10.1103/PhysRevLett.116.071301
-- Facilitators: Rusty Harris, Nader Mirabolfathi, Ryan Underwood
+- Facilitators: Matt Fritts, Nader Mirabolfathi, Ryan Underwood
+- [Points to Ponder](https://drive.google.com/file/d/10frVyucC_bt8bruFyCYJPyWLxEKtT2aU/view?usp=sharing)
+- [Session Recording](https://usd.zoom.us/rec/play/tJ0pdOr8_zg3TobHtASDA_QvW9S1LP6shndMrqVcnx62VnkHOlevMrQSYLaLtVuiUw_KS5tKIfkOtwDP?startTime=1596718993000&_x_zm_rtaid=TW8aFYUNSWCNaF2UzmADUQ.1596744235983.a94a0f47c9dd8fac488f2822d186fd7b&_x_zm_rhtaid=623)

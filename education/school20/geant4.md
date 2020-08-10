@@ -92,6 +92,7 @@ Notice: Based on the entrance survey result, the instruction will be at the grad
 
 ### Week 10, Simulate optical photons
 
+- Lecture: [Optical simulation without any C++](https://youtu.be/sgo-RPbDRcU)
 - Homework: generate optical photons and visualize their propagation in LAr
 - Live Q&A session: Zoom, 9 to 10 am EDT, Friday, August 14
 - Reference: <http://physino.xyz/gears/examples/physics/#optical-processes>

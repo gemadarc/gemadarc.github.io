@@ -19,6 +19,7 @@
       <li><a data-toggle="tab" href="#tsinghua">Tsinghua</a></li>
       <li><a data-toggle="tab" href="#mpi">MPI</a></li>
       <li><a data-toggle="tab" href="#iop-as">IOP-AS</a></li>
+      <li><a data-toggle="tab" href="#snolab">SNOLAB</a></li>
     </ul>
   </div>
 
@@ -122,6 +123,15 @@
 	  <h3>Institute of Physics, Academic Sinica</h3>
 	</div>
 	{% capture my_include %}{% include_relative /iopas.md %}{% endcapture %}
+	{{ my_include | markdownify }}   
+      </div>
+
+      <div id="iop-as" class="tab-pane fade">
+	<div class="text-center">
+	  <img class="img-circle" src="http://www.snolab.ca/lrt2010/files/snolab_logo_med.jpg" alt="" width="140" height="140">
+	  <h3>SNOLAB</h3>
+	</div>
+	{% capture my_include %}{% include_relative /snolab.md %}{% endcapture %}
 	{{ my_include | markdownify }}   
       </div>
 

@@ -8,7 +8,7 @@
 All talks are 12 minutes of speaking + 3 minutes for questions.
 (APS contributed talks format)
 
-<https://drive.google.com/open?id=1KYexGUou8LrHceubPrTEoUj2gQNuUaW>
+[Draft agenda](https://drive.google.com/uc?id=1KYexGUou8LrHceubPrTEoUj2gQNuUaWj)
 
 # Slides
 

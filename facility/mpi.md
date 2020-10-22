@@ -1,4 +1,4 @@
-<p class="lead">The Max-Plank-Institute for physics operates three facilities to investigate germanium detectors:</p>
+<p class="lead">MPI for physics operates three facilities to investigate germanium detectors:</p>
 
 <div class="row">
 <div class="col-sm-6">

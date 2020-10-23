@@ -1,5 +1,6 @@
 # Tentative schedule
 
+- [Indico page](https://indico.cern.ch/event/962863/)
 - Travel on May 24 (Canadian's holiday)
 - May 25 - 26:  Summer school (Kingston)
 - May 27 - Travel to SNOLAB

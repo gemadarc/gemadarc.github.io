@@ -24,4 +24,4 @@ The decision will be made spring 2021.
 # Tentative topics for the in-person summer school
 
 - [Indico page](https://indico.cern.ch/event/962863/) (under construction)
-
+- [plan (internal)](https://drive.google.com/drive/u/0/folders/0BwM7XYhFgK7oektYR29GeURSX28)

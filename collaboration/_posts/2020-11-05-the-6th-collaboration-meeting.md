@@ -8,11 +8,11 @@
 All talks are 12 minutes of speaking + 3 minutes for questions.
 (APS contributed talks format)
 
-[Draft agenda](https://drive.google.com/uc?id=1KYexGUou8LrHceubPrTEoUj2gQNuUaWj)
+[Draft agenda](https://drive.google.com/uc?id=1jPHBUEBNnf2mmSh4Uc7cLkHdSq_2KCVN)
 
 # Slides
 
-Please upload your slides to [Google Drive/Shared with me/gemadarc/collab/meeting/2020/1105](https://drive.google.com/open?id=16ed1Gal0khlEAdCcJe-F1yOaw5MHFk15) and [1119](https://drive.google.com/open?id=1cY3E3kg6lhNTcileClVAeoxkCWcfUuYa) with the following file naming scheme: {Sequence number of your talk}{Your Last Name}.{suffix}. For example, Felix's talk is the third one. He can name his file as *03Hagemann.pdf*. This way, we can easily find the right presentation slides in the shared Google Drive folder.
+Please upload your slides to [Google Drive/Shared with me/gemadarc/collab/meeting/2020/1105](https://drive.google.com/open?id=16ed1Gal0khlEAdCcJe-F1yOaw5MHFk15) and [1119](https://drive.google.com/open?id=1cY3E3kg6lhNTcileClVAeoxkCWcfUuYa) with the following file naming scheme: {Sequence number of your talk}{Your Last Name}.{suffix}. For example, Morgan's talk is the 5th one. She can name her file as *05Clark.pdf*. This way, we can easily find the right presentation slides in the shared Google Drive folder.
 
 # Contact
 

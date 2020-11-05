@@ -8,7 +8,7 @@
 All talks are 10 minutes of speaking + 2 minutes for questions.
 (APS contributed talks format)
 
-[Draft agenda](https://drive.google.com/uc?id=1jPHBUEBNnf2mmSh4Uc7cLkHdSq_2KCVN)
+[Agenda (PDF)](https://drive.google.com/uc?id=1jPHBUEBNnf2mmSh4Uc7cLkHdSq_2KCVN)
 
 # Slides
 
@@ -17,3 +17,7 @@ Please upload your slides to [Google Drive/Shared with me/gemadarc/collab/meetin
 # Contact
 
 If you cannot access the shared folder with your favorite Google account, please talk to any colleague who can. She/He should be able to share that folder with your preferred Google account.
+
+# Recording
+
+<https://usd.zoom.us/rec/share/efSc9TK5BwfNxzG_I7caWMgcnvL0UI1ctXqvH99he-4OMNUfviJV2VyLX-ynAgAS.1-DikO0zzLgWiuJI>

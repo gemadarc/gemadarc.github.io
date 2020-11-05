@@ -5,7 +5,7 @@
 # Agenda
 
 (85 minutes - 10 minute break - 85 minutes)
-All talks are 12 minutes of speaking + 3 minutes for questions.
+All talks are 10 minutes of speaking + 2 minutes for questions.
 (APS contributed talks format)
 
 [Draft agenda](https://drive.google.com/uc?id=1jPHBUEBNnf2mmSh4Uc7cLkHdSq_2KCVN)

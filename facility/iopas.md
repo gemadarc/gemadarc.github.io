@@ -14,6 +14,6 @@ The TEXONO Collaboration is pursuing a research program on low-energy neutrino a
 
 ![scintillator](https://drive.google.com/uc?id=0BwM7XYhFgK7oZHBCcWRSZTNTQUE)
 
-Description
+Here, top and right plastic scintillator panels of CRV system are shown along with the innermost volume to place the different detectors for the tagging and separation of neutron and gamma backgrounds. The innermost volume with a dimension of 100×80×75 cm3 provides the flexibilities of placing different detectors for different neutrino and dark matter physics. These detectors are situated at the movable trolley.
 
 ![shield](https://drive.google.com/uc?id=0BwM7XYhFgK7oQ1dKdGIwYVdmVFk)

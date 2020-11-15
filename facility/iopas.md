@@ -8,7 +8,7 @@ Here, top and right plastic scintillator panels of CRV system are shown along wi
 
 It is an experimental setup of a coaxial p-type high purity Ge detector with an active target mass of 1.06 kg. The construction materials and detector geometry followed the ‘‘ultra low background’’ standards. The lithium-diffused outer electrode is 0.7mm thick. The end-cap cryostat, also 0.7 mm thick, is made of oxygen-free high-conductivity copper. Both of these features provide high suppression to ambient-background below 60 keV, such that events below this energy are either due to internal activity or ambient MeV-range γ’s via Compton scattering. Consequently, the background profile should be smooth and continuous below 60 keV down to the ranges where atomic effects are important.
 
-![Coaxial_Ge_Detector.png](https://drive.google.com/file/d/1PQmBj1hSU7NVibEFyS9K0rB9KqOrTnBC)
+![Coaxial_Ge_Detector](https://drive.google.com/file/d/1PQmBj1hSU7NVibEFyS9K0rB9KqOrTnBC)
 
 This is an experimental setup of Ultra-low-energy n-type Ge detectors which is a matured technique for sub-keV soft x-rays measurements. The Ultra-low-energy Ge detector array consists of four elements, each having an active mass of 5g. Every crystal has a semiplanar configuration with a p+ electrode on the outer surface, and a n+ contact of a small diameter is used as the central electrode, from which signals are derived. The surface electrode is of μm thickness fabricated by boron-ion implantation. The crystal array is encapsulated within the cryostat made of oxygen-free high- conductivity copper and the crystal center-to-center spacing is 14 mm. The cryostat end cap is made of carbon composite with the thickness of 0.6 mm allowing calibration with low-energy x-rays outside. This detector technique makes the unexplored sub-keV energy window accessible for new neutrino and dark matter experiments.
 
@@ -24,5 +24,5 @@ It is an experimental test setup of p-type point contact high purity Ge detector
 
 TEXONO collaboration is currently working on the Electro-Cooled point contact high purity Ge detector. A picture of Electro-Cooled p-type point contact Ge detector is shown in the figure. It comprise of a robust Linear Pulse Tube series (LPT 9310) cooler with dual opposed pistons which is helpful in minimizing wear and vibrations (less micro-phonic noise). Its design is compact and facilitate custom-built cold-tip temperature, real-time monitoring of temperature of various parts (cold-tip, cold-head and compressor) and overall power consumption as well as online control on stop/start cooler.
 
-[pPCGe_Electro_Ccooled_Detector.png](https://drive.google.com/file/d/1KkJ3-AscQyTlAZ2F0GK3mdLuh8es5yMD)
+[pPCGe_Electro_Ccooled_Detector](https://drive.google.com/file/d/1KkJ3-AscQyTlAZ2F0GK3mdLuh8es5yMD)
 

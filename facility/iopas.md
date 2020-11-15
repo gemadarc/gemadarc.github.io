@@ -12,14 +12,12 @@ It is an experimental setup of a coaxial p-type high purity Ge detector with an 
 
 This is an experimental setup of Ultra-low-energy n-type Ge detectors which is a matured technique for sub-keV soft x-rays measurements. The Ultra-low-energy Ge detector array consists of four elements, each having an active mass of 5g. Every crystal has a semiplanar configuration with a p+ electrode on the outer surface, and a n+ contact of a small diameter is used as the central electrode, from which signals are derived. The surface electrode is of μm thickness fabricated by boron-ion implantation. The crystal array is encapsulated within the cryostat made of oxygen-free high- conductivity copper and the crystal center-to-center spacing is 14 mm. The cryostat end cap is made of carbon composite with the thickness of 0.6 mm allowing calibration with low-energy x-rays outside. This detector technique makes the unexplored sub-keV energy window accessible for new neutrino and dark matter experiments.
 
-![4x5g](https://drive.google.com/uc?id=0BwM7XYhFgK7oelN2ZWUwTWwyY3M)
-
 ![ULEGe_Detector](https://drive.google.com/uc?id=1-NjYAhNIqbhRHSLWB0ECzoF44nsn9Qzg)
 
 This is an experimental setup of n-type point contact high purity Ge detector (nPCGe). The anomalous surface events in p-type point contact Ge detector (pPCGe) arise from a few millimeters thick transition layer with a weak electric field. The poor charge collection in this region reduces the ionization yield of the events and enhances the background at sub-keV energy region. The p+ outer surface conductive contact of nPCGe is fabricated with the boron implantation technique. The thickness of p+ contact on the outer surface of the crystal is the order of μm. The anomalous surface effect in nPCGe has been studied by the rise time of events and it was observed that there is absence of anomalous surface events in nPCGe.
 
 ![500g](https://drive.google.com/uc?id=0BwM7XYhFgK7oNVpUaTJ0dmY1Mnc)
-
+![nPCGe_Detector](https://drive.google.com/uc?id=1ADDO2lxw9tCoNncdr7c_wGQQs48d4aBl)
 It is an experimental test setup of p-type point contact high purity Ge detector. The outer surface electrode is at positive high voltage towards which the electrons are drifted. The small central contact electrode is at zero-potential from which electrical signals are extracted. The outer surface electrode is fabricated by lithium diffusion. It has a finite thickness of typically ~1 mm. Electron–hole pairs produced by radiations at the “surface layer” are subjected to a weaker drift field than those at the crystal “bulk region”. A portion of the pairs will recombine while the residual will induce signals which are weaker and slower than those originated in bulk. That is, the surface-events have only partial charge collection and slower rise-time. The surface-layer in p-type Ge detectors were mostly classified as ‘‘dead’’.
 
 ![900g](https://drive.google.com/uc?id=0BwM7XYhFgK7oOThSUWwwXzRmLUk)

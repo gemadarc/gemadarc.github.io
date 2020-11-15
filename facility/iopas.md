@@ -16,12 +16,11 @@ This is an experimental setup of Ultra-low-energy n-type Ge detectors which is a
 
 This is an experimental setup of n-type point contact high purity Ge detector (nPCGe). The anomalous surface events in p-type point contact Ge detector (pPCGe) arise from a few millimeters thick transition layer with a weak electric field. The poor charge collection in this region reduces the ionization yield of the events and enhances the background at sub-keV energy region. The p+ outer surface conductive contact of nPCGe is fabricated with the boron implantation technique. The thickness of p+ contact on the outer surface of the crystal is the order of μm. The anomalous surface effect in nPCGe has been studied by the rise time of events and it was observed that there is absence of anomalous surface events in nPCGe.
 
-![500g](https://drive.google.com/uc?id=0BwM7XYhFgK7oNVpUaTJ0dmY1Mnc)
 ![nPCGe_Detector](https://drive.google.com/uc?id=1ADDO2lxw9tCoNncdr7c_wGQQs48d4aBl)
 It is an experimental test setup of p-type point contact high purity Ge detector. The outer surface electrode is at positive high voltage towards which the electrons are drifted. The small central contact electrode is at zero-potential from which electrical signals are extracted. The outer surface electrode is fabricated by lithium diffusion. It has a finite thickness of typically ~1 mm. Electron–hole pairs produced by radiations at the “surface layer” are subjected to a weaker drift field than those at the crystal “bulk region”. A portion of the pairs will recombine while the residual will induce signals which are weaker and slower than those originated in bulk. That is, the surface-events have only partial charge collection and slower rise-time. The surface-layer in p-type Ge detectors were mostly classified as ‘‘dead’’.
 
 ![900g](https://drive.google.com/uc?id=0BwM7XYhFgK7oOThSUWwwXzRmLUk)
-
+![pPCGe_Detector](https://drive.google.com/uc?id=1lexJV4ywuZtA1R1e_poJ_-dstEIkxUZC)
 TEXONO collaboration is currently working on the Electro-Cooled point contact high purity Ge detector. A picture of Electro-Cooled p-type point contact Ge detector is shown in the figure. It comprise of a robust Linear Pulse Tube series (LPT 9310) cooler with dual opposed pistons which is helpful in minimizing wear and vibrations (less micro-phonic noise). Its design is compact and facilitate custom-built cold-tip temperature, real-time monitoring of temperature of various parts (cold-tip, cold-head and compressor) and overall power consumption as well as online control on stop/start cooler.
 
 ![pPCGe_Electro_Ccooled_Detector](https://drive.google.com/uc?id=1KkJ3-AscQyTlAZ2F0GK3mdLuh8es5yMD)

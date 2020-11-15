@@ -14,6 +14,8 @@ This is an experimental setup of Ultra-low-energy n-type Ge detectors which is a
 
 ![4x5g](https://drive.google.com/uc?id=0BwM7XYhFgK7oelN2ZWUwTWwyY3M)
 
+![ULEGe_Detector](https://drive.google.com/uc?id=1-NjYAhNIqbhRHSLWB0ECzoF44nsn9Qzg)
+
 This is an experimental setup of n-type point contact high purity Ge detector (nPCGe). The anomalous surface events in p-type point contact Ge detector (pPCGe) arise from a few millimeters thick transition layer with a weak electric field. The poor charge collection in this region reduces the ionization yield of the events and enhances the background at sub-keV energy region. The p+ outer surface conductive contact of nPCGe is fabricated with the boron implantation technique. The thickness of p+ contact on the outer surface of the crystal is the order of μm. The anomalous surface effect in nPCGe has been studied by the rise time of events and it was observed that there is absence of anomalous surface events in nPCGe.
 
 ![500g](https://drive.google.com/uc?id=0BwM7XYhFgK7oNVpUaTJ0dmY1Mnc)

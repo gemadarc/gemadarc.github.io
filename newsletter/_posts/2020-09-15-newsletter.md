@@ -1,1 +1,1 @@
-Find our news in September, 2020 [here](https://drive.google.com/file/d/1LZFfn_tJj8l--t36aoSnfEtgB5-21vm3/view?usp=sharing)
+Find our news in September, 2020 [here](https://drive.google.com/file/d/1H2mqyfrMoqg_Y0IgG6mWHC6NdQvtg-pc/view?usp=sharing)

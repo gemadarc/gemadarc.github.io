@@ -1,4 +1,3 @@
-SNOLAB user facility
 
 SNOLAB is Canada’s deep underground research laboratory, located in Vale’s Creighton mine near Sudbury, Ontario Canada. It provides an ideal low background environment for the study of extremely rare physical interactions. SNOLAB’s science program focuses on astroparticle physics, specifically neutrino and dark matter studies, though its unique location is also well-suited to biology and geology experiments. SNOLAB facilitates world-class research, trains highly qualified personnel, and inspires the next generation of scientists. SNOLAB strives to make science engaging and accessible to all audiences, and was thrilled to partner on this project that provides a new perspective on the search for dark matter. 
  

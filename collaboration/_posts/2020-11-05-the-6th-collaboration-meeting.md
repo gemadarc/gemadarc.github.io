@@ -20,4 +20,5 @@ If you cannot access the shared folder with your favorite Google account, please
 
 # Recording
 
-<https://usd.zoom.us/rec/share/efSc9TK5BwfNxzG_I7caWMgcnvL0UI1ctXqvH99he-4OMNUfviJV2VyLX-ynAgAS.1-DikO0zzLgWiuJI>
+- [Nov. 5](https://usd.zoom.us/rec/share/efSc9TK5BwfNxzG_I7caWMgcnvL0UI1ctXqvH99he-4OMNUfviJV2VyLX-ynAgAS.1-DikO0zzLgWiuJI)
+- [Nov. 19](https://usd.zoom.us/rec/share/AjOLPupkAeb6s744fvCSJRlr6a2PAScEKP3ux59TqfYNe3GwVzVjqnNjO4im5rAK.LVWmzfeGc4_i6e44)

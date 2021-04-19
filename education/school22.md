@@ -1,13 +1,6 @@
-# COVID-19
+Queen's University, Kingston, Ontario, Canada
 
-Given uncertainties caused by COVID-19 pandemic, two plans have been developed for the summer school 2021:
-
-- *Plan A*: an in-person summer school at Queen's University, Kingston, Ontario, Canada
-- *Plan B*: a series of online courses that can be taken asynchronously over 8 to 10 summer weeks
-
-The decision will be made spring 2021.
-
-# Tentative schedule for the in-person summer school
+# Tentative schedule
 
 - Travel on May 23 and 24 (Canadian's holiday)
 - May 25 - 27:  Summer school in Kingston (travel to SNOLAB in the afternoon of 27th)
@@ -21,7 +14,7 @@ The decision will be made spring 2021.
 - June 6th: Adjourn and travel
 - June 7th - July 30: Summer undergraduate research program for 8 weeks
 
-# Tentative topics for the in-person summer school
+# Tentative topics
 
 - [Indico page](https://indico.cern.ch/event/962863/) (under construction)
 - [plan (internal)](https://drive.google.com/drive/u/0/folders/0BwM7XYhFgK7oektYR29GeURSX28)

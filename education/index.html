@@ -9,7 +9,6 @@
   <div class="col-md-3">  
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a data-toggle="pill" href="#summer-school">Summer school</a></li>
-      <li><a data-toggle="pill" href="#teaching">Teaching</a></li>
       <li><a data-toggle="pill" href="#mentoring">Mentoring</a></li>
       <li><a data-toggle="pill" href="#oversea">Oversea</a></li>
       <li><a data-toggle="pill" href="#scholarship">Scholarships</a></li>
@@ -21,10 +20,6 @@
     <div class="tab-content">
       <div id="summer-school" class="tab-pane fade in active">
 	{% capture my_include %}{% include_relative school.md %}{% endcapture %}
-	{{ my_include | markdownify }}
-      </div>
-      <div id="teaching" class="tab-pane fade">
-	{% capture my_include %}{% include_relative /teaching.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
       <div id="mentoring" class="tab-pane fade">

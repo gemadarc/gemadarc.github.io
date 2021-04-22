@@ -12,7 +12,7 @@
 ### June 17
 - Seminal or review paper for dark matter (Luke point contact paper?) 
 - Points to Ponder: TBD
-- Lead Facilitator: Reyco Hennings
+- Lead Facilitator: Reyco Henning
 
 ### July 1
 - General detector fabrication paper

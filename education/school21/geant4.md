@@ -7,6 +7,7 @@ An eight-week online seminar on Geant4 that not only covers the basic ideas and 
 
 ## Course Information
 - Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu)
+- Start Date: May 10th
 - Syllabus:
 - [YouTube channel](https://www.youtube.com/channel/UCQd4wp1ehUPXVHLjqYAMR3g), [bilibili频道](https://space.bilibili.com/610308328/channel/detail?cid=133301)
 - Entrance survey:

@@ -4,6 +4,8 @@
 
 - Overview: [pdf](https://drive.google.com/uc?id=1GweH-ZcilGQiPIrHUoUx-BsFVf6vNArS)
 
+- Meeting time: 9 AM EDT / 8 AM CDT / 3 PM CEST / 9 PM Beijing Time
+
 ### June 3
 - Seminal or review neutrino paper
 - Points to Ponder: TBD

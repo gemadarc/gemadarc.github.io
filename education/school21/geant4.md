@@ -17,7 +17,18 @@ An eight-week online seminar on Geant4 that covers basic ideas and common usages
 
 #### How to choose an OS for Geant4 simulation
 
+References:
+- <https://github.com/jintonic/gears/tree/master/install#install-geant4>
+- <https://www.youtube.com/watch?v=fu3NLgb0fwI>
+- <https://www.youtube.com/watch?v=LkbzMiOixug>
+- <https://www.youtube.com/watch?v=GykiM1lPON4>
+- <https://www.youtube.com/watch?v=uSp32UxGxBE>
+
 #### How to run Geant4 examples
+
+#### How to construct and visualize detector geometry
+
+#### How to submit simulation jobs to a Linux High Performance Cluster
 
 #### How to perform optical simulation
 

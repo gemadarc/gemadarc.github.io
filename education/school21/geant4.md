@@ -28,8 +28,18 @@ References:
 
 #### How to construct and visualize detector geometry
 
+References:
+- <http://physino.xyz/gears/examples/detector/>
+- <https://www.youtube.com/watch?v=TSP0RLjhLDw>
+- <https://www.youtube.com/watch?v=ySOIkUnT3rw>
+- <http://physino.xyz/gears/examples/detector/visualization/>
+
 #### How to submit simulation jobs to a Linux High Performance Cluster
 
 #### How to perform optical simulation
+
+References:
+- <https://www.youtube.com/watch?v=uL2THhm2EwE>
+- <http://physino.xyz/gears/examples/physics/#optical-processes>
 
 #### How to simulate radioactive decay chain

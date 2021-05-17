@@ -9,7 +9,7 @@ An eight-week online seminar on Geant4 that covers basic ideas and common usages
 - Start Date: May 14th, Friday, 10 to 11 am CDT
 - ZOOM Meeting ID: 993 8475 9619
 - YouTube channel: [Physino](https://www.youtube.com/channel/UCQd4wp1ehUPXVHLjqYAMR3g)
-- Entrance survey: [Google Form](https://forms.gle/tzkDMZCgaxY3TB5i9)
+- Entrance survey: [Google Form](https://forms.gle/tzkDMZCgaxY3TB5i9) (You can still take it)
 - Example code: [GEARS](http://physino.xyz/gears)
 - Previous course: [Hands-on Geant4 Monte Carlo simulation](http://pire.gemadarc.org/education/school21/#geant4)
 
@@ -24,7 +24,11 @@ References:
 - <https://www.youtube.com/watch?v=GykiM1lPON4>
 - <https://www.youtube.com/watch?v=uSp32UxGxBE>
 
+#### How to find and use existing Geant4 installations
+
 #### How to run Geant4 examples
+
+#### How to write your very own Geant4 main function
 
 #### How to construct and visualize detector geometry
 

@@ -10,8 +10,8 @@
 - Coherent Elastic Neutrino-Nucleus Scattering
 - Points to Ponder: [pdf](https://drive.google.com/file/d/1Wqwmt65gi_M02YMGJqe5dvFnXgcysmYg/view?usp=sharing)
 - Papers: 
-  - (1) Observation of coherent elastic neutrino-nucleus scattering, COHERENT Collaboration, Science, 357, 1123 (2017). https://science.sciencemag.org/content/357/6356/1123 NOTE:  Optional supplemental document:  https://arxiv.org/pdf/1708.01294.pdf
-  - (2) Coherent effects of a weak neutral current, Daniel Z. Freedman, Physical Review D, 9, 1389 (1974).
+  - Observation of coherent elastic neutrino-nucleus scattering, COHERENT Collaboration, Science, 357, 1123 (2017). https://science.sciencemag.org/content/357/6356/1123 NOTE:  Optional supplemental document:  https://arxiv.org/pdf/1708.01294.pdf
+  - Coherent effects of a weak neutral current, Daniel Z. Freedman, Physical Review D, 9, 1389 (1974).
 - Facilitators: Phil Barbeau, Long Li and Connor Awe
 - Lead organizer: Mary Kidd
 

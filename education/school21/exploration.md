@@ -16,9 +16,13 @@
 - Lead organizer: Mary Kidd
 
 ### June 17
-- Seminal or review paper for dark matter (Luke point contact paper?) 
+- Searching for Dark Matter with a Superconducting Qubit
+- Papers:
+  - Searching for Dark Matter with a Superconducting Qubit,  Phys.Rev.Lett. 126 (2021). https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141302
+  - Physics Magazine Synopsis: [www](https://physics.aps.org/articles/v14/s45)
+  - Background: TBD   
 - Points to Ponder: TBD
-- Lead Facilitator: Reyco Henning
+- Lead Facilitator: Akash Dixit, Reyco Henning
 
 ### July 1
 - General detector fabrication paper

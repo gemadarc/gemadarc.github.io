@@ -10,5 +10,5 @@
 
 ### Planned
 
-- [School 2022, Kingston, Canada](school22)
-- [School 2023, Taipei, Taiwan](school23)
+- [School 2022, Taipei, Taiwan](school22)
+- [School 2023, Kingston, Canada](school23)

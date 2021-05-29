@@ -17,12 +17,17 @@ An eight-week online seminar on Geant4 that covers basic ideas and common usages
 
 #### How to choose an OS for Geant4 simulation
 
-References:
+[![YouTube](https://img.shields.io/badge/YouTube-video-ff69b4?style=flat)](https://www.youtube.com/watch?v=_g3nvEbhOx8)
+
+Text Reference:
 - <https://github.com/jintonic/gears/tree/master/install#install-geant4>
-- <https://www.youtube.com/watch?v=fu3NLgb0fwI>
-- <https://www.youtube.com/watch?v=LkbzMiOixug>
-- <https://www.youtube.com/watch?v=GykiM1lPON4>
-- <https://www.youtube.com/watch?v=uSp32UxGxBE>
+
+Video Reference:
+- [pre-compiled libraries](https://www.youtube.com/watch?v=fu3NLgb0fwI)
+- [Install pre-compiled Geant4 in Windows](https://www.youtube.com/watch?v=LkbzMiOixug)
+- [Install pre-compiled Geant4 in Mac](https://www.youtube.com/watch?v=uSp32UxGxBE)
+- [Compile and install Geant4 in Windows](https://www.youtube.com/watch?v=GykiM1lPON4)
+- [Compile and install Geant4 in Linux](https://youtu.be/HLUtzZO7cmk)
 
 #### How to find and use existing Geant4 installations
 

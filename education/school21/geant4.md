@@ -23,13 +23,14 @@ Text Reference:
 - <https://github.com/jintonic/gears/tree/master/install#install-geant4>
 
 Video Reference:
-- [pre-compiled libraries](https://www.youtube.com/watch?v=fu3NLgb0fwI)
+- [Pre-compiled libraries](https://www.youtube.com/watch?v=fu3NLgb0fwI)
 - [Install pre-compiled Geant4 in Windows](https://www.youtube.com/watch?v=LkbzMiOixug)
 - [Install pre-compiled Geant4 in Mac](https://www.youtube.com/watch?v=uSp32UxGxBE)
 - [Compile and install Geant4 in Windows](https://www.youtube.com/watch?v=GykiM1lPON4)
 - [Compile and install Geant4 in Linux](https://youtu.be/HLUtzZO7cmk)
 
 #### How to find and use existing Geant4 installations
+[![YouTube](https://img.shields.io/badge/YouTube-video-ff69b4?style=flat)](https://youtu.be/8bcQ-yQepUMn)
 
 #### How to run Geant4 examples
 

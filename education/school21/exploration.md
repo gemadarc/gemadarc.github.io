@@ -17,12 +17,17 @@
 
 ### June 17
 - Searching for Dark Matter with a Superconducting Qubit
-- Papers:
+- Background Material:
+  - Watch the following 6 min video: https://www.youtube.com/watch?v=cb_f9KpYipk
+  - An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics, Nicholas Materise, https://arxiv.org/abs/1708.07000v1
+- Core Papers:
+  - Physics Article: https://physics.aps.org/articles/v14/s45
   - Searching for Dark Matter with a Superconducting Qubit,  Phys.Rev.Lett. 126 (2021). https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141302
   - Physics Magazine Synopsis: [www](https://physics.aps.org/articles/v14/s45)
   - Background: TBD   
-- Points to Ponder: TBD
-- Lead Facilitator: Akash Dixit, Reyco Henning
+- Points to Ponder: https://drive.google.com/file/d/1Wqwmt65gi_M02YMGJqe5dvFnXgcysmYg/view?usp=sharing
+- Lead Facilitators: Akash Dixit and Ankur Agrawal
+- Lead organizer: Reyco Henning
 
 ### July 1
 - General detector fabrication paper

@@ -7,7 +7,7 @@
 - Meeting time: 9 AM EDT / 8 AM CDT / 3 PM CEST / 9 PM Beijing Time
 
 ### June 3
-- Coherent Elastic Neutrino-Nucleus Scattering
+- <b>Coherent Elastic Neutrino-Nucleus Scattering</b>
 - Points to Ponder: [pdf](https://drive.google.com/file/d/1Wqwmt65gi_M02YMGJqe5dvFnXgcysmYg/view?usp=sharing)
 - Papers: 
   - Observation of coherent elastic neutrino-nucleus scattering, COHERENT Collaboration, Science, 357, 1123 (2017). https://science.sciencemag.org/content/357/6356/1123 NOTE:  Optional supplemental document:  https://arxiv.org/pdf/1708.01294.pdf
@@ -16,7 +16,7 @@
 - Lead organizer: Mary Kidd
 
 ### June 17
-- Searching for Dark Matter with a Superconducting Qubit
+- <b>Searching for Dark Matter with a Superconducting Qubit</b>
 - Background Material:
   - Watch the following 6 min video: https://www.youtube.com/watch?v=cb_f9KpYipk
   - An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics, Nicholas Materise, https://arxiv.org/abs/1708.07000v1

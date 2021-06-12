@@ -14,6 +14,7 @@
   - Coherent effects of a weak neutral current, Daniel Z. Freedman, Physical Review D, 9, 1389 (1974).
 - Facilitators: Phil Barbeau, Long Li and Connor Awe
 - Lead organizer: Mary Kidd
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1UG0QK7yIFDsSL6eOgfjpP6mhPHhgsJLy/view?usp=sharing)
 
 ### June 17
 - <b>Searching for Dark Matter with a Superconducting Qubit</b>

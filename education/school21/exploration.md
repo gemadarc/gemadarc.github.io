@@ -29,6 +29,7 @@
 - Points to Ponder: https://drive.google.com/file/d/1Wqwmt65gi_M02YMGJqe5dvFnXgcysmYg/view?usp=sharing
 - Lead Facilitators: Akash Dixit and Ankur Agrawal
 - Lead organizer: Reyco Henning
+- Link to recorded session: [mp4](https://drive.google.com/file/d/1aluiSSWok4qgXkfvci_d6m0aPy_280Bq/view?usp=sharing)
 
 ### July 1
 - General detector fabrication paper

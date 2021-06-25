@@ -36,6 +36,7 @@
 - Core paper: https://arxiv.org/abs/1809.03046
 - Points to Ponder: https://docs.google.com/document/d/1f2USCIppYoUCHSjpKMCw0v2S7RzIBHwqbZKVo1umbMg
 - Lead Facilitators: Rusty Harris, Kyler Kooi, and Rajendra Panth
+- Lead organizer: Joel Sander
 
 ### July 15
 - Paper: TBD

@@ -32,7 +32,7 @@
 - Link to recorded session: [mp4](https://drive.google.com/file/d/1aluiSSWok4qgXkfvci_d6m0aPy_280Bq/view?usp=sharing)
 
 ### July 1
-- Optimization of Amorphous Germanium Electrical Contacts and Surface Coatings on High Purity Germanium Radiation Detectors
+- <b>Optimization of Amorphous Germanium Electrical Contacts and Surface Coatings on High Purity Germanium Radiation Detectors</b>
 - Core paper: https://arxiv.org/abs/1809.03046
 - Points to Ponder: https://docs.google.com/document/d/1f2USCIppYoUCHSjpKMCw0v2S7RzIBHwqbZKVo1umbMg
 - Lead Facilitators: Rusty Harris, Kyler Kooi, and Rajendra Panth

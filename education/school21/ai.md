@@ -4,7 +4,7 @@
 
 - Instructor:
   - [Dr. Aobo Li](https://www.linkedin.com/in/aobo-li-9a0b15a7/)
-  - Start date: late June/early July
+  - Start date: July
 - Entry Survey
   - If you are interested in attending this course, please fill out the [Entry Survey](https://docs.google.com/forms/d/e/1FAIpQLSd5rs2Uj9mmOpv8B5PbDvaN9TUIHLIpwtTaEIEPTqBdjf0mHw/viewform?usp=sf_link) as soon as possible.
   - This will help me to request GPU resources of the course.
@@ -16,7 +16,7 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 
 ## Modules
 ### Module 1: The Basics of Machine Learning
-### Module 2: Computer vision and Convolutional Neural Network
+### Module 2: Convolutional Neural Network
 ### Module 3: Time Series I
 ### Module 4: Time Series II
 ### Module 5: Advanced Machine Learning

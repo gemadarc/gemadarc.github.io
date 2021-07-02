@@ -37,6 +37,7 @@
 - Points to Ponder: https://docs.google.com/document/d/1f2USCIppYoUCHSjpKMCw0v2S7RzIBHwqbZKVo1umbMg
 - Lead Facilitators: Rusty Harris, Kyler Kooi, and Rajendra Panth
 - Lead organizer: Joel Sander
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1CLKYlLlMHCvXihkyp6Llp45yIdLQ6eqC/view?usp=sharing)
 
 ### July 15
 - Paper: TBD

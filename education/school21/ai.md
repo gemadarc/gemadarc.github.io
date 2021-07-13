@@ -15,10 +15,10 @@
 - GPU Access:
   - NERSC generously provided us 30 training accounts with GPU access for this course, which should be enough to cover everyone in this course. Please follow the procedure:
     - **If you have a NERSC account and have GPU access**: There's nothing you need to do
-    - **If you have a NERSC account, but No GPU access**: Please go to this website(https://nersc.servicenowservices.com/sp/?id=sc_cat_item&sys_id=a715ed9edbe0ff00200f7d321f9619f5&sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f) to request for GPU access as soon as possible
+    - **If you have a NERSC account, but No GPU access**: Please go to this [website](https://nersc.servicenowservices.com/sp/?id=sc_cat_item&sys_id=a715ed9edbe0ff00200f7d321f9619f5&sysparm_category=e15706fc0a0a0aa7007fc21e1ab70c2f) to request for GPU access as soon as possible
       - For the question "Is this request for NESAP-affiliated work?" Select No
       - For the question about GPU work load, choose 1 GPU for 16 hours.
-    - **If you do not have a NERSC account**: please log into this website (https://iris.nersc.gov/train) to register for the training account. The training code will be sent separately. 
+    - **If you do not have a NERSC account**: please log into this [website](https://iris.nersc.gov/train) to register for the training account. The training code will be sent separately. 
       - The training account should already have GPU access.
       - **NERSC only allow you to register for training account after the event actually start (July 16th, 2021), so please register after that time.**
 

@@ -35,9 +35,11 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 
 ## Modules
 ### Module 1: The Basics of Machine Learning
-- Lecture Slides: https://drive.google.com/file/d/1kC3RC2XFs7RNTLjroiCosH0d3U-jlyma/view?usp=sharing
-- Lecture Video(YouTube): https://www.youtube.com/watch?v=Gdxik5DRA2k
-- Lecture Video(Bilibili):
+- [Lecture Slides](https://drive.google.com/file/d/1kC3RC2XFs7RNTLjroiCosH0d3U-jlyma/view?usp=sharing)
+- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=Gdxik5DRA2k)
+- [Lecture Video(Bilibili)]
+
+
 ### Module 2: Convolutional Neural Network
 ### Module 3: Time Series I
 ### Module 4: Time Series II

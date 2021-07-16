@@ -29,11 +29,16 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 - [PyTorch Official Websites](https://pytorch.org)
 - [NERSC JupyterHub](https://jupyter.nersc.gov/)
 - Course Homewrok GitHub Repository: https://github.com/aobol/PMLHomework
-  - The first two homeworks have been uploaded. The other two homeworks will be uploaded as the course progress
-  - After getting access to NERSC JupyterHub, clone this GitHub Repo to your local directory and start working
+  - The first two homeworks have been uploaded. The other two homeworks will be uploaded as the course progress.
+  - After getting access to NERSC JupyterHub, clone this GitHub Repo to your local directory and start working.
+
 
 ## Modules
 ### Module 1: The Basics of Machine Learning
+- Lecture Slides: https://drive.google.com/file/d/1kC3RC2XFs7RNTLjroiCosH0d3U-jlyma/view?usp=sharing
+- Lecture Video(YouTube): https://www.youtube.com/watch?v=Gdxik5DRA2k
+- Lecture Video(Bilibili):
+- 
 ### Module 2: Convolutional Neural Network
 ### Module 3: Time Series I
 ### Module 4: Time Series II

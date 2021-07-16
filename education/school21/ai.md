@@ -31,6 +31,7 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 - Course Homewrok GitHub Repository: https://github.com/aobol/PMLHomework
   - The first two homeworks have been uploaded. The other two homeworks will be uploaded as the course progress
   - After getting access to NERSC JupyterHub, clone this GitHub Repo to your local directory and start working
+
 ## Modules
 ### Module 1: The Basics of Machine Learning
 ### Module 2: Convolutional Neural Network

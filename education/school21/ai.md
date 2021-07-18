@@ -38,6 +38,7 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 - [Lecture Slides](https://drive.google.com/file/d/1kC3RC2XFs7RNTLjroiCosH0d3U-jlyma/view?usp=sharing)
 - [Lecture Video(YouTube)](https://www.youtube.com/watch?v=Gdxik5DRA2k)
 - [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV1sb4y1k7cg?share_source=copy_web)
+- [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture1.ipynb)
 
 
 ### Module 2: Convolutional Neural Network

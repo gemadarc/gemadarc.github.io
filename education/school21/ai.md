@@ -30,7 +30,12 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 - [NERSC JupyterHub](https://jupyter.nersc.gov/)
 - Course Homewrok GitHub Repository: https://github.com/aobol/PMLHomework
   - The first two homeworks have been uploaded. The other two homeworks will be uploaded as the course progress.
-  - After getting access to NERSC JupyterHub, clone this GitHub Repo to your local directory and start working.
+  - After getting access to NERSC JupyterHub, clone this GitHub Repo to your local directory.
+  - Double click to open the .ipynb file
+  - JupyterHub will ask you to choose a kernel environment for this notebook file. If not, on the upper right corner, you will find a kernel environment button: ![Screen Shot 2021-07-19 at 10 50 18 AM](https://user-images.githubusercontent.com/25975621/126179795-09baa790-3c7a-40e2-8457-79295a1ea4ad.png), single click it to choose kernel
+
+  - Select **pytorch-1.7.1-cpu** or  **pytorch-1.7.1-gpu**, whichever is available
+
 
 
 ## Modules

@@ -40,9 +40,11 @@
 - Link to recorded session:  [mp4](https://drive.google.com/file/d/1CLKYlLlMHCvXihkyp6Llp45yIdLQ6eqC/view?usp=sharing)
 
 ### July 15
-- Paper: TBD
-- Points to Ponder: TBD
-- Lead Facilitators: TBD
+- Paper: <b>Neutrino observatory based on archaeological lead</b>, Physical Review D, 102, 063001 (2020).
+- Points to Ponder: https://drive.google.com/file/d/1Nyj0sRLGKlXjXpRvqk-P0JU5bZTLeqsN/view?usp=sharing
+- Lead Facilitators: Kate Scholberg, Diane Markoff, Baran Bodur and Adryanna Major
+- Lead organizer:  Mary Kidd
+- Link to recorded session:  [mp4]()
  
 ### July 29
 - Paper: TBD

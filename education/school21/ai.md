@@ -48,6 +48,14 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 
 
 ### Module 2: Convolutional Neural Network
+- [Lecture Slides](https://drive.google.com/file/d/1CQW1USBrRH24e3Ji9n8KjESXn5LgqStk/view?usp=sharing)
+- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=OxvxcsDWC9U)
+- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV1zL411H7NJ)
+- [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture2.ipynb)
+- Extended Readings:
+  - [Faster-RCNN Paper](https://arxiv.org/abs/1506.01497)
+  - [Spherical CNN](https://arxiv.org/abs/1801.10130)
+  - [Involution](https://arxiv.org/abs/2103.06255)
 ### Module 3: Time Series I
 ### Module 4: Time Series II
 ### Module 5: Advanced Machine Learning

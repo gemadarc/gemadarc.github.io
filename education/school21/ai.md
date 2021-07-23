@@ -56,7 +56,12 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
   - [Faster-RCNN Paper](https://arxiv.org/abs/1506.01497)
   - [Spherical CNN](https://arxiv.org/abs/1801.10130)
   - [Involution](https://arxiv.org/abs/2103.06255)
+
+
 ### Module 3: Time Series I
+-
 ### Module 4: Time Series II
+-
 ### Module 5: Advanced Machine Learning
+-
 

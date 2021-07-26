@@ -4,7 +4,8 @@
 
 - Instructor:
   - [Dr. Aobo Li](https://www.linkedin.com/in/aobo-li-9a0b15a7/)
-  - Start date: July 16th 10:00 am EST, last 1 hour
+  - Lecture Time: Starting July 16th, Friday 10:00 am EST - 11:00am EST, recurring until 5 modules are covered
+  - Office Hour: Friday 11:00 am EST - 12:00am EST, immediately after each lecture.
   - If this time does not work for you, the course video will be uploaded to Youtube/Bilibili before the end of the same day.
 - Entry Survey
   - **If you are interested in attending this course, please fill out the [Entry Survey](https://docs.google.com/forms/d/e/1FAIpQLSd5rs2Uj9mmOpv8B5PbDvaN9TUIHLIpwtTaEIEPTqBdjf0mHw/viewform?usp=sf_link) as soon as possible.**

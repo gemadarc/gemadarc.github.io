@@ -46,14 +46,14 @@
 - Lead organizer:  Mary Kidd
 - Link to recorded session:  [mp4](https://drive.google.com/file/d/1ZkUCD6DwW_xuDYrldV4p1dEgwK-h0Mqz/view?usp=sharing)
  
-### July 29
-- Paper: TBD
-- Points to Ponder: TBD
-- Lead Facilitators: TBD
+### August 5
+- Paper and other materials:
+    - [YouTube](https://www.youtube.com/watch?v=FsN34Sm6Ldo)
+    - [pdf](https://arxiv.org/pdf/1910.07961.pdf) (pages 1-10)
+    - [pdf](https://arxiv.org/pdf/1805.12130.pdf) (Supplemental Information sections optional, but you should skim and try to understand what content is being presented in the plots)
+- Points to Ponder: [pdf](https://drive.google.com/file/d/1mntgdSrnITNCWh_LD7KloP0yKAoKiI9x/view?usp=sharing)
+- Lead Facilitators: Amy Nicholson
+- Lead Organizer:  Reyco Henning
+- Link to recorded session:  [mp4]
 
-### August 12
-- Paper: TBD
-- Points to Ponder: TBD
-- Lead Facilitators: TBD
-
-Last updated April 8, 2021
+Last updated July 30, 2021

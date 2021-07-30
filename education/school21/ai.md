@@ -60,7 +60,13 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 
 
 ### Module 3: Time Series I
--
+- [Lecture Slides](https://drive.google.com/file/d/1-CPfeV-rA460ZS1u_cbuDyJqhn0oz5Bl/view?usp=sharing)
+- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=5C1yxV0bbSI)
+- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV18h411q7zt/)
+- [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture2.ipynb)
+- Extended Readings:
+  - [Intro to LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 ### Module 4: Time Series II
 -
 ### Module 5: Advanced Machine Learning

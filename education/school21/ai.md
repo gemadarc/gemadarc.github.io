@@ -43,15 +43,15 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 ## Modules
 ### Module 1: The Basics of Machine Learning
 - [Lecture Slides](https://drive.google.com/file/d/1kC3RC2XFs7RNTLjroiCosH0d3U-jlyma/view?usp=sharing)
-- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=Gdxik5DRA2k)
-- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV1sb4y1k7cg?share_source=copy_web)
+- [Lecture Video in English(YouTube)](https://www.youtube.com/watch?v=Gdxik5DRA2k)
+- [Lecture Video in Chinese(Bilibili)](https://www.bilibili.com/video/BV1sb4y1k7cg)
 - [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture1.ipynb)
 
 
 ### Module 2: Convolutional Neural Network
 - [Lecture Slides](https://drive.google.com/file/d/1CQW1USBrRH24e3Ji9n8KjESXn5LgqStk/view?usp=sharing)
-- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=OxvxcsDWC9U)
-- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV1zL411H7NJ)
+- [Lecture Video in English(YouTube)](https://www.youtube.com/watch?v=OxvxcsDWC9U)
+- [Lecture Video in English(Bilibili)](https://www.bilibili.com/video/BV1zL411H7NJ)
 - [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture2.ipynb)
 - Extended Readings:
   - [Faster-RCNN Paper](https://arxiv.org/abs/1506.01497)
@@ -61,16 +61,16 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 
 ### Module 3: Time Series I
 - [Lecture Slides](https://drive.google.com/file/d/1-CPfeV-rA460ZS1u_cbuDyJqhn0oz5Bl/view?usp=sharing)
-- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=5C1yxV0bbSI)
-- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV18h411q7zt/)
+- [Lecture Video in English(YouTube)](https://www.youtube.com/watch?v=5C1yxV0bbSI)
+- [Lecture Video in English(Bilibili)](https://www.bilibili.com/video/BV18h411q7zt/)
 - [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture3.ipynb)
 - Extended Readings:
   - [Intro to LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ### Module 4: Time Series II
 - [Lecture Slides](https://drive.google.com/file/d/1xnj7PVTZUmTBkBOWO-cF_kNvscl2fXWP/view?usp=sharing)
-- [Lecture Video(YouTube)](https://www.youtube.com/watch?v=yFJ-8g2yZ1g)
-- [Lecture Video(Bilibili)](https://www.bilibili.com/video/BV13X4y1F7RG/)
+- [Lecture Video in English(YouTube)](https://www.youtube.com/watch?v=yFJ-8g2yZ1g)
+- [Lecture Video in English(Bilibili)](https://www.bilibili.com/video/BV13X4y1F7RG/)
 - [Lecture Homework](https://github.com/aobol/PMLHomework/blob/main/Lecture4.ipynb)
 - Extended Readings:
   - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) 

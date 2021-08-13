@@ -63,6 +63,6 @@ Nowadays, the Big Data revolution has enabled machine learning to play a key rol
 - [Lecture Slides](https://drive.google.com/file/d/15tUt2Vb-_LIqP0NWjR6Rj7LWMTuXS2xJ/view?usp=sharing)
 - [Lecture Video in English(YouTube)](https://www.youtube.com/watch?v=igqG1ScyVAo)
 - [Lecture Video in English(Bilibili)](https://www.bilibili.com/video/BV1cL4y1e7f5/)
-- - Extended Readings:
+- Extended Readings:
   - [Deep InfoMax](https://arxiv.org/pdf/1808.06670.pdf) 
 

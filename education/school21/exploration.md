@@ -54,6 +54,6 @@
 - Points to Ponder: [pdf](https://drive.google.com/file/d/1mntgdSrnITNCWh_LD7KloP0yKAoKiI9x/view?usp=sharing)
 - Lead Facilitators: Amy Nicholson
 - Lead Organizer:  Reyco Henning
-- Link to recorded session:  [mp4]
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1XXOzCT2R_cmz5ARWwI6Mw5JXtvr6fhOD/view?usp=sharing)
 
 Last updated July 30, 2021

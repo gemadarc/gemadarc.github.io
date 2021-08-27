@@ -56,4 +56,4 @@
 - Lead Organizer:  Reyco Henning
 - Link to recorded session:  [mp4](https://drive.google.com/file/d/1XXOzCT2R_cmz5ARWwI6Mw5JXtvr6fhOD/view?usp=sharing)
 
-Last updated July 30, 2021
+Last updated August 27, 2021

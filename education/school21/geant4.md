@@ -2,7 +2,7 @@
 
 ## Geant4 Case Studies
 
-An eight-week online seminar on Geant4 that covers basic ideas and common usages of Geant4 through concrete examples and case studies, which help demonstrate the whole simulation process, from modeling the detector geometry to statistical analysis of the Geant4 output data. The learning of basic ideas and usage of Geant4 will be self-paced, following a series of tutorial videos on YouTube. Participants who have a simulation task in hand can describe their projects and the instructor will pick 4 to 6 of them as examples to demonstrate the whole process in weekly bases.
+An ten-week online seminar on Geant4 that covers basic ideas and common usages of Geant4 through concrete examples and case studies, which help demonstrate the whole simulation process, from modeling the detector geometry to statistical analysis of the Geant4 output data. The learning of basic ideas and usage of Geant4 will be self-paced, following a series of tutorial videos on YouTube. Participants who have a simulation task in hand can describe their projects and the instructor will pick 4 to 6 of them as examples to demonstrate the whole process in weekly bases.
 
 ### Course Information
 - Instructor: [Dr. Jing Liu](https://www.usd.edu/faculty-and-staff/Jing-Liu)

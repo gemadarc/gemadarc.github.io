@@ -9,7 +9,6 @@
   <div class="col-md-3">  
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a data-toggle="pill" href="#exploration">Exploration Series</a></li>
-      <li><a data-toggle="pill" href="#statistics">Statistics</a></li>
       <li><a data-toggle="pill" href="#ai">Machine Learning</a></li>
       <li><a data-toggle="pill" href="#geant4">Geant4 Case Studies</a></li>
     </ul>
@@ -19,10 +18,6 @@
     <div class="tab-content">
       <div id="exploration" class="tab-pane fade in active">
 	{% capture my_include %}{% include_relative exploration.md %}{% endcapture %}
-	{{ my_include | markdownify }}
-      </div>
-      <div id="statistics" class="tab-pane fade">
-	{% capture my_include %}{% include_relative statistics.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
       <div id="ai" class="tab-pane fade">

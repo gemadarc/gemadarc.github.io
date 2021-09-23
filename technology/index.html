@@ -14,6 +14,7 @@
       <li><a data-toggle="pill" href="#menu3">Geant4 simulation</a></li>
       <li><a data-toggle="pill" href="#menu4">Ge internal amplification</a></li>
       <li><a data-toggle="pill" href="#menu5">Thin amorphous semiconductor contacts</a></li>
+      <li><a data-toggle="pill" href="#menu6">Ring-contact Ge detector</a></li>
     </ul>
   </div>
 
@@ -41,6 +42,10 @@
       </div>
       <div id="menu5" class="tab-pane fade">
 	{% capture my_include %}{% include_relative /contacts.md %}{% endcapture %}
+	{{ my_include | markdownify }}
+      </div>
+      <div id="menu6" class="tab-pane fade">
+	{% capture my_include %}{% include_relative /ring-contact.md %}{% endcapture %}
 	{{ my_include | markdownify }}
       </div>
     </div>

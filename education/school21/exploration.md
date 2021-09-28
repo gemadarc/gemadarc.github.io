@@ -14,7 +14,7 @@
   - Coherent effects of a weak neutral current, Daniel Z. Freedman, Physical Review D, 9, 1389 (1974).
 - Facilitators: Phil Barbeau, Long Li and Connor Awe
 - Lead organizer: Mary Kidd
-- Link to recorded session:  [mp4](https://drive.google.com/file/d/1UG0QK7yIFDsSL6eOgfjpP6mhPHhgsJLy/view?usp=sharing)
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1co0Tgv5dJD4qvk4k1I_pGZXes6DBOhCx/view?usp=sharing)
 
 ### June 17
 - <b>Searching for Dark Matter with a Superconducting Qubit</b>
@@ -29,7 +29,7 @@
 - Points to Ponder: https://drive.google.com/file/d/1Wqwmt65gi_M02YMGJqe5dvFnXgcysmYg/view?usp=sharing
 - Lead Facilitators: Akash Dixit and Ankur Agrawal
 - Lead organizer: Reyco Henning
-- Link to recorded session: [mp4](https://drive.google.com/file/d/1aluiSSWok4qgXkfvci_d6m0aPy_280Bq/view?usp=sharing)
+- Link to recorded session: [mp4](https://drive.google.com/file/d/16zEKOMvcX6V94IJo6ySgV3EJGYgVLkm9/view?usp=sharing)
 
 ### July 1
 - <b>Optimization of Amorphous Germanium Electrical Contacts and Surface Coatings on High Purity Germanium Radiation Detectors</b>
@@ -37,14 +37,14 @@
 - Points to Ponder: https://docs.google.com/document/d/1f2USCIppYoUCHSjpKMCw0v2S7RzIBHwqbZKVo1umbMg
 - Lead Facilitators: Rusty Harris, Kyler Kooi, and Rajendra Panth
 - Lead organizer: Joel Sander
-- Link to recorded session:  [mp4](https://drive.google.com/file/d/1CLKYlLlMHCvXihkyp6Llp45yIdLQ6eqC/view?usp=sharing)
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1iIVQqioWPLH5XijNcqTvkzMTzJHkXnSe/view?usp=sharing)
 
 ### July 15
 - Paper: <b>Neutrino observatory based on archaeological lead</b>, Physical Review D, 102, 063001 (2020).
 - Points to Ponder: https://drive.google.com/file/d/1Nyj0sRLGKlXjXpRvqk-P0JU5bZTLeqsN/view?usp=sharing
 - Lead Facilitators: Kate Scholberg, Diane Markoff, Baran Bodur and Adryanna Major
 - Lead organizer:  Mary Kidd
-- Link to recorded session:  [mp4](https://drive.google.com/file/d/1ZkUCD6DwW_xuDYrldV4p1dEgwK-h0Mqz/view?usp=sharing)
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/14M6gu3qDUaMBUA7QfXQMP-PzoLEy2W10/view?usp=sharing)
  
 ### August 5
 - Paper and other materials:
@@ -54,6 +54,6 @@
 - Points to Ponder: [pdf](https://drive.google.com/file/d/1mntgdSrnITNCWh_LD7KloP0yKAoKiI9x/view?usp=sharing)
 - Lead Facilitators: Amy Nicholson
 - Lead Organizer:  Reyco Henning
-- Link to recorded session:  [mp4](https://drive.google.com/file/d/1XXOzCT2R_cmz5ARWwI6Mw5JXtvr6fhOD/view?usp=sharing)
+- Link to recorded session:  [mp4](https://drive.google.com/file/d/1tjMZ_GKjuvlx9GV57qc-CP150gsIgPSz/view?usp=sharing)
 
-Last updated August 27, 2021
+Last updated September 28, 2021

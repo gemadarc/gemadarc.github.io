@@ -8,7 +8,7 @@ May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Ph
 <a href="https://en.wikipedia.org/wiki/Taiwan">Taiwan</a>
 <ul>
 <li><a href="https://weather.com/weather/tenday/l/TWXX0021:1:TW">Weather</a></li>
-<li><a href="https://indico.phys.sinica.edu.tw/e/pire2020">Indico page</a></li>
+<li><a href="https://indico.phys.sinica.edu.tw/event/35/">Indico page</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
@@ -75,7 +75,6 @@ May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Ph
   - [Henry Wang][Henry], [Institute of Physics, Academia Sinica][IOP], Taipei, Taiwan
 - International committee
   - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
-  - Chris Haufe, [Univeristy of North Carolina at Chapel Hill][UNC], NC, USA
 
 ## LinkedIn
 

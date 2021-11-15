@@ -1,7 +1,7 @@
 # PIRE-GEMADARC Winter Collaboration Meeting
 
 - Place: ZOOM land
-- Dates: Nov. 18, Dec. 2, and Dec.9 2021
+- Dates: Nov. 18, Dec. 2, and Dec. 9 2021
 - Time: 8-10 AM CST / 9-11 AM EST / 3-5 PM CET / 10-12 PM Beijing Time
 
 ## Schedule

@@ -15,7 +15,7 @@ Five talks per session (2 hours)
 
 ## Slides
 
-Please upload your slides to this [Google Drive folder](https://drive.google.com/drive/folders/1I2yQfuuc4_6dPu5WBeAM2q7LfOPbDOks?usp=sharing) under the corresponding day of your talk with the following file naming scheme: {Sequence number of your talk}{Your Last Name}.{suffix}. For example, Mathbar's talk is the 8th one. He can name his file as *08SinghRaut.pdf*. This way, we can easily find the right presentation slides in the shared Google Drive folder.
+Please upload your slides to this [Google Drive folder](https://drive.google.com/drive/folders/1I2yQfuuc4_6dPu5WBeAM2q7LfOPbDOks?usp=sharing) under the corresponding day of your talk with the following file naming scheme: {Sequence number of your talk}{Your Last Name}.{suffix}. For example, Mathbar's talk is the 8th one. He can name his file as *08SinghRaut.pdf*. This way, we can easily find the presentation slides in the shared Google Drive folder.
 
 ## Contact
 

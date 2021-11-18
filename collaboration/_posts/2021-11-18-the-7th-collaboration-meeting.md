@@ -22,3 +22,5 @@ Please upload your slides to this [Google Drive folder](https://drive.google.com
 If you cannot access the shared folder with your favorite Google account, please talk to any colleague who can. They should be able to share that folder with your preferred Google account. If you and/or your colleagues do not have access to a Google account, please send your slides to Sanjay Bhattarai (sanjay.bhattarai@coyotes.usd.edu) or Esteban León (esleon97@unc.edu). 
 
 ## Recording
+
+[November 18](https://drive.google.com/file/d/1juzu6KJcUimaFvOIpmnghC1n-RiGU2Kb/view?usp=sharing)

@@ -9,7 +9,7 @@
 One 30-minute invited talk + 10 minutes for questions and four 15-minute session talks + 5 minutes for questions.
 Five talks per session (2 hours)
 
-[Schedule (PDF)](https://drive.google.com/file/d/1-qm2yq7yPrl-EN9KuBHunbUiQIp-k_eM/view?usp=sharing)
+[Schedule (PDF)](https://drive.google.com/file/d/1R-H-2E0XaRkka8z6WRMsCaFzetf2SvJ8/view?usp=sharing)
 
 [Detailed Schedule (PDF)](https://drive.google.com/file/d/1eYLIIZHlD7Q5A0eMFrjg6EZX9ICqRN0D/view?usp=sharing)
 

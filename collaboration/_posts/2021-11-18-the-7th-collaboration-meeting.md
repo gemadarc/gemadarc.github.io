@@ -1,4 +1,4 @@
-# PIRE-GEMADARC Winter Collaboration Meeting
+# PIRE-GEMADARC 2021 Winter Collaboration Meeting
 
 - Place: ZOOM land
 - Dates: Nov. 18, Dec. 2, and Dec. 9 2021

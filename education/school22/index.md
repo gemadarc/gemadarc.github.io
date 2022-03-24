@@ -1,3 +1,5 @@
+---
+---
 # Summer School 2022
 
 <div class="row">
@@ -7,10 +9,12 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <a href="https://www.cityofkingston.ca">Kingston</a>,
 <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html">Canada</a>
 <ul>
-<li><a href="https://weather.gc.ca/city/pages/on-69_metric_e.html">Weather</a></li>
 <li><a href="https://indico.cern.ch/event/1142628">Indico page</a></li>
+<li><a href="https://weather.gc.ca/city/pages/on-69_metric_e.html">Weather</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#topics">Topics</a></li>
+<li><a href="#excursion">Excursion</a></li>
+<li><a href="#travel">Travel</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
@@ -74,7 +78,8 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 ## Schedule
 
 - June 18-19, travel
-- June 20-24, classes
+- June 20-23, classes
+- June 24, SNOLAB day (virtual tour, HPGe data analysis, etc., guided by [Dr. Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/))
 - June 25-26, [Excursion](#excursion)
 
 ## Topics
@@ -198,6 +203,21 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 - digital pulse shaping
   - ADC basics (bits, etc.)
   - filters
+
+## Excursion
+
+### June 25, Canadian outdoors
+We will be out to a small lake in nature, where we could canoe, fish, hike, etc. and experience the "Canadian outdoors"!
+
+### June 26, Ottawa day
+We will visit Ottawa!
+
+## Travel
+
+### Visa
+
+- [Find out if you need a visa to enter Canada](https://www.cic.gc.ca/english/visit/visas.asp)
+- [COVID-19 travel restriction](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
 
 ## Organizing committee
 

@@ -10,9 +10,11 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html">Canada</a>
 <ul>
 <li><a href="https://indico.cern.ch/event/1142628">Indico page</a></li>
+<li><a href="#registration">Registration</a></li>
 <li><a href="https://weather.gc.ca/city/pages/on-69_metric_e.html">Weather</a></li>
 <li><a href="#schedule">Schedule</a></li>
 <li><a href="#topics">Topics</a></li>
+<li><a href="#undergraduate-program">Undergraduate program</a></li>
 <li><a href="#excursion">Excursion</a></li>
 <li><a href="#travel">Travel</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
@@ -75,12 +77,17 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 
 </div><!-- row -->
 
+## Registration
+
+The registration page on indico will be ready soon. You may tell us there your preference on food, activities and private policy, etc.
+
 ## Schedule
 
 - June 18-19, travel
 - June 20-23, classes
 - June 24, SNOLAB day (virtual tour, HPGe data analysis, etc., guided by [Dr. Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/))
-- June 25-26, [Excursion](#excursion)
+- June 25, [Excursion](#excursion)
+- June 26, free exploration
 
 ## Topics
 
@@ -108,7 +115,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
   - neutrinoless double beta decay
   - single beta decay
   - cosmological observations
-- Theory
+- Theory (Aaron Vincent)
   - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
 
 ### Neutrino astronomy
@@ -214,10 +221,17 @@ We will visit Ottawa!
 
 ## Travel
 
-### Visa
+We are requested to get fully vaccinated to enter Canada. Please check the following links for details.
+
+- [COVID-19 travel restriction](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
+
+If you need an invitation letter for visa application, please send a request at your earliest convenience to the local organizer, [Prof. Ryan Martin][Ryan].
 
 - [Find out if you need a visa to enter Canada](https://www.cic.gc.ca/english/visit/visas.asp)
-- [COVID-19 travel restriction](https://travel.gc.ca/travel-covid/travel-restrictions/wizard-start)
+
+## Accommodation
+
+45 rooms (2 twin-sized beds in each) have been reserved for summer school. You are encouraged to share a room with your classmate. The link for booking will be shared soon.
 
 ## Organizing committee
 

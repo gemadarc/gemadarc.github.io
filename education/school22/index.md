@@ -31,14 +31,14 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <div class="item active">
 <img src="https://www.queensu.ca/gazette/sites/default/files/assets/slideshow/2015-12/WEB%20Livestream%20W%20Art.jpg">
 <div class="carousel-caption">
-<a class="btn btn-lg btn-primary" href="#underground-laboratories" role="button">Department of Physics, Queen's University</a>
+<a class="btn btn-lg btn-primary" href="#travel" role="button">Department of Physics, Queen's University</a>
 </div>
 </div>
 
 <div class="item">
 <img src="https://www.cruisin.me/images/cruise-ports/canada/kingston-ontario.jpg">
 <div class="carousel-caption">
-<a class="btn btn-lg btn-primary" href="#lodging" role="button">Kingston, Canada</a>
+<a class="btn btn-lg btn-primary" href="#travel" role="button">Kingston, Canada</a>
 </div>
 </div>
 
@@ -52,14 +52,28 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <div class="item">
 <img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oMmZNb2dnQ0xHWXM">
 <div class="carousel-caption">
-<a class="btn btn-lg btn-primary" href="#germanium-detector-technologies" role="button">HPGe detectors</a>
+<a class="btn btn-lg btn-primary" href="#HPGe" role="button">HPGe detectors</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://online.stanford.edu/sites/default/files/styles/figure_default/public/2020-06/Statistics-Graduate-Certificate_2.jpg">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#statistics" role="button">Statistics</a>
 </div>
 </div>
 
 <div class="item">
 <img src="https://www.symmetrymagazine.org/sites/default/files/styles/2015_hero/public/images/standard/FINAL_neutrinos_header_sized.jpg?itok=ZDqZNm5W">
 <div class="carousel-caption">
-<a class="btn btn-lg btn-primary" href="#neutrino-physics" role="button">Neutrinos</a>
+<a class="btn btn-lg btn-primary" href="#neutrino" role="button">Neutrinos</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://www.techfunnel.com/wp-content/uploads/2020/12/machine-learning-vs-deep-learning.png">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#machine-learning" role="button">Machine Learning</a>
 </div>
 </div>
 </div><!--carousel-inner-->

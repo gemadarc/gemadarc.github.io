@@ -83,11 +83,23 @@ The registration page on indico will be ready soon. You may tell us there your p
 
 ## Schedule
 
-- June 18-19, travel
-- June 20-23, classes
-- June 24, SNOLAB day (virtual tour, HPGe data analysis, etc., guided by [Dr. Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/))
+- June 18-19, travel to the Queen's, registration
+- June 20, [dark matter](#dark-matter) and [neutrino](#neutrino)
+- June 21, [statistics](#statistics)
+- June 22, [high-purity germanium detector](#hpge)
+- June 23, [machine learning](#machine-learning)
+- June 24, [SNOLAB virtual tour](#snolab-virtual-tour)
 - June 25, [Excursion](#excursion)
-- June 26, free exploration
+- June 26, free exploration of Kinston
+
+## Lecturers
+
+[Iris Abt][Iris], group leader, Max-Planck-Institut fuer Physik, Munich, Germany
+[Jason Deltwiler][Jason], Associate Professor, department of physics, University of Washington, APS Fellow
+[KC Santosh][KC], chair, department of CS, University of South Dakota
+[Oliver Schulz][Oli], senior scientist, Max-Planck-Institut fuer Physik, Munich, Germany
+
+[Jason]: https://phys.washington.edu/people/jason-detwiler
 
 ## Topics
 
@@ -210,6 +222,10 @@ The registration page on indico will be ready soon. You may tell us there your p
 - digital pulse shaping
   - ADC basics (bits, etc.)
   - filters
+
+## SNOLAB virtual tour
+
+HPGe data analysis, etc., guided by [Dr. Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/)
 
 ## Excursion
 

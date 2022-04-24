@@ -22,6 +22,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
 <li><a href="#code-of-conduct">Code of Conduct</a></li>
+<li><a href="https://drive.google.com/uc?id=18ZF9ZT9d_9m7_kCGYDeNR_yc4NuTuFqo">Poster</a></li>
 </ul>
 </div>
 

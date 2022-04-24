@@ -13,6 +13,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <li><a href="#registration">Registration</a></li>
 <li><a href="https://weather.gc.ca/city/pages/on-69_metric_e.html">Weather</a></li>
 <li><a href="#schedule">Schedule</a></li>
+<li><a href="#lecturers">Lecturers</a></li>
 <li><a href="#topics">Topics</a></li>
 <li><a href="#undergraduate-program">Undergraduate program</a></li>
 <li><a href="#excursion">Excursion</a></li>
@@ -79,7 +80,9 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 
 ## Registration
 
-The registration page on indico will be ready soon. You may tell us there your preference on food, activities and private policy, etc.
+The registration form is [here](https://forms.gle/BzhvQPYgVg6QyoRAA), where you can tell us your preference on food, activities and private policy, etc.
+
+The registration fee will be collected separately.
 
 ## Schedule
 
@@ -89,143 +92,59 @@ The registration page on indico will be ready soon. You may tell us there your p
 - June 22, [high-purity germanium detector](#hpge)
 - June 23, [machine learning](#machine-learning)
 - June 24, [SNOLAB virtual tour](#snolab-virtual-tour)
-- June 25, [Excursion](#excursion)
-- June 26, free exploration of Kinston
+- June 25 - 26, [Excursion](#excursion)
+- June 27 - 28, PIRE GEMADARC Collaboration Meeting
+- June 29, travel back
 
 ## Lecturers
 
-[Iris Abt][Iris], group leader, Max-Planck-Institut fuer Physik, Munich, Germany
-[Jason Deltwiler][Jason], Associate Professor, department of physics, University of Washington, APS Fellow
-[KC Santosh][KC], chair, department of CS, University of South Dakota
-[Oliver Schulz][Oli], senior scientist, Max-Planck-Institut fuer Physik, Munich, Germany
+- [Iris Abt][MPI], group leader, Max-Planck-Institut fuer Physik, Munich, Germany
+- Mark Anderson, department of physics, Queen's University
+- [Joe Bramante][Joe], Assistant Professor, department of physics, Queen's University
+- [Jason Deltwiler][Jason], Associate Professor, department of physics, University of Washington, APS Fellow
+- Ian Guinn, department of physics, University of North Carolina at Chapel hill
+- [Jing Liu][Jing], Associate Professor, department of physics, University of South Dakota
+- [KC Santosh][KC], chair, department of CS, University of South Dakota
+- [Oliver Schulz][MPI], senior scientist, Max-Planck-Institut fuer Physik, Munich, Germany
+- [Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/), Research Scientist, [SNOLAB][]
+- [Aron Vincent][Vincent], Assistant Professor, department of physics, Queen's University
 
+[MPI]: https://www.mpp.mpg.de/en/research/neutrino-experiments/majorana-nature-of-the-neutrino-legend-experiment
 [Jason]: https://phys.washington.edu/people/jason-detwiler
+[Jing]: https://www.usd.edu/research-and-faculty/faculty-and-staff/jing-liu
+[KC]: https://www.usd.edu/research-and-faculty/faculty-and-staff/santosh-kc
+[Vincent]: https://www.queensu.ca/physics/aaron-vincent
+[Joe]: https://www.queensu.ca/physics/joe-bramante
+[SNOLAB]: https://www.snolab.ca/
 
 ## Topics
 
-### Neutrino overview
+### Neutrino
 
-- Historical development of the field (Iris Abt)
-  - Evidence from beta decays, first observation by Cowan–Reines
-  - Lepton number, Parity violation, helicity, etc.
-  - Neutrino beams, solar neutrino problem, atmospheric neutrinos
-- Ideas for future neutrino applications (Iris Abt)
-  - Oil exploration, nuclear proliferation, mantle scans, etc.
-
-### Neutrino oscillations
-
-- Theory
-  - general formalism
-  - flavor oscillations in vacuum
-  - matter effect, and collective oscillations
-- Experiment
-  - solar, accelerator, reactor, atmospheric neutrino experiments
-
-### Neutrino masses and properties
-
-- Experiments
-  - neutrinoless double beta decay
-  - single beta decay
-  - cosmological observations
-- Theory (Aaron Vincent)
-  - Majorana & Dirac mass terms, seesaw mechanism, Leptogenesis
-
-### Neutrino astronomy
-
-- solar neutrinos
-- supernova neutrinos
-- ultra-high energy neutrinos
-
-### Neutrino interactions
-
-- high energy (above CC threshold)
-- NC and CC deep inelastic, coherent
-- Neutrino-electromagnetic interactions, etc.
-
-### Neutrino applications
-
-- study the universe
-- study the earth
-- study physics beyond the SM
-- search for oil and other deposits
-- destroy nuclear weapons remotely
+- neutrino mass and properties (Aaron Vincent)
+- neutrino experiments and applications (Iris Abt)
 
 ### Dark matter
 
-- Introduction
-  - CMB, large-scale structure, rotation curves, bullet cluster, etc.
-- Direct detection
-  - experimental methods and experiments survey
-- Indirect detection
-  - experimental methods and experiments survey
-- Theory survey
+- Introduction and theory (Joseph Bramante)
+- Survey of dark matter experiments and technologies (TBD)
 
-### Radiation detection
+### HPGe
 
-- radioactive sources
-- interactions with matter
-- creation of charge carriers by radiation
+- theory of semiconductor detectors (Ian Guinn)
+- readout electronics for semiconductor detectors (Jing Liu)
+- digital pulse processing (Felix Hagemann)
 
-### Semiconductor
+### Machine learning
 
-- band-structure
-- some comparison to silicon
-- diodes
-- detector configurations
-- some example applications
+- Basics idea of machine learning (KC Santosh)
+- Survey of machine learning techniques (KC Santosh)
+- Applications of Machine learning in physics data analysis (KC Santosh)
+- hands-on practices (Mark Anderson)
 
-### HPGe system
+### SNOLAB virtual tour
 
-- components (detector, cryostat, electronics, software)
-- operation (trigger, threshold, coincidence, etc.)
-- Pulse-shape simulation
-
-### Underground laboratories
-
-- Laboratory survey
-- Cosmic ray, natural radiation, Rn, etc.
-
-### Computational tools and Geant4 simulation
-
-- programming languages, version control and collaborating tools
-- setup for hand-on tutorial
-- Geant4 MC simulation basics
-- Geant4 hands-on tutorial
-
-### Data analysis
-
-- ROOT hands-on tutorial
-- counting
-- fitting, plotting
-- energy calibration
-
-### Spectroscopy
-
-- counting statistics (basic distributions)
-- basic spectroscopy concepts (resolution, Fano, dead time, etc.)
-
-### Detector fabrication
-
-- crystal purification and growth
-- surface treatment for contact making
-
-### Electronics
-
-- pre-amp
-  - basics of charge sensitive amplifier
-  - noise
-  - bandwidth
-- analog pulse shaping
-  - integration & differentiation circuits
-  - shaping time
-  - pole zero
-- digital pulse shaping
-  - ADC basics (bits, etc.)
-  - filters
-
-## SNOLAB virtual tour
-
-HPGe data analysis, etc., guided by [Dr. Silvia Scorza](https://www.snolab.ca/people/dr-silvia-scorza/)
+Virtual tour + HPGe data analysis (Silvia Scorza)
 
 ## Excursion
 
@@ -256,6 +175,10 @@ If you need an invitation letter for visa application, please send a request at 
 - International committee
   - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
 
+## Undergraduate program
+
+TBD
+
 ## LinkedIn
 
 <https://www.linkedin.com/company/pire-gemadarc/> is a webpage about our school in LinkedIn, which can be referred to in your LinkedIn profile.
@@ -266,20 +189,5 @@ We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng
 
 [USD]: http://www.usd.edu
 [MPI]: https://www.mpp.mpg.de/en/
-[Iris]:https://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
-[Deng]: http://www.engineeringphysics.tsinghua.edu.cn/publish/epen/1733/2010/20101211163730097209304/20101211163730097209304_.html
-[Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
-[Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
-[Wenqin]: http://www.usd.edu/faculty-and-staff/Wenqin-Xu
-[Joel]: http://www.usd.edu/faculty-and-staff/Joel-Sander
-[Guojian]: http://www.usd.edu/faculty-and-staff/Guojian-Wang
-[Bela]: https://www.mpp.mpg.de/en/research/astroparticle-physics-and-cosmology/gerda-detector-neutrino-physics/
-[John]: https://users.physics.unc.edu/~jfw/
-[UNC]: http://www.unc.edu/
-[Rusty]: https://engineering.tamu.edu/electrical/people/rharris
-[TAMU]: http://www.tamu.edu/
-[IOP]: http://www.phys.sinica.edu.tw/index_en.php
-[Henry]: http://www.phys.sinica.edu.tw/~htwong/
-[CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory
 [Ryan]: https://www.queensu.ca/physics/ryan-martin
 [qp]: https://www.queensu.ca/physics/

@@ -95,9 +95,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 
 ## Registration
 
-The registration form is [here](https://forms.gle/BzhvQPYgVg6QyoRAA), where you can tell us your preference on food, activities and private policy, etc.
-
-The registration fee will be collected separately.
+The registration form will be open soon, where you can tell us your preference on food, activities and private policy, etc.
 
 ## Schedule
 
@@ -166,8 +164,7 @@ Virtual tour + HPGe data analysis (Silvia Scorza)
 ### June 25, Canadian outdoors
 We will be out to a small lake in nature, where we could canoe, fish, hike, etc. and experience the "Canadian outdoors"!
 
-### June 26, Ottawa day
-We will visit Ottawa!
+### June 26, TBD
 
 ## Travel
 

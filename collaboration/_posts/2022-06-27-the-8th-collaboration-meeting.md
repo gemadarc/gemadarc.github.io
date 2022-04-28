@@ -9,7 +9,7 @@ tags: [ meeting ]
 
 ## Schedule
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS49LwrmcyFRiS7h5Dv67FL7qJLiMwSdDBUm76sRa8erytdszseOpTzB3ZApTDlAdCFzpErKVmgpSBj/embed?start=false&loop=true&delayms=3000" frameborder="0" width="1080" height="636" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS49LwrmcyFRiS7h5Dv67FL7qJLiMwSdDBUm76sRa8erytdszseOpTzB3ZApTDlAdCFzpErKVmgpSBj/embed?start=true&loop=true&delayms=3000" frameborder="0" width="1080" height="636" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [Link to edit](https://docs.google.com/presentation/d/1-8Mt70WmjPn-lJuVtyD1IhgySN3jubcA2uKJmlxH_o4/edit#slide=id.p2)
 

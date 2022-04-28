@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 # Agenda
 
 - <https://indico.mpp.mpg.de/event/6013/>

@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 The 5th collaboration meeting will be held through ZOOM: <https://zoom.us/j/6056777287>
 
 # Agenda

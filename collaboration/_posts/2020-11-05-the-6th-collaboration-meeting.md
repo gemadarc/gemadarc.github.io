@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 - Place: ZOOM land
 - Dates: Nov. 5 and 19, 2020
 - Time: 7-10 AM CST / 8-11 AM EST / 2-5 PM CET / 9-12 PM Beijing Time

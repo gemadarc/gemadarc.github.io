@@ -1,4 +1,5 @@
 ---
+tags: [ meeting ]
 ---
 
 # PIRE-GEMADARC 2022 Summer Collaboration Meeting

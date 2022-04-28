@@ -1,3 +1,7 @@
+---
+tags: [ meeting ]
+---
+
 # PIRE-GEMADARC 2021 Winter Collaboration Meeting
 
 - Place: ZOOM land

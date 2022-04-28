@@ -116,6 +116,7 @@ The registration will open on May 8, where you can tell us your preference on fo
 - [Joe Bramante][Joe], Assistant Professor, department of physics, Queen's University
 - [Jason Deltwiler][Jason], Associate Professor, department of physics, University of Washington, APS Fellow
 - Ian Guinn, department of physics, University of North Carolina at Chapel hill
+- [Felix Hagemann][MPI], Max-Planck-Institut fuer Physik, Munich, Germany
 - [Jing Liu][Jing], Associate Professor, department of physics, University of South Dakota
 - [KC Santosh][KC], chair, department of CS, University of South Dakota
 - [Oliver Schulz][MPI], senior scientist, Max-Planck-Institut fuer Physik, Munich, Germany

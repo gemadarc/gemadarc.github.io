@@ -95,7 +95,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 
 ## Registration
 
-The registration form will be open soon, where you can tell us your preference on food, activities and private policy, etc.
+The registration will open on May 8, where you can tell us your preference on food, activities and private policy, etc.
 
 ## Schedule
 

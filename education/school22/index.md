@@ -9,7 +9,6 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <a href="https://www.cityofkingston.ca">Kingston</a>,
 <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html">Canada</a>
 <ul>
-<li><a href="https://indico.cern.ch/event/1142628">Indico page</a></li>
 <li><a href="#registration">Registration</a></li>
 <li><a href="https://weather.gc.ca/city/pages/on-69_metric_e.html">Weather</a></li>
 <li><a href="#schedule">Schedule</a></li>
@@ -95,7 +94,14 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 
 ## Registration
 
-The registration will open on May 8, where you can tell us your preference on food, activities and private policy, etc.
+The registration is open. Please register through the indico website:
+<https://indico.cern.ch/event/1142628/registrations/81677/>
+
+Note that you will need to go to a different website to pay the registration fee (credit card only, Visa or MC), and yet another website to book your hotel rooms. The links you need are all on the indico registration page.
+
+Please make sure you book the room using the link on the registration page since it goes against our reserved block of rooms. A room booking (about CAD 115/night) includes two bedrooms that are connected by a bathroom. If applicable, when you book a room, you can list the name of the person with whom you will be sharing the (double) room (all rooms are double rooms).
+
+If you have issues with the Indico website, please try a different browser, or clear your cache.
 
 ## Schedule
 

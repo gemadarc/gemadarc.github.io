@@ -50,7 +50,7 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 </div>
 
 <div class="item">
-<img src="https://drive.google.com/uc?id=0BwM7XYhFgK7oMmZNb2dnQ0xHWXM">
+<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1140%2Fepjc%2Fs10052-020-8235-9/MediaObjects/10052_2020_8235_Fig7_HTML.jpg">
 <div class="carousel-caption">
 <a class="btn btn-lg btn-primary" href="#HPGe" role="button">HPGe detectors</a>
 </div>
@@ -74,6 +74,13 @@ June 20-28, <a href="https://www.queensu.ca/physics">Queen's University</a>,
 <img src="https://www.techfunnel.com/wp-content/uploads/2020/12/machine-learning-vs-deep-learning.png">
 <div class="carousel-caption">
 <a class="btn btn-lg btn-primary" href="#machine-learning" role="button">Machine Learning</a>
+</div>
+</div>
+
+<div class="item">
+<img src="https://mediaim.expedia.com/destination/2/310a1e88523d3b34c375c3d0033e8aae.jpg">
+<div class="carousel-caption">
+<a class="btn btn-lg btn-primary" href="#excursion" role="button">Excursion</a>
 </div>
 </div>
 </div><!--carousel-inner-->
@@ -168,10 +175,12 @@ Virtual tour + HPGe data analysis (Silvia Scorza)
 
 ## Excursion
 
-### June 25, Canadian outdoors
-We will be out to a small lake in nature, where we could canoe, fish, hike, etc. and experience the "Canadian outdoors"!
+### June 25, Tour of Prince Edward County
+We will be starting the day with a tour of the [555 Brewery in Picton](https://www.555beer.com/) and having lunch there (pizza and beers). We will then go tour the [LightHall winery](https://www.lighthallvineyards.com/) for a tasting of their Winemaker’s Flight. We will finish with a tour of the [County Cider Company](https://countycider.com/) and a tasting of their ciders. People will be pretty *happy* by the end of the day!
 
-### June 26, TBD
+### June 26
+
+Free excursion.
 
 ## Travel
 

@@ -5,11 +5,11 @@ tags: [ meeting ]
 # PIRE-GEMADARC 2022 Summer Collaboration Meeting
 
 - Place: Queen's University, Kingston Canada
-- Dates: Jun. 27, and Jun. 28, 2022
+- Dates: Jun. 28, and Jun. 29, 2022
 
-## Schedule
+## Agenda
 
-[Link to view and edit](https://docs.google.com/presentation/d/1-8Mt70WmjPn-lJuVtyD1IhgySN3jubcA2uKJmlxH_o4/edit#slide=id.p2)
+[Link to agenda saved in Google Drive.](https://docs.google.com/spreadsheets/d/1AqEiDaniqVaJlQ3bIsTyT7IIRmUiIADn/edit?usp=sharing&ouid=101717075408086641466&rtpof=true&sd=true)
 
 ## Slides
 

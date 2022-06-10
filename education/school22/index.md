@@ -158,9 +158,10 @@ If you have issues with the Indico website, please try a different browser, or c
 
 ### HPGe
 
-- theory of semiconductor detectors (Ian Guinn)
+- theory of semiconductor detectors (Jing Liu)
 - readout electronics for semiconductor detectors (Jing Liu)
-- digital pulse processing (Felix Hagemann)
+- digital pulse processing (Ian Guinn)
+- pulse shape simulation (Felix Hagemann)
 
 ### Machine learning
 

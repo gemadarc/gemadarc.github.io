@@ -3,12 +3,12 @@
 <div class="row">
 
 <div class="col-md-6">
-May 21-27, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Physics, Academia Sinica</a>,
+May 24 - June 12, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institute of Physics, Academia Sinica</a>,
 <a href="https://en.wikipedia.org/wiki/Taipei">Taipei</a>,
 <a href="https://en.wikipedia.org/wiki/Taiwan">Taiwan</a>
 <ul>
 <li><a href="https://weather.com/weather/tenday/l/TWXX0021:1:TW">Weather</a></li>
-<li><a href="https://indico.phys.sinica.edu.tw/event/35/">Indico page</a></li>
+<li><a href="https://indico.phys.sinica.edu.tw/event/71/">Indico page</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>

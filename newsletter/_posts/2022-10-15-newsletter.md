@@ -1,1 +1,1 @@
-Find our news in October, 2022 [here](https://drive.google.com/file/d/13IlT7dkK9Dk6fwTeXzRD9asf5uJ5DHg4/view?usp=share_link)
+Find our news in October, 2022 [here](https://drive.google.com/file/d/14ZzcTk9gpzW1HG3dMVg22Pgurtzm71Fy/view?usp=drive_link)

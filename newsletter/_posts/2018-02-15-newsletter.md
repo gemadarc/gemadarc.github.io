@@ -1,1 +1,1 @@
-Find our news in February, 2018 [here](https://drive.google.com/open?id=1j-GsyU9aRnnHjglrOK72dFgsPxIJFCYC)
+Find our news in February, 2018 [here](https://drive.google.com/file/d/1w_tWeoG0M21ANn-gSxIHXbfZRPKGohqx/view?usp=drive_link)

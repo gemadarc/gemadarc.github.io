@@ -1,1 +1,1 @@
-Find our news in December, 2019 [here](https://drive.google.com/open?id=12csXDBXPPOiq7aGQYLXQEMUSA-uIm6Ad)
+Find our news in December, 2019 [here](https://drive.google.com/file/d/1dHPTRUTqqg8kMXKLKWb58XY9R3PMxXFu/view?usp=drive_link)

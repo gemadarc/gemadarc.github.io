@@ -1,1 +1,1 @@
-Find our news in August, 2019 [here](https://drive.google.com/open?id=1R-SSyXrWbqNpadi6d8fsGnC5g7El11jt)
+Find our news in August, 2019 [here](https://drive.google.com/file/d/1cF7tzPy19_TVC4tOXlDJdUY6HXe_CE3M/view?usp=drive_link)

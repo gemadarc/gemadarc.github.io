@@ -1,1 +1,1 @@
-Find our news in January, 2022 [here](https://drive.google.com/file/d/1mzK9dyUx4nGZB1_099kl-MwiPjHe5rgU/view?usp=sharing)
+Find our news in January, 2022 [here](https://drive.google.com/file/d/1KDCvaAbe3NUDmsdyWTOaN6lC5GckYoJh/view?usp=drive_link)

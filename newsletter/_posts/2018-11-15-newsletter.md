@@ -1,1 +1,1 @@
-Find our news in November, 2018 [here](https://drive.google.com/file/d/1pDXbZqraJU4BprWlkljhu-VjM9DMhf1_/view?usp=drive_link)
+Find our news in November, 2018 [here](https://drive.google.com/file/d/1yR9Ft1b2GENin_gvGPGtSEPAY8esOhek/view?usp=drive_link)

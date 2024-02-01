@@ -8,6 +8,8 @@ May 13 - May 17, <a href="https://www.sdsmt.edu">South Dakota School of Mines & 
 <a href="https://www.sd.gov">SD</a>, US
 <ul>
 <li><a href="https://www.accuweather.com/en/us/rapid-city/57701/weather-forecast/330685">Weather</a></li>
+<li><a href="#topics">Topics</a></li>
+<li><a href="#organizing-committee">Registration</a></li>
 <li><a href="#organizing-committee">Organizing committee</a></li>
 <li><a href="mailto:jing.liu@usd.edu">Contact us</a></li>
 <li><a href="#linkedin">LinkedIn Alumni List</a></li>
@@ -67,6 +69,9 @@ May 13 - May 17, <a href="https://www.sdsmt.edu">South Dakota School of Mines & 
 </div><!-- carousel slide -->
 
 </div><!-- row -->
+
+## Registration
+To be open soon!
 
 ## Topics
 - Sciences in deep underground laboratories

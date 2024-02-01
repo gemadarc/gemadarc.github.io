@@ -68,6 +68,19 @@ May 13 - May 17, <a href="https://www.sdsmt.edu">South Dakota School of Mines & 
 
 </div><!-- row -->
 
+## Topics
+- Sciences in deep underground laboratories
+  - Overview of underground laboratories in the world
+  - Overview of dark matter theories and experiments
+  - Overview of neutrino physics and underground neutrino experiments
+- HPGe technology
+  - Working principles of HPGe detectors
+  - Application of HPGe detectors
+  - live demonstration of HPGe detectors in action
+- Monte Carlo simulation and data analysis
+  - Geant4 crash course
+  - HPGe energy spectrum analysis
+
 ## Organizing committee
 
 - [Mary Kidd][Mary], [Tennessee Tech University][TT], Cookeville, TN, USA

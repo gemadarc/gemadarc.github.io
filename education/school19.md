@@ -20,7 +20,7 @@ May 16-25, <a href="https://www.mpp.mpg.de/">Max-Planck-Institut für Physik</a>
 
 <div class="carousel-inner" role="listbox">
 <div class="item active">
-<img src="https://www.mpg.de/251174/standard-1533037269.jpg?t=eyJ3aWR0aCI6ODQ4LCJoZWlnaHQiOjM5NSwiZml0IjoiY3JvcCIsIm9ial9pZCI6MjUxMTc0fQ==--48549c8bb2bf48d7eed97d38d2b395b45a307db1">
+<img src="https://www.mpp.mpg.de/fileadmin/_processed_/a/d/csm_171012_2_Eckert_3aea7f7120.jpg">
 <div class="carousel-caption">
 <a class="btn btn-lg btn-primary" href="#underground-laboratories" role="button">Max-Planck-Institut</a>
 </div>

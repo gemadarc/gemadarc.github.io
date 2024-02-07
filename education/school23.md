@@ -82,7 +82,7 @@ May 24 - June 12, <a href="https://www.phys.sinica.edu.tw/index_en.php">Institut
 
 ## Code of Conduct
 
-We adopt the [Code of Conduct for APS Meetings](http://www.china-embassy.org/eng/zmzlljs/t84229.htm) for our summer school. Please make sure that you are familiar with it before you join the school.
+We adopt the [Code of Conduct for APS Meetings](https://www.aps.org/meetings/policies/code-conduct.cfm) for our summer school. Please make sure that you are familiar with it before you join the school.
 
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/
 [USD]: http://www.usd.edu

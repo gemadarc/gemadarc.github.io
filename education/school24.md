@@ -6,6 +6,7 @@
 May 13 - May 17, <a href="https://www.sdsmt.edu">South Dakota School of Mines & Technology</a>,
 <a href="https://www.visitrapidcity.com/">Rapid City</a>,
 <a href="https://www.sd.gov">SD</a>, US
+In parallel with [CoSSURF 2024](https://indico.sanfordlab.org/event/68/)
 <ul>
 <li><a href="https://www.accuweather.com/en/us/rapid-city/57701/weather-forecast/330685">Weather</a></li>
 <li><a href="#topics">Topics</a></li>

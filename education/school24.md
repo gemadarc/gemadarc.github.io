@@ -73,7 +73,7 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 </div><!-- row -->
 
 ## Registration
-To be open soon!
+To be open soon! Registration fee: $300, including coffee, lunch, day excursion to black hills' attractives, day trip to SURF, Lead, SD.
 
 ## Topics
 - Sciences in deep underground laboratories
@@ -89,14 +89,17 @@ To be open soon!
   - HPGe energy spectrum analysis
  
 ## Excursions
-Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm), [Crazy Horse Memorial](https://crazyhorsememorial.org/) and other [Black Hills' must sees](https://www.blackhillsbadlands.com/).
+May 15. Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm), [Crazy Horse Memorial](https://crazyhorsememorial.org/) and other [Black Hills' must sees](https://www.blackhillsbadlands.com/).
 
-A uinique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering.
+May 17. A uinique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering. NOTE: a 
 
 ## Organizing committee
 
+- [Brianna Mount](https://www.bhsu.edu/directory/Faculty-and-Staff/Mount_Brianna), [Black Hills State Unversity](https://www.bhsu.edu), Spearfish, SD, USA
 - [Mary Kidd][Mary], [Tennessee Tech University][TT], Cookeville, TN, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
+
+The school is co-organized with [CoSSURF 2024](https://indico.sanfordlab.org/event/68). Big thanks to the [CoSSURF 2024 organization committee](https://indico.sanfordlab.org/event/68/page/58-committee)!
 
 ## LinkedIn
 

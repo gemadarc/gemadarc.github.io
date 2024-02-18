@@ -93,7 +93,9 @@ To be open soon! Registration fee: $300, including coffee, lunch, day excursion 
 ## Excursions
 May 15. Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm), [Crazy Horse Memorial](https://crazyhorsememorial.org/) and other [Black Hills' must sees](https://www.blackhillsbadlands.com/).
 
-May 17. A uinique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering. NOTE: an underground trip may not be possible due to construction. But there is a lot to see on surface:
+May 17. A uinique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering.
+
+**NOTE**: an underground trip may not be possible due to construction. But there is a lot to see and do on surface:
 
 - [Wastewater Treatment Plant](https://sanfordlab.org/feature/wastewater-treatment-plant)
 - [Hoistroom](https://sanfordlab.org/article/surf-invests-next-generation-south-dakota-k-12-educators)

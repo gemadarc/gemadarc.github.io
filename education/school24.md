@@ -75,6 +75,8 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 ## Registration
 To be open soon! Registration fee: $300, including coffee, lunch, day excursion to black hills' attractives, day trip to SURF, Lead, SD.
 
+**NOTE**: Hotel rooms are not included. Participants are expected to arrange their own hotel rooms. If they are not in the hotel suggested on the [CoSSURF 2024 accommendation web page](https://indico.sanfordlab.org/event/68/page/66-accommodation), one may need to arrange his/her own transportation to the campus of [South Dakota School of Mines and Technologies](https://www.sdsmt.edu/).
+
 ## Topics
 - Sciences in deep underground laboratories
   - Overview of underground laboratories in the world

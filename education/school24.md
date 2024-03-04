@@ -3,7 +3,7 @@
 <div class="row">
 
 <div class="col-md-6">
-May 13 - May 17, <a href="https://www.sdsmt.edu">South Dakota School of Mines & Technology</a>,
+May 13 - May 18, <a href="https://www.sdsmt.edu">South Dakota School of Mines & Technology</a>,
 <a href="https://www.visitrapidcity.com/">Rapid City</a>,
 <a href="https://www.sd.gov">SD</a>, US,
 in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024</a>.

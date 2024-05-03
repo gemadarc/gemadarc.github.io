@@ -91,7 +91,12 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
   - Geant4 crash course
   - HPGe energy spectrum analysis
 
-## Timetable
+## Location and Timetable
+
+**Classroom**: CB 205 unless specified otherwise
+**Coffee break**: CB 206W
+**Lunch**: Surbeck Center
+
 - May 12, Sunday, arrival
 - May 13, Monday,
   - 8:30 ~ 10:00 Working principles of HPGe detectors
@@ -101,40 +106,27 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
   - 14:00 ~ 15:30 A nuclear physics "puzzle", part 1
   - 15:40 ~ 16:20 Coffee break
   - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 1
-- May 14, Tuesday, partially coincide with [CoSSURF](https://indico.sanfordlab.org/event/68/timetable/#20240514.detailed)
-  - 8:30 ~ 9:00 Culture of Native Americans
-  - 9:00 ~ 9:30 An overview of physics in underground laboratories
-  - 9:30 ~ 10:00 The Sanford Underground Research Facility
-  - 10:00 ~ 10:30 coffee break
-  - 10:30 ~ 11:00 Neutrino Theory Overview
-  - 11:00 ~ 11:30 The Deep Underground Neutrino Experiment DUNE: Prospective Physics Program and Status
-  - 11:30 ~ 12:00 Probing Astro- and Particle Physics with Supernova and Solar Neutrinos at SURF
+- May 14, Tuesday, 
+  - 8:20 ~ 12:00 [CoSSURF Schedule](https://indico.sanfordlab.org/event/68/timetable/#20240514.detailed)
   - 12:15 ~ 14:00 lunch
-  - 14:00 ~ 15:30 A nuclear physics "puzzle", part 2
+  - 14:00 ~ 15:30 A nuclear physics "puzzle", part 2 (CB 203)
   - 15:40 ~ 16:20 Poster session & coffee break
-  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 2
-- May 15, Wednesday, excursion (Mount Rushmore, T-rex in Black Hills Institute, Custer State Park)
-- May 16, Thursday, partially coincide with [CoSSURF](https://indico.sanfordlab.org/event/68/timetable/#20240516.detailed)
-  - 8:30 ~ 9:00 Development of novel germanium detectors for rare event physics searches
-  - 9:00 ~ 9:30 Machine learning in particle physics
-  - 9:30 ~ 10:00 Geotechnical Characterization and Risk Mitigation for the LBNF Project?
-  - 10:00 ~ 10:30 coffee break
-  - 10:30 ~ 11:00 Dark Matter Overview
-  - 11:00 ~ 11:30 Liquid Noble Technologies for Dark Matter Search
-  - 11:30 ~ 12:00 Status of Low-mass WIMP search
+  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 2 (CB 203)
+- May 15, Wednesday,
+  - 9:00 ~ 21:00 excursion (Mount Rushmore, T-rex in Black Hills Institute, Custer State Park)
+- May 16, Thursday, 
+  - 8:30 ~ 12:00 [CoSSURF Schedule](https://indico.sanfordlab.org/event/68/timetable/#20240516.detailed)
   - 12:15 ~ 14:00 lunch
   - 14:00 ~ 15:30 A nuclear physics "puzzle", part 3
   - 15:40 ~ 16:20 Coffee break
   - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 3
-- May 17, Friday, tour to SURF & Deadwood
+- May 17, Friday,
+  - 9:00 ~ 19:00 tour to SURF & Deadwood
 - May 18, Saturday
   - 8:30 ~ 10:00 live demonstration of HPGe detectors in action
   - 10:00 ~ 10:30 coffee break
   - 10:30 ~ 12:00 data analysis
   - 12:15 ~ 14:00 lunch
-  - 14:00 ~ 15:30 A nuclear physics "puzzle", part 4
-  - 15:40 ~ 16:20 coffee break?
-  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 4?
  
 ## Excursions
 May 15. Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm) and other [Black Hills' must sees](https://www.blackhillsbadlands.com/).

@@ -103,13 +103,13 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 
 - May 12, Sunday, arrival
 - May 13, Monday,
-  - 8:30 ~ 10:00 Working principles of HPGe detectors
+  - 8:30 ~ 10:00 Prof. [Dongming][] Mei, Working principles of HPGe detectors
   - 10:00 ~ 10:30 Coffee break
-  - 10:30 ~ 12:00 Machine learning
+  - 10:30 ~ 12:00 [Prof. Matthias Plum](https://www.sdsmt.edu/Directories/Personnel/Profile/Plum,-Matthias/), [Machine learning](https://drive.google.com/file/d/1GioPqU4IVyn_93rb4z5wwTOUcXfk70Iz/view?usp=sharing)
   - 12:15 ~ 14:00 lunch
-  - 14:00 ~ 15:30 A nuclear physics "puzzle", part 1
+  - 14:00 ~ 15:30 Prof. [Mary][] Kidd, A nuclear physics "puzzle", part 1
   - 15:40 ~ 16:20 Coffee break
-  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 1
+  - 16:30 ~ 18:00 Prof. [Jing][] Liu, [Geant4 Monte Carlo Simulation from zero to hero][Geant4], 1
 - May 14, Tuesday, 
   - 8:20 ~ 12:00 [CoSSURF Schedule](https://indico.sanfordlab.org/event/68/timetable/#20240514.detailed)
   - 12:15 ~ 14:00 lunch
@@ -178,7 +178,7 @@ We adopt the [Code of Conduct for APS Meetings](https://www.aps.org/meetings/pol
 [Deng]: http://www.engineeringphysics.tsinghua.edu.cn/publish/epen/1733/2010/20101211163730097209304/20101211163730097209304_.html
 [Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
 [Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
-[Wenqin]: http://www.usd.edu/faculty-and-staff/Wenqin-Xu
+[Geant4]: https://github.com/jintonic/geant4
 [Joel]: http://www.usd.edu/faculty-and-staff/Joel-Sander
 [Guojian]: http://www.usd.edu/faculty-and-staff/Guojian-Wang
 [Bela]: https://www.mpp.mpg.de/en/research/astroparticle-physics-and-cosmology/gerda-detector-neutrino-physics/

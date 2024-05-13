@@ -74,7 +74,7 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 </div><!-- row -->
 
 ## Registration
-[Register here](https://usd-sdbor.nbsstore.net/pire-gemadarc-summer-school-registration-2)! Registration fee: $300, including coffee, lunch, day excursion to black hills' attractives, day trip to SURF, Lead, SD.
+[Register here](https://usd-sdbor.nbsstore.net/pire-gemadarc-summer-school-registration-2)! Registration fee: 300 dollars, including coffee, lunch, day excursion to black hills' attractives, day trip to SURF, Lead, SD.
 
 **NOTE**: Hotel rooms are not included. Participants are expected to arrange their own hotel rooms. If they are not in the hotel suggested on the [CoSSURF 2024 accommodation web page](https://indico.sanfordlab.org/event/68/page/66-accommodation), one may need to arrange his/her own transportation to the campus of [South Dakota School of Mines and Technologies](https://www.sdsmt.edu/).
 
@@ -105,7 +105,7 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 - May 13, Monday,
   - 8:30 ~ 10:00 Prof. [Dongming][] Mei, Working principles of HPGe detectors
   - 10:00 ~ 10:30 Coffee break
-  - 10:30 ~ 12:00 [Prof. Matthias Plum](https://www.sdsmt.edu/Directories/Personnel/Profile/Plum,-Matthias/), [Machine learning](https://drive.google.com/file/d/1GioPqU4IVyn_93rb4z5wwTOUcXfk70Iz/view?usp=sharing)
+  - 10:30 ~ 12:00 [Prof. Matthias Plum](https://www.sdsmt.edu/Directories/Personnel/Profile/Plum,-Matthias/), [Machine learning](https://drive.google.com/file/d/1GioPqU4IVyn_93rb4z5wwTOUcXfk70Iz/view?usp=sharing), <https://playground.tensorflow.org>
   - 12:15 ~ 14:00 lunch
   - 14:00 ~ 15:30 Prof. [Mary][] Kidd, A nuclear physics "puzzle", part 1
   - 15:40 ~ 16:20 Coffee break

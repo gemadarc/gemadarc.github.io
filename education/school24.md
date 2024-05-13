@@ -94,8 +94,12 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 ## Location and Timetable
 
 **Classroom**: CB 205 unless specified otherwise
+
 **Coffee break**: CB 206W
+
 **Lunch**: Surbeck Center
+
+**Anonymous Q&A form**: https://forms.gle/CgUtamkDHF5LJ18GA
 
 - May 12, Sunday, arrival
 - May 13, Monday,

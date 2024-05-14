@@ -99,7 +99,7 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 
 **Lunch**: Surbeck Center
 
-**Anonymous Q&A form**: https://forms.gle/CgUtamkDHF5LJ18GA
+**Anonymous Q&A form**: <https://forms.gle/CgUtamkDHF5LJ18GA>
 
 - May 12, Sunday, arrival
 - May 13, Monday,
@@ -113,26 +113,26 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 - May 14, Tuesday, 
   - 8:20 ~ 12:00 [CoSSURF Schedule](https://indico.sanfordlab.org/event/68/timetable/#20240514.detailed)
   - 12:15 ~ 14:00 lunch
-  - 14:00 ~ 15:30 A nuclear physics "puzzle", part 2 (CB 203)
+  - 14:00 ~ 15:30 Geant4 Monte Carlo Simulation from zero to hero, 2 (CB 203)
   - 15:40 ~ 16:20 Poster session & coffee break
-  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 2 (CB 203)
+  - 16:30 ~ 18:00 A nuclear physics "puzzle", part 2 (CB 203)
 - May 15, Wednesday,
   - 9:00 ~ 21:00 excursion (Mount Rushmore, T-rex in Black Hills Institute, Custer State Park)
-- May 16, Thursday, 
+- May 16, Thursday,
   - 8:30 ~ 12:00 [CoSSURF Schedule](https://indico.sanfordlab.org/event/68/timetable/#20240516.detailed)
   - 12:15 ~ 14:00 lunch
   - 14:00 ~ 15:30 A nuclear physics "puzzle", part 3
   - 15:40 ~ 16:20 Coffee break
-  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 3
+  - 16:30 ~ 18:00 live demonstration of HPGe detectors in action
 - May 17, Friday,
   - 9:00 ~ 19:00 tour to SURF & Deadwood
 - May 18, Saturday
-  - 8:30 ~ 10:00 live demonstration of HPGe detectors in action
+  - 8:30 ~ 10:00 Geant4 Monte Carlo Simulation from zero to hero, 3
   - 10:00 ~ 10:30 coffee break
   - 10:30 ~ 12:00 data analysis
   - 12:15 ~ 14:00 lunch
- 
-## Excursions
+
+## Excursion
 May 15. Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.gov/moru/index.htm) and other [Black Hills' must sees](https://www.blackhillsbadlands.com/).
 
 - 9:30 am, Mount Rushmore
@@ -143,23 +143,23 @@ May 15. Enjoy a day trip to [Mount Rushmore National Memorial](https://www.nps.g
 - 5 pm, [Blue Bell Lodge Hayride & Chuck Wagon Cookout](https://www.custerresorts.com/activities/activities-experiences/hayride-chuck-wagon-cookout)
 - 8:30 pm, return to Rapid City
 
-May 17. A uinique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering.
+May 17. A unique excursion to the deepest underground facility in US, [The Sanford Underground Research Facility](https://sanfordlab.org/) hosting world-leading research experiments in physics, biology, geology and engineering.
 
 **NOTE**: an underground trip may not be possible due to construction. But there is a lot to see and do on surface:
 
-- 10 am, [Wastewater Treatment Plant](https://sanfordlab.org/feature/wastewater-treatment-plant)
-- 12 pm, [Hoistroom](https://sanfordlab.org/article/surf-invests-next-generation-south-dakota-k-12-educators)
-- 1 pm, Lunch at the [Sanford Visitor Center](https://sanfordlab.org/slhvc) (traditional mining pasties)
-- 2 pm, Virtual tour to [BHSU Underground Campus](https://www.bhsu.edu/research/underground-campus/)
-- 3 pm, [Black Hills Mining Museum](https://blackhillsminingmuseum.com/)
-- 4 pm, [Old West experiences in Deadwood](https://www.blackhillsvacations.com/things-to-do/Deadwood-Attractions/suppliers/11708529-Deadwood-Main-Street-Shootouts/)
-- 6 pm, return to Rapid City
+- 8:30 am, leave Rapid City
+- 10 am, Arrive at the Visitor Center for unloading and some exploration
+- 10:15 am, Underground Livestream in the Visitor Center Classroom
+- 11 pm, [Hoistroom](https://sanfordlab.org/article/surf-invests-next-generation-south-dakota-k-12-educators)
+- 12 pm, Lunch at the [Sanford Visitor Center](https://sanfordlab.org/slhvc)
+- 2:30 pm, [Black Hills Mining Museum](https://blackhillsminingmuseum.com/)
+- 4 pm, return to Rapid City
 
-## Organizing committee
+## Organizing Committee
 
 - [Brianna Mount](https://www.bhsu.edu/directory/Faculty-and-Staff/Mount_Brianna), [Black Hills State Unversity](https://www.bhsu.edu), Spearfish, SD, USA
-- [Mary Kidd][Mary], [Tennessee Tech University][TT], Cookeville, TN, USA
 - [Jing Liu][Jing], [University of South Dakota][USD], Vermillion, SD, USA
+- [Dongming Mei][Dongming], [University of South Dakota][USD], Vermillion, SD, USA
 
 The school is co-organized with [CoSSURF 2024](https://indico.sanfordlab.org/event/68). Big thanks to the [CoSSURF 2024 organization committee](https://indico.sanfordlab.org/event/68/page/58-committee)!
 
@@ -171,21 +171,9 @@ The school is co-organized with [CoSSURF 2024](https://indico.sanfordlab.org/eve
 
 We adopt the [Code of Conduct for APS Meetings](https://www.aps.org/meetings/policies/code-conduct.cfm) for our summer school. Please make sure that you are familiar with it before you join the school.
 
-[Tsinghua]: http://www.tsinghua.edu.cn/publish/newthuen/
 [USD]: http://www.usd.edu
-[MPI]: https://www.mpp.mpg.de/en/
-[Iris]:https://www.mpp.mpg.de/en/research/new-technologies/gedet-development-of-germanium-detectors/
-[Deng]: http://www.engineeringphysics.tsinghua.edu.cn/publish/epen/1733/2010/20101211163730097209304/20101211163730097209304_.html
 [Jing]: http://www.usd.edu/faculty-and-staff/Jing-Liu
 [Dongming]: http://www.usd.edu/faculty-and-staff/Dongming-Mei
 [Geant4]: https://github.com/jintonic/geant4
-[Joel]: http://www.usd.edu/faculty-and-staff/Joel-Sander
-[Guojian]: http://www.usd.edu/faculty-and-staff/Guojian-Wang
-[Bela]: https://www.mpp.mpg.de/en/research/astroparticle-physics-and-cosmology/gerda-detector-neutrino-physics/
-[John]: https://users.physics.unc.edu/~jfw/
-[UNC]: http://www.unc.edu/
-[Rusty]: https://engineering.tamu.edu/electrical/people/rharris
-[TAMU]: http://www.tamu.edu/
 [TT]: https://www.tntech.edu/index.php
 [Mary]: https://www.tntech.edu/directory/cas/physics/mary-kidd.php
-[CJPL]: https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory

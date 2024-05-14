@@ -117,6 +117,9 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
     - [What is and Why Geant4](https://forms.gle/xF5Ur4bDzQcZwTaS8)
   - 15:40 ~ 16:20 Poster session & coffee break
   - 16:30 ~ 18:00 A nuclear physics "puzzle", part 2 (CB 203)
+    - [calibration data](https://drive.google.com/drive/folders/15St-lR_jb-u9x7ojgjHjvdlxjxHLC0le?usp=drive_link)
+    - [calibration python script](https://drive.google.com/drive/folders/1fLomxGI4APVH9sBgeklUpZ-dH-vFQiJr?usp=drive_link)
+    - [eye measurement data](https://drive.google.com/drive/folders/1TPf2jxWBtaG9Ft6_DQ_Vrv0QfxhoIAjJ?usp=sharing)
 - May 15, Wednesday,
   - 9:00 ~ 21:00 excursion (Mount Rushmore, T-rex in Black Hills Institute, Custer State Park)
 - May 16, Thursday,

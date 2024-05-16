@@ -127,13 +127,13 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
   - 12:15 ~ 14:00 lunch
   - 14:00 ~ 15:30 A nuclear physics "puzzle", part 3
   - 15:40 ~ 16:20 Coffee break
-  - 16:30 ~ 18:00 live demonstration of HPGe detectors in action
+  - 16:30 ~ 18:00 Geant4 Monte Carlo Simulation from zero to hero, 3
 - May 17, Friday,
-  - 9:00 ~ 19:00 tour to SURF & Deadwood
+  - 9:00 ~ 19:00 tour to SURF, live demonstration of HPGe detectors in action
 - May 18, Saturday
-  - 8:30 ~ 10:00 Geant4 Monte Carlo Simulation from zero to hero, 3
+  - 8:30 ~ 10:00 Geant4 Monte Carlo Simulation from zero to hero, 4
   - 10:00 ~ 10:30 coffee break
-  - 10:30 ~ 12:00 data analysis
+  - 10:30 ~ 12:00 A nuclear physics "puzzle", part 4
   - 12:15 ~ 14:00 lunch
 
 ## Excursion

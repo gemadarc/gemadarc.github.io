@@ -9,7 +9,7 @@ May 13 - May 18, <a href="https://www.sdsmt.edu">South Dakota School of Mines & 
 in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024</a>.
 <ul>
 <li><a href="https://www.accuweather.com/en/us/rapid-city/57701/weather-forecast/330685">Weather</a></li>
-<li><a href="#topics">Topics</a></li>
+<li><a href="#survey">Survey</a></li>
 <li><a href="#timetable">Timetable</a></li>
 <li><a href="#registration">Registration</a></li>
 <li><a href="#excursions">Excursions</a></li>
@@ -78,18 +78,8 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 
 **NOTE**: Hotel rooms are not included. Participants are expected to arrange their own hotel rooms. If they are not in the hotel suggested on the [CoSSURF 2024 accommodation web page](https://indico.sanfordlab.org/event/68/page/66-accommodation), one may need to arrange his/her own transportation to the campus of [South Dakota School of Mines and Technologies](https://www.sdsmt.edu/).
 
-## Topics
-- Sciences in deep underground laboratories
-  - Overview of underground laboratories in the world
-  - Overview of dark matter theories and experiments
-  - Overview of neutrino physics and underground neutrino experiments
-- HPGe technology
-  - Working principles of HPGe detectors
-  - Application of HPGe detectors
-  - live demonstration of HPGe detectors in action
-- Monte Carlo simulation and data analysis
-  - Geant4 crash course
-  - HPGe energy spectrum analysis
+## Survey
+- feedback survey for *A nuclear physics puzzle*: <https://forms.gle/a9cPeijkmGQEVQx77>
 
 ## Location and Timetable
 
@@ -131,9 +121,9 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 - May 17, Friday,
   - 9:00 ~ 19:00 tour to SURF, live demonstration of HPGe detectors in action
 - May 18, Saturday
-  - 8:30 ~ 10:00 Geant4 Monte Carlo Simulation from zero to hero, 4
+  - 8:30 ~ 10:00 A nuclear physics "puzzle", part 4
   - 10:00 ~ 10:30 coffee break
-  - 10:30 ~ 12:00 A nuclear physics "puzzle", part 4
+  - 10:30 ~ 12:00 Geant4 Monte Carlo Simulation from zero to hero, 4
   - 12:15 ~ 14:00 lunch
 
 ## Excursion

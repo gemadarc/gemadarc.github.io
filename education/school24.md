@@ -79,6 +79,7 @@ in parallel with <a href="https://indico.sanfordlab.org/event/68/">CoSSURF 2024<
 **NOTE**: Hotel rooms are not included. Participants are expected to arrange their own hotel rooms. If they are not in the hotel suggested on the [CoSSURF 2024 accommodation web page](https://indico.sanfordlab.org/event/68/page/66-accommodation), one may need to arrange his/her own transportation to the campus of [South Dakota School of Mines and Technologies](https://www.sdsmt.edu/).
 
 ## Survey
+- general survey for the school: <https://forms.gle/1zxQio4RAFRifEqQ9>
 - feedback survey for *A nuclear physics puzzle*: <https://forms.gle/a9cPeijkmGQEVQx77>
 
 ## Location and Timetable
